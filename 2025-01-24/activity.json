@@ -1,0 +1,66 @@
+{
+  "date": "2025-01-24",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 15,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Color.jsx": [
+          {
+            "timestamp": "2025-01-24T16:12:09.551Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Color.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-01-24T16:12:43.279Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0,
+        "json": 1
+      },
+      "changeFrequency": {
+        "16": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Color.jsx",
+        "c:\\Users\\ELITESUN\\Desktop\\React\\.vscode\\settings.json"
+      ],
+      "averageChangeSize": 7.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "jsx"
+  ]
+}
