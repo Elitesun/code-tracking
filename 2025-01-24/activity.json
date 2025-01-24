@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "React": {
-      "totalLinesAdded": 318,
+      "totalLinesAdded": 321,
       "totalLinesRemoved": 25,
-      "totalActiveTime": 78,
+      "totalActiveTime": 82,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Color.jsx": [
           {
@@ -791,6 +791,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-24T21:54:50.019Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Info.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-24T21:58:02.153Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Info.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jsx"
           }
         ]
