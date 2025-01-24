@@ -2,7 +2,7 @@
   "date": "2025-01-24",
   "projects": {
     "React": {
-      "totalLinesAdded": 327,
+      "totalLinesAdded": 328,
       "totalLinesRemoved": 26,
       "totalActiveTime": 88,
       "files": {
@@ -889,6 +889,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-24T22:23:30.864Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Info.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
