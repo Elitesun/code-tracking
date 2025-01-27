@@ -2,7 +2,7 @@
   "date": "2025-01-27",
   "projects": {
     "React": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 56,
       "totalLinesRemoved": 5,
       "totalActiveTime": 18,
       "files": {
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-27T22:12:35.088Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
