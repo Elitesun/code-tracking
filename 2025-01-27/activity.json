@@ -1,0 +1,106 @@
+{
+  "date": "2025-01-27",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx": [
+          {
+            "timestamp": "2025-01-27T21:18:53.846Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:19:05.739Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx": [
+          {
+            "timestamp": "2025-01-27T21:19:58.785Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:21:14.755Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:21:19.718Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 5
+      },
+      "changeFrequency": {
+        "21": 5
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UseEffect.jsx",
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx"
+      ],
+      "averageChangeSize": 7.6
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
