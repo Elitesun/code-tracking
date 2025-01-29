@@ -2,9 +2,9 @@
   "date": "2025-01-29",
   "projects": {
     "React": {
-      "totalLinesAdded": 99,
+      "totalLinesAdded": 113,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 28,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx": [
           {
@@ -358,6 +358,34 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UpdateUser.jsx",
             "fileType": ".jsx",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-29T21:59:08.843Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UpdateUser.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-29T22:00:01.524Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\UpdateUser.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "React",
             "content": {
