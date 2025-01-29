@@ -2,9 +2,9 @@
   "date": "2025-01-29",
   "projects": {
     "React": {
-      "totalLinesAdded": 73,
+      "totalLinesAdded": 74,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 22,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx": [
           {
@@ -263,6 +263,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx": [
+          {
+            "timestamp": "2025-01-29T21:23:15.580Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ]
