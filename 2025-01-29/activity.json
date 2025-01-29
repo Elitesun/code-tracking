@@ -2,7 +2,7 @@
   "date": "2025-01-29",
   "projects": {
     "React": {
-      "totalLinesAdded": 9,
+      "totalLinesAdded": 18,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -33,6 +33,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\ContextHook1.jsx": [
+          {
+            "timestamp": "2025-01-29T20:07:50.972Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\ContextHook1.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
