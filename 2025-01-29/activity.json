@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-29",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 9,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx": [
+          {
+            "timestamp": "2025-01-29T19:45:00.649Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-29T19:45:29.810Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 1
+      },
+      "changeFrequency": {
+        "19": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Createcon.jsx"
+      ],
+      "averageChangeSize": 4.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
