@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43                                          |
+| **Lines Added** (➕)   | 49                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 38                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Net Change** (↕)    | 44                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **Createcon.jsx** (+9, -0)
 - **ContextHook1.jsx** (+9, -0)
 - **UserProfile.jsx** (+9, -0)
-- **UseContext.jsx** (+16, -5)
+- **UseContext.jsx** (+22, -5)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 48
+".jsx" : 54
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 2
-"20h" : 8
+"20h" : 10
 ```
 
 
-> **Last Updated:** 1/29/2025, 8:32:42 PM
+> **Last Updated:** 1/29/2025, 8:47:42 PM
