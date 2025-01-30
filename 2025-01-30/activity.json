@@ -1,0 +1,134 @@
+{
+  "date": "2025-01-30",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 37,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx": [
+          {
+            "timestamp": "2025-01-30T23:29:38.653Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-30T23:29:45.476Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-30T23:30:05.912Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-30T23:31:12.917Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx": [
+          {
+            "timestamp": "2025-01-30T23:30:09.547Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-30T23:30:40.287Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-30T23:30:53.147Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 6
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Meals.jsx",
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx"
+      ],
+      "averageChangeSize": 5.285714285714286
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
