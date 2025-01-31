@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-31",
+  "projects": {
+    "React": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css": [
+          {
+            "timestamp": "2025-01-30T23:58:26.144Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-30T23:58:42.739Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 6
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css"
+      ],
+      "averageChangeSize": 1.5
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "css"
+  ]
+}
