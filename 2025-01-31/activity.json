@@ -2,9 +2,9 @@
   "date": "2025-01-31",
   "projects": {
     "React": {
-      "totalLinesAdded": 65,
+      "totalLinesAdded": 100,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 18,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css": [
           {
@@ -190,6 +190,136 @@
             },
             "duration": 2,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-31T01:09:54.124Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Accordion.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx": [
+          {
+            "timestamp": "2025-01-31T01:08:11.239Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-31T01:08:57.432Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css": [
+          {
+            "timestamp": "2025-01-31T01:09:56.432Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:10:22.648Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:11:21.543Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:12:06.391Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:12:32.102Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:12:43.451Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
