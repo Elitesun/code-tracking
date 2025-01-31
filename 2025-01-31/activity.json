@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 205,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 326,
+      "totalLinesRemoved": 31,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -826,6 +826,20 @@
             "fileType": ".html",
             "linesAdded": 31,
             "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T16:51:18.960Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 31,
             "projectName": "flask",
             "content": {
               "added": [],
@@ -923,6 +937,36 @@
             },
             "duration": 1,
             "language": "html"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\static\\style.css": [
+          {
+            "timestamp": "2025-01-31T16:52:18.969Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\static\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T16:52:41.693Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\static\\style.css",
+            "fileType": ".css",
+            "linesAdded": 120,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
