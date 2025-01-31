@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 1178,
+      "totalLinesAdded": 1237,
       "totalLinesRemoved": 208,
-      "totalActiveTime": 43,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -1000,6 +1000,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:14:33.637Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
