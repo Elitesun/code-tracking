@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 1516,
+      "totalLinesAdded": 1868,
       "totalLinesRemoved": 287,
-      "totalActiveTime": 59,
+      "totalActiveTime": 62,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -851,6 +851,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
             "fileType": ".py",
             "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-31T19:19:27.665Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
+            "fileType": ".py",
+            "linesAdded": 74,
             "linesRemoved": 0,
             "projectName": "flask",
             "content": {
@@ -1271,6 +1285,20 @@
             },
             "duration": 2,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T19:21:20.037Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
+            "fileType": ".html",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html": [
@@ -1370,6 +1398,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T19:20:16.370Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html",
+            "fileType": ".html",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T19:21:05.932Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html",
+            "fileType": ".html",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
