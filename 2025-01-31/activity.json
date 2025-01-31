@@ -3,8 +3,8 @@
   "projects": {
     "React": {
       "totalLinesAdded": 144,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 38,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css": [
           {
@@ -445,6 +445,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T01:19:34.619Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Acc.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ]
