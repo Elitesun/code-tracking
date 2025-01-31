@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 326,
+      "totalLinesAdded": 367,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 11,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -847,6 +847,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T17:01:10.307Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html": [
@@ -869,6 +883,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
             "fileType": ".html",
             "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T17:01:22.790Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
+            "fileType": ".html",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "flask",
             "content": {
@@ -936,6 +964,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T17:05:53.495Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html",
+            "fileType": ".html",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "html"
           }
         ],

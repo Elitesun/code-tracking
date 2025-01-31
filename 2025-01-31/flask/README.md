@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 326                                          |
+| **Lines Added** (➕)   | 367                                          |
 | **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 295                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 336                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **app.py** (+104, -0)
-- **index.html** (+43, -31)
-- **register.html** (+16, -0)
+- **index.html** (+60, -31)
+- **register.html** (+27, -0)
 - **receipt.html** (+20, -0)
-- **payment.html** (+22, -0)
+- **payment.html** (+35, -0)
 - **style.css** (+121, -0)
 
 ## Visualizations
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".py" : 104
-".html" : 132
+".html" : 173
 ".css" : 121
 ```
 
@@ -36,7 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 14
+"17h" : 3
 ```
 
 
-> **Last Updated:** 1/31/2025, 4:55:58 PM
+> **Last Updated:** 1/31/2025, 5:05:58 PM
