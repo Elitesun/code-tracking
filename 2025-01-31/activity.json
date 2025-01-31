@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 367,
+      "totalLinesAdded": 397,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 17,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -788,6 +788,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-31T17:07:48.995Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
@@ -927,6 +941,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
             "fileType": ".html",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T17:06:16.069Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
+            "fileType": ".html",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "flask",
             "content": {
