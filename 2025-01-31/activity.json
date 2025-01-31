@@ -755,6 +755,108 @@
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Meals.css"
       ],
       "averageChangeSize": 1.5
+    },
+    "flask": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
+          {
+            "timestamp": "2025-01-31T16:22:28.133Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html": [
+          {
+            "timestamp": "2025-01-31T16:22:29.265Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html": [
+          {
+            "timestamp": "2025-01-31T16:22:42.413Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html": [
+          {
+            "timestamp": "2025-01-31T16:22:47.553Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html": [
+          {
+            "timestamp": "2025-01-31T16:22:46.955Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0,
+        "html": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
+        "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 6,
