@@ -757,9 +757,9 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 1054,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 1178,
+      "totalLinesRemoved": 208,
+      "totalActiveTime": 43,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py": [
           {
@@ -959,6 +959,48 @@
             },
             "duration": 0,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:12:15.094Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:12:50.817Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 118,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:13:57.682Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 59,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html": [
@@ -1023,6 +1065,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
             "fileType": ".html",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:10:03.516Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\register.html",
+            "fileType": ".html",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "flask",
             "content": {
@@ -1103,6 +1159,20 @@
             },
             "duration": 0,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:09:58.919Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\receipt.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html": [
@@ -1174,6 +1244,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-31T18:09:53.319Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\templates\\payment.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
