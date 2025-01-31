@@ -757,7 +757,7 @@
       "averageChangeSize": 1.5
     },
     "flask": {
-      "totalLinesAdded": 1305,
+      "totalLinesAdded": 1516,
       "totalLinesRemoved": 287,
       "totalActiveTime": 59,
       "files": {
@@ -844,6 +844,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-31T19:04:59.691Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\flask\\app.py",
+            "fileType": ".py",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "flask",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
