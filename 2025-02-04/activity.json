@@ -2,9 +2,9 @@
   "date": "2025-02-04",
   "projects": {
     "React": {
-      "totalLinesAdded": 1,
+      "totalLinesAdded": 68,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\SeperateCounter.jsx": [
           {
@@ -20,6 +20,120 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-04T20:01:02.701Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\SeperateCounter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-04T20:01:17.209Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\SeperateCounter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-04T20:01:38.376Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\SeperateCounter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-04T20:02:18.952Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\SeperateCounter.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Counter.css": [
+          {
+            "timestamp": "2025-02-04T20:03:38.742Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Counter.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-04T20:04:06.771Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Counter.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-04T20:04:49.965Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Counter.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-04T20:05:18.680Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\assets\\Counter.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
