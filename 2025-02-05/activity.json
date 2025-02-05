@@ -357,9 +357,9 @@
       "averageChangeSize": 4
     },
     "React Ecom": {
-      "totalLinesAdded": 318,
+      "totalLinesAdded": 346,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalActiveTime": 22,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Name.jsx": [
           {
@@ -623,6 +623,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\.gitignore": [
+          {
+            "timestamp": "2025-02-05T20:12:56.614Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-05T20:13:06.343Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
