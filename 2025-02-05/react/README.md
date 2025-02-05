@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 110                                          |
+| **Lines Added** (➕)   | 128                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 107                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 125                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,8 @@
 - **vite.config.js** (+10, -0)
 - **index.css** (+2, -0)
 - **settings.json** (+62, -1)
+- **Navigation.jsx** (+9, -0)
+- **Product.jsx** (+9, -0)
 
 ## Visualizations
 
@@ -25,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 10
-".jsx" : 30
+".jsx" : 48
 ".js" : 10
 ".json" : 63
 ```
@@ -37,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 3
 "17h" : 8
-"18h" : 2
+"18h" : 6
 ```
 
 
-> **Last Updated:** 2/5/2025, 6:08:52 PM
+> **Last Updated:** 2/5/2025, 6:38:52 PM

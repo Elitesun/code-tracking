@@ -2,9 +2,9 @@
   "date": "2025-02-05",
   "projects": {
     "React": {
-      "totalLinesAdded": 110,
+      "totalLinesAdded": 128,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 10,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\src\\index.css": [
           {
@@ -196,6 +196,66 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Navigation\\Navigation.jsx": [
+          {
+            "timestamp": "2025-02-05T18:34:19.679Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Navigation\\Navigation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T18:34:25.598Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Navigation\\Navigation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Products\\Product.jsx": [
+          {
+            "timestamp": "2025-02-05T18:35:00.622Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Products\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T18:35:04.564Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\React\\react-d\\components\\Ecom.jsx\\Products\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },
