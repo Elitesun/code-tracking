@@ -357,9 +357,9 @@
       "averageChangeSize": 4
     },
     "React Ecom": {
-      "totalLinesAdded": 346,
+      "totalLinesAdded": 350,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 22,
+      "totalActiveTime": 23,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Name.jsx": [
           {
@@ -623,6 +623,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-02-05T20:25:04.576Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "f:\\React Ecom\\Ecom_Store\\.gitignore": [
@@ -652,6 +666,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-05T20:24:50.260Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ]
