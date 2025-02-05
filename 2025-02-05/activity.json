@@ -357,9 +357,9 @@
       "averageChangeSize": 4
     },
     "React Ecom": {
-      "totalLinesAdded": 412,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 445,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 42,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Name.jsx": [
           {
@@ -511,6 +511,62 @@
             "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
             "fileType": ".jsx",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T21:33:27.275Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T21:35:21.515Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T21:37:09.161Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-05T21:37:22.805Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "React Ecom",
             "content": {
