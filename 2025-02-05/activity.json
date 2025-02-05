@@ -357,9 +357,9 @@
       "averageChangeSize": 4
     },
     "React Ecom": {
-      "totalLinesAdded": 67,
+      "totalLinesAdded": 318,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalActiveTime": 21,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Name.jsx": [
           {
@@ -577,6 +577,52 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "f:\\React Ecom\\.git\\COMMIT_EDITMSG": [
+          {
+            "timestamp": "2025-02-05T19:39:48.928Z",
+            "fileName": "f:\\React Ecom\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
+          {
+            "timestamp": "2025-02-05T19:40:58.739Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-05T19:41:30.128Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
