@@ -35,7 +35,7 @@
       "averageChangeSize": 612
     },
     "React Ecom": {
-      "totalLinesAdded": 103,
+      "totalLinesAdded": 105,
       "totalLinesRemoved": 1,
       "totalActiveTime": 12,
       "files": {
@@ -80,6 +80,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-06T16:28:52.178Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],
