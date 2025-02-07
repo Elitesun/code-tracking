@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-07",
+  "projects": {
+    "React Ecom": {
+      "totalLinesAdded": 233,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\index.html": [
+          {
+            "timestamp": "2025-02-07T08:06:41.287Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\index.html",
+            "fileType": ".html",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\index.html"
+      ],
+      "averageChangeSize": 233
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
