@@ -3,8 +3,8 @@
   "projects": {
     "React Ecom": {
       "totalLinesAdded": 550,
-      "totalLinesRemoved": 130,
-      "totalActiveTime": 50,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 51,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
           {
@@ -443,6 +443,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-08T19:09:47.914Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
