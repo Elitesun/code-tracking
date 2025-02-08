@@ -3,7 +3,7 @@
   "projects": {
     "React Ecom": {
       "totalLinesAdded": 549,
-      "totalLinesRemoved": 90,
+      "totalLinesRemoved": 91,
       "totalActiveTime": 44,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
@@ -417,6 +417,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-08T16:01:42.115Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\assets\\data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
