@@ -2,7 +2,7 @@
   "date": "2025-02-08",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 1030,
+      "totalLinesAdded": 1091,
       "totalLinesRemoved": 133,
       "totalActiveTime": 67,
       "files": {
@@ -761,6 +761,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx": [
+          {
+            "timestamp": "2025-02-08T21:59:17.722Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
