@@ -2,9 +2,9 @@
   "date": "2025-02-09",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 1,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 34,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-09T16:50:30.946Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\index.css": [
+          {
+            "timestamp": "2025-02-09T16:48:02.158Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ]
       },
