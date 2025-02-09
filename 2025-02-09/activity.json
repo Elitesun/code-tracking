@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-09",
+  "projects": {
+    "React Ecom": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
+          {
+            "timestamp": "2025-02-08T23:56:28.298Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
