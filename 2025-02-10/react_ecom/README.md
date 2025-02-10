@@ -4,24 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 579                                          |
-| **Lines Removed** (➖) | 104                                        |
-| **Net Change** (↕)    | 475                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 722                                          |
+| **Lines Removed** (➖) | 126                                        |
+| **Net Change** (↕)    | 596                |
+| **Active Time** (⌚)   | 89 minutes |
 
 
 ## Modified Files
-- **Sidebar.jsx** (+51, -1)
-- **Color.jsx** (+9, -0)
+- **Sidebar.jsx** (+53, -1)
+- **Color.jsx** (+73, -0)
 - **ProductRow.tsx** (+1, -0)
 - **App.jsx** (+57, -6)
 - **Nav.jsx** (+122, -0)
-- **Category.jsx** (+78, -26)
+- **Category.jsx** (+87, -46)
 - **Product.jsx** (+75, -0)
 - **Recon.jsx** (+21, -2)
 - **Input.jsx** (+11, -0)
 - **index.css** (+102, -69)
-- **Category.css** (+52, -0)
+- **Category.css** (+73, -0)
+- **Price.jsx** (+47, -2)
 
 ## Visualizations
 
@@ -30,9 +31,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 459
+".jsx" : 603
 ".tsx" : 1
-".css" : 223
+".css" : 244
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +47,8 @@ title Coding activity by hour (count of changes)
 "13h" : 3
 "21h" : 1
 "22h" : 16
-"23h" : 13
+"23h" : 22
 ```
 
 
-> **Last Updated:** 2/10/2025, 11:20:18 PM
+> **Last Updated:** 2/10/2025, 11:30:18 PM
