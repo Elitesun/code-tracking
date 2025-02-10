@@ -2,9 +2,9 @@
   "date": "2025-02-10",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 22,
+      "totalLinesAdded": 63,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 13,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx": [
           {
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-10T12:32:14.846Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-10T12:34:09.150Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ],
@@ -80,6 +108,50 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\App.jsx": [
+          {
+            "timestamp": "2025-02-10T12:34:15.875Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-10T12:36:21.899Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-10T12:36:36.683Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },
