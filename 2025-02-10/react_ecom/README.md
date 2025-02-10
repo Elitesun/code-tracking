@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 405                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 401                |
-| **Active Time** (⌚)   | 38 minutes |
+| **Lines Added** (➕)   | 448                                          |
+| **Lines Removed** (➖) | 29                                        |
+| **Net Change** (↕)    | 419                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,11 @@
 - **ProductRow.tsx** (+1, -0)
 - **App.jsx** (+30, -4)
 - **Nav.jsx** (+122, -0)
-- **Category.jsx** (+18, -0)
+- **Category.jsx** (+61, -21)
 - **Product.jsx** (+75, -0)
 - **Recon.jsx** (+20, -0)
 - **Input.jsx** (+11, -0)
-- **index.css** (+69, -0)
+- **index.css** (+69, -4)
 
 ## Visualizations
 
@@ -29,9 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 339
+".jsx" : 403
 ".tsx" : 1
-".css" : 69
+".css" : 73
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "12h" : 11
 "13h" : 3
 "21h" : 1
-"22h" : 6
+"22h" : 11
 ```
 
 
-> **Last Updated:** 2/10/2025, 10:30:18 PM
+> **Last Updated:** 2/10/2025, 10:40:18 PM
