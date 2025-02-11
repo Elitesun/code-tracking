@@ -1,0 +1,136 @@
+{
+  "date": "2025-02-11",
+  "projects": {
+    "React Ecom": {
+      "totalLinesAdded": 329,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
+          {
+            "timestamp": "2025-02-11T10:00:23.258Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-11T10:01:33.960Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-11T10:04:22.365Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-11T10:05:41.079Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-11T10:07:12.215Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Price.jsx": [
+          {
+            "timestamp": "2025-02-11T10:00:31.467Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Price.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-11T10:02:28.347Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Price.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "jsx": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+        "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Price.jsx"
+      ],
+      "averageChangeSize": 47.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "jsx",
+    "json"
+  ]
+}
