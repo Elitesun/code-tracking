@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 429                                          |
+| **Lines Added** (➕)   | 452                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 428                |
+| **Net Change** (↕)    | 451                |
 | **Active Time** (⌚)   | 12 minutes |
 
 
@@ -17,6 +17,7 @@
 - **Buttons.jsx** (+9, -0)
 - **App.jsx** (+26, -0)
 - **index.css** (+44, -0)
+- **Category.jsx** (+23, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 277
-".jsx" : 109
+".jsx" : 132
 ".css" : 44
 ```
 
@@ -36,7 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 16
+"12h" : 1
 ```
 
 
-> **Last Updated:** 2/11/2025, 10:45:14 AM
+> **Last Updated:** 2/11/2025, 12:45:16 PM
