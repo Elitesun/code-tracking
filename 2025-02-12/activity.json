@@ -2,9 +2,9 @@
   "date": "2025-02-12",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 60,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 347,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 23,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\App.jsx": [
           {
@@ -146,6 +146,34 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-12T07:48:45.302Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-12T07:49:13.182Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
@@ -178,6 +206,22 @@
             },
             "duration": 0,
             "language": "jsx"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\assets\\data.js": [
+          {
+            "timestamp": "2025-02-12T07:52:39.526Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\assets\\data.js",
+            "fileType": ".js",
+            "linesAdded": 286,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
           }
         ]
       },
