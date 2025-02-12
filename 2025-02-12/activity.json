@@ -2,9 +2,9 @@
   "date": "2025-02-12",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 430,
+      "totalLinesAdded": 721,
       "totalLinesRemoved": 19,
-      "totalActiveTime": 24,
+      "totalActiveTime": 36,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\App.jsx": [
           {
@@ -249,6 +249,100 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-12T08:46:03.001Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\assets\\data.js",
+            "fileType": ".js",
+            "linesAdded": 286,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\App.js": [
+          {
+            "timestamp": "2025-02-12T08:50:56.917Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\components\\Nav.js": [
+          {
+            "timestamp": "2025-02-12T08:50:59.109Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\components\\Nav.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\components\\Color.js": [
+          {
+            "timestamp": "2025-02-12T08:51:03.048Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\components\\Color.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\components\\Category.js": [
+          {
+            "timestamp": "2025-02-12T08:51:01.437Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\components\\Category.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\components\\PriceRecon.js": [
+          {
+            "timestamp": "2025-02-12T08:51:10.919Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\components\\PriceRecon.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
