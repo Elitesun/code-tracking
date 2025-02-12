@@ -634,9 +634,9 @@
       "averageChangeSize": 129.8
     },
     "EliteGPT": {
-      "totalLinesAdded": 14,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 119,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 3,
       "files": {
         "f:\\EliteGPT\\ElitesGPT\\index.html": [
           {
@@ -652,6 +652,66 @@
             },
             "duration": 0,
             "language": "html"
+          }
+        ],
+        "f:\\EliteGPT\\ElitesGPT\\src\\App.jsx": [
+          {
+            "timestamp": "2025-02-12T10:12:14.970Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-12T10:12:23.296Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "f:\\EliteGPT\\ElitesGPT\\src\\index.css": [
+          {
+            "timestamp": "2025-02-12T10:12:28.453Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-12T10:12:31.384Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 68,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
