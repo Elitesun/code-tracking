@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 521                                          |
+| **Lines Added** (➕)   | 550                                          |
 | **Lines Removed** (➖) | 144                                        |
-| **Net Change** (↕)    | 377                |
-| **Active Time** (⌚)   | 80 minutes |
+| **Net Change** (↕)    | 406                |
+| **Active Time** (⌚)   | 82 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **index.css** (+101, -79)
 - **vite.config.js** (+11, -0)
 - **Sidebar.jsx** (+26, -0)
-- **Sidebar.jsx** (+31, -2)
+- **Sidebar.jsx** (+60, -2)
 - **NewChat.jsx** (+35, -21)
 - **package.json** (+32, -0)
 - **Hsitory.jsx** (+12, -0)
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".html" : 50
-".jsx" : 234
+".jsx" : 263
 ".css" : 180
 ".js" : 11
 ".json" : 190
@@ -49,8 +49,8 @@ title Coding activity by hour (count of changes)
 "12h" : 15
 "13h" : 14
 "16h" : 8
-"17h" : 11
+"17h" : 12
 ```
 
 
-> **Last Updated:** 2/12/2025, 5:54:32 PM
+> **Last Updated:** 2/12/2025, 6:04:32 PM

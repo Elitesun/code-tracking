@@ -634,9 +634,9 @@
       "averageChangeSize": 129.8
     },
     "EliteGPT": {
-      "totalLinesAdded": 521,
+      "totalLinesAdded": 550,
       "totalLinesRemoved": 144,
-      "totalActiveTime": 80,
+      "totalActiveTime": 82,
       "files": {
         "f:\\EliteGPT\\ElitesGPT\\index.html": [
           {
@@ -1151,6 +1151,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-12T17:54:59.477Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ],
