@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-13",
+  "projects": {
+    "EliteGPT": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
+          {
+            "timestamp": "2025-02-13T07:29:31.019Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
