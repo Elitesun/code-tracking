@@ -107,9 +107,9 @@
       "averageChangeSize": 1
     },
     "saved code": {
-      "totalLinesAdded": 18,
+      "totalLinesAdded": 23,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\saved code\\Javascripts\\checking if a string starts with something.txt": [
           {
@@ -125,6 +125,36 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\saved code\\python\\is_integer()": [
+          {
+            "timestamp": "2025-02-13T10:15:19.619Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\saved code\\python\\is_integer()",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "saved code",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-02-13T10:15:28.611Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\saved code\\python\\is_integer()",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "saved code",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
