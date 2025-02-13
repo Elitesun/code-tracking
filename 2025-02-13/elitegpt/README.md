@@ -4,18 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 121                                          |
+| **Lines Added** (➕)   | 141                                          |
 | **Lines Removed** (➖) | 19                                        |
-| **Net Change** (↕)    | 102                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 122                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
-- **Sidebar.jsx** (+63, -18)
+- **Sidebar.jsx** (+67, -18)
 - **index.html** (+20, -1)
 - **index.css** (+17, -0)
 - **Bottom.jsx** (+9, -0)
 - **Top.jsx** (+12, -0)
+- **History.jsx** (+16, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 102
+".jsx" : 122
 ".html" : 21
 ".css" : 17
 ```
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "07h" : 1
 "08h" : 5
 "16h" : 8
-"17h" : 1
+"17h" : 4
 ```
 
 
-> **Last Updated:** 2/13/2025, 5:00:50 PM
+> **Last Updated:** 2/13/2025, 5:10:50 PM
