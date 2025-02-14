@@ -2,9 +2,9 @@
   "date": "2025-02-14",
   "projects": {
     "EliteGPT": {
-      "totalLinesAdded": 123,
+      "totalLinesAdded": 208,
       "totalLinesRemoved": 32,
-      "totalActiveTime": 46,
+      "totalActiveTime": 54,
       "files": {
         "f:\\EliteGPT\\ElitesGPT\\src\\index.css": [
           {
@@ -444,6 +444,34 @@
             },
             "duration": 5,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-14T02:39:36.362Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-14T02:41:11.042Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
           }
         ],
         "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
@@ -473,6 +501,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-14T02:46:11.334Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "f:\\EliteGPT\\ElitesGPT\\src\\App.jsx": [
+          {
+            "timestamp": "2025-02-14T02:44:47.113Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jsx"
           }
         ]
