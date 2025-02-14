@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 375                                          |
-| **Lines Removed** (➖) | 54                                        |
-| **Net Change** (↕)    | 321                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 404                                          |
+| **Lines Removed** (➖) | 58                                        |
+| **Net Change** (↕)    | 346                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
 - **index.css** (+17, -16)
 - **History.jsx** (+1, -2)
-- **Main.jsx** (+113, -13)
+- **Main.jsx** (+127, -13)
 - **Sidebar.jsx** (+63, -1)
 - **App.jsx** (+16, -0)
 - **Gemini.jsx** (+35, -0)
 - **Gemini.js** (+51, -18)
 - **package.json** (+33, -0)
 - **c** (+3, -0)
-- **Context.jsx** (+28, -4)
+- **Context.jsx** (+43, -8)
 - **main.jsx** (+12, -0)
 - **.env** (+1, -0)
 - **.env** (+2, -0)
@@ -33,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 33
-".jsx" : 288
+".jsx" : 321
 ".js" : 69
 ".json" : 33
 "unknown" : 6
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "01h" : 5
 "02h" : 15
 "17h" : 25
-"18h" : 13
+"18h" : 20
 ```
 
 
-> **Last Updated:** 2/14/2025, 6:32:49 PM
+> **Last Updated:** 2/14/2025, 6:42:49 PM
