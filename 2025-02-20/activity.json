@@ -1,0 +1,61 @@
+{
+  "date": "2025-02-20",
+  "projects": {
+    "GymManager": {
+      "totalLinesAdded": 498,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java": [
+          {
+            "timestamp": "2025-02-20T16:20:44.252Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 477,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T16:22:29.865Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java"
+      ],
+      "averageChangeSize": 249
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}
