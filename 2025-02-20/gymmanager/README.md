@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1156                                          |
-| **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 1135                |
+| **Lines Removed** (➖) | 26                                        |
+| **Net Change** (↕)    | 1130                |
 | **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
-- **GAbonne.java** (+514, -5)
+- **GAbonne.java** (+514, -10)
 - **GAbonnement.java** (+255, -0)
 - **Abonne.java** (+121, -16)
 - **DAOException.java** (+12, -0)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1177
+".java" : 1182
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "17h" : 2
 "18h" : 1
 "20h" : 1
-"21h" : 2
+"21h" : 4
 ```
 
 
-> **Last Updated:** 2/20/2025, 9:15:32 PM
+> **Last Updated:** 2/20/2025, 9:25:32 PM

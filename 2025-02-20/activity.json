@@ -3,7 +3,7 @@
   "projects": {
     "GymManager": {
       "totalLinesAdded": 1156,
-      "totalLinesRemoved": 21,
+      "totalLinesRemoved": 26,
       "totalActiveTime": 32,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java": [
@@ -69,6 +69,34 @@
             "fileType": ".java",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T21:19:43.054Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T21:25:14.463Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "GymManager",
             "content": {
               "added": [],
