@@ -682,9 +682,9 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 1386,
+      "totalLinesAdded": 1874,
       "totalLinesRemoved": 56,
-      "totalActiveTime": 28,
+      "totalActiveTime": 37,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
           {
@@ -1005,6 +1005,66 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Dashboard.java": [
+          {
+            "timestamp": "2025-02-20T23:32:32.946Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Dashboard.java",
+            "fileType": ".java",
+            "linesAdded": 276,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
+          {
+            "timestamp": "2025-02-20T23:35:42.823Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:36:03.752Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java",
+            "fileType": ".java",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:37:44.799Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java",
+            "fileType": ".java",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]
