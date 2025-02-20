@@ -682,9 +682,9 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 1874,
-      "totalLinesRemoved": 56,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 2202,
+      "totalLinesRemoved": 57,
+      "totalActiveTime": 43,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
           {
@@ -1006,6 +1006,20 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:52:03.424Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\AbonnementDAO.java",
+            "fileType": ".java",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Dashboard.java": [
@@ -1059,6 +1073,36 @@
             "fileType": ".java",
             "linesAdded": 206,
             "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\Souscriptions.java": [
+          {
+            "timestamp": "2025-02-20T23:47:34.117Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\Souscriptions.java",
+            "fileType": ".java",
+            "linesAdded": 314,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:48:52.493Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\Souscriptions.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Projet",
             "content": {
               "added": [],
