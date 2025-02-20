@@ -683,7 +683,7 @@
     },
     "Projet": {
       "totalLinesAdded": 1243,
-      "totalLinesRemoved": 16,
+      "totalLinesRemoved": 31,
       "totalActiveTime": 23,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
@@ -905,6 +905,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T22:44:48.566Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
