@@ -4,17 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 875                                          |
+| **Lines Added** (➕)   | 1017                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 875                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Net Change** (↕)    | 1017                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
 - **GAbonne.java** (+498, -0)
 - **GAbonnement.java** (+255, -0)
 - **Abonne.java** (+121, -0)
-- **DAOException.java** (+1, -0)
+- **DAOException.java** (+12, -0)
+- **DataAccessException.java** (+12, -0)
+- **DataNotFoundException.java** (+12, -0)
+- **DataValidationException.java** (+12, -0)
+- **AbonneDAO.java** (+95, -0)
 
 ## Visualizations
 
@@ -23,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 875
+".java" : 1017
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 7
+"16h" : 15
 ```
 
 
-> **Last Updated:** 2/20/2025, 4:44:57 PM
+> **Last Updated:** 2/20/2025, 4:54:57 PM
