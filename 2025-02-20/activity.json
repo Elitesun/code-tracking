@@ -682,8 +682,8 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 142,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 153,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
@@ -693,6 +693,34 @@
             "fileType": ".java",
             "linesAdded": 142,
             "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T21:55:50.267Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java",
+            "fileType": ".java",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T22:02:17.524Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Projet",
             "content": {
               "added": [],
