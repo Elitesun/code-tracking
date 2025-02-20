@@ -2,7 +2,7 @@
   "date": "2025-02-20",
   "projects": {
     "GymManager": {
-      "totalLinesAdded": 1054,
+      "totalLinesAdded": 1058,
       "totalLinesRemoved": 16,
       "totalActiveTime": 31,
       "files": {
@@ -40,6 +40,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
             "fileType": ".java",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:09:10.353Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "GymManager",
             "content": {
@@ -285,6 +299,313 @@
         "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java"
       ],
       "averageChangeSize": 249
+    },
+    "Gym": {
+      "totalLinesAdded": 376,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 17,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonne.java": [
+          {
+            "timestamp": "2025-02-20T18:05:41.000Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonne.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:48.689Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonne.java",
+            "fileType": ".java",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonnement.java": [
+          {
+            "timestamp": "2025-02-20T18:05:44.385Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonnement.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:48.041Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonnement.java",
+            "fileType": ".java",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\DatabaseConnection.java": [
+          {
+            "timestamp": "2025-02-20T18:06:07.197Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\DatabaseConnection.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:48.362Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\DatabaseConnection.java",
+            "fileType": ".java",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonneDAO.java": [
+          {
+            "timestamp": "2025-02-20T18:06:08.027Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonneDAO.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:47.628Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonneDAO.java",
+            "fileType": ".java",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Main.java": [
+          {
+            "timestamp": "2025-02-20T18:06:12.465Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonnementDAO.java": [
+          {
+            "timestamp": "2025-02-20T18:06:11.300Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonnementDAO.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:47.603Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonnementDAO.java",
+            "fileType": ".java",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\SouscriptionDAO.java": [
+          {
+            "timestamp": "2025-02-20T18:06:11.026Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\SouscriptionDAO.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:47.563Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\SouscriptionDAO.java",
+            "fileType": ".java",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Souscription.java": [
+          {
+            "timestamp": "2025-02-20T18:06:13.842Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Souscription.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:47.692Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\Souscription.java",
+            "fileType": ".java",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\LoginFrame.java": [
+          {
+            "timestamp": "2025-02-20T18:06:18.022Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\LoginFrame.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:01.297Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\LoginFrame.java",
+            "fileType": ".java",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\MainFrame.java": [
+          {
+            "timestamp": "2025-02-20T18:06:19.476Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\MainFrame.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T18:07:47.439Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Gym\\MainFrame.java",
+            "fileType": ".java",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Gym",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 17
+      },
+      "changeFrequency": {
+        "18": 17
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonne.java",
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\Abonnement.java",
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\DatabaseConnection.java",
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonneDAO.java",
+        "c:\\Users\\ELITESUN\\Desktop\\Gym\\AbonnementDAO.java"
+      ],
+      "averageChangeSize": 19.789473684210527
     }
   },
   "totalActiveTime": 2,
