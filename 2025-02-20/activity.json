@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "GymManager": {
-      "totalLinesAdded": 753,
+      "totalLinesAdded": 875,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Frontend\\GAbonne.java": [
           {
@@ -63,6 +63,52 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Model\\Abonne.java": [
+          {
+            "timestamp": "2025-02-20T16:36:39.163Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Model\\Abonne.java",
+            "fileType": ".java",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T16:40:12.156Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\Model\\Abonne.java",
+            "fileType": ".java",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\dao\\exceptions\\DAOException.java": [
+          {
+            "timestamp": "2025-02-20T16:44:50.060Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\GymManager\\src\\dao\\exceptions\\DAOException.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GymManager",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ]
