@@ -682,9 +682,9 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 1243,
+      "totalLinesAdded": 1360,
       "totalLinesRemoved": 55,
-      "totalActiveTime": 23,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
           {
@@ -933,6 +933,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:21:37.782Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\AbonnementDAO.java": [
+          {
+            "timestamp": "2025-02-20T23:13:30.359Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\AbonnementDAO.java",
+            "fileType": ".java",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T23:13:43.875Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\AbonnementDAO.java",
+            "fileType": ".java",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]
