@@ -682,7 +682,7 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 294,
+      "totalLinesAdded": 445,
       "totalLinesRemoved": 10,
       "totalActiveTime": 9,
       "files": {
@@ -785,6 +785,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnes\\AjouterAbonne.java": [
+          {
+            "timestamp": "2025-02-20T22:20:44.296Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnes\\AjouterAbonne.java",
+            "fileType": ".java",
+            "linesAdded": 151,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
