@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1058                                          |
+| **Lines Added** (➕)   | 1156                                          |
 | **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 1037                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 1135                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **DataNotFoundException.java** (+12, -0)
 - **DataValidationException.java** (+12, -0)
 - **AbonneDAO.java** (+120, -0)
+- **GymManager.java** (+44, -0)
+- **Main.java** (+54, -0)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 1079
+".java" : 1177
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,7 +41,8 @@ title Coding activity by hour (count of changes)
 "17h" : 2
 "18h" : 1
 "20h" : 1
+"21h" : 2
 ```
 
 
-> **Last Updated:** 2/20/2025, 9:05:32 PM
+> **Last Updated:** 2/20/2025, 9:15:32 PM
