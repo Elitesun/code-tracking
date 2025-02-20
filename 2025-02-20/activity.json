@@ -682,9 +682,9 @@
       "averageChangeSize": 19.789473684210527
     },
     "Projet": {
-      "totalLinesAdded": 858,
+      "totalLinesAdded": 1243,
       "totalLinesRemoved": 16,
-      "totalActiveTime": 18,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Connexion.java": [
           {
@@ -875,6 +875,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java": [
+          {
+            "timestamp": "2025-02-20T22:35:00.472Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 366,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-20T22:39:11.594Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ]
