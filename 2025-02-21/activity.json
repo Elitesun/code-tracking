@@ -3,8 +3,8 @@
   "projects": {
     "Projet": {
       "totalLinesAdded": 2715,
-      "totalLinesRemoved": 57,
-      "totalActiveTime": 110,
+      "totalLinesRemoved": 79,
+      "totalActiveTime": 113,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
           {
@@ -520,6 +520,20 @@
             },
             "duration": 2,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T07:52:33.248Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\AjouterSouscription.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\ModifierSouscription.java": [
@@ -647,6 +661,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T07:52:22.024Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\ModifierSouscription.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
@@ -806,6 +834,20 @@
             },
             "duration": 0,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T07:52:33.413Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\SouscriptionDAO.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\model\\Souscription.java": [
@@ -835,6 +877,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T07:52:33.091Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\model\\Souscription.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
