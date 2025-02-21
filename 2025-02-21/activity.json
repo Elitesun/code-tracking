@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "Projet": {
-      "totalLinesAdded": 356,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 359,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 38,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
           {
@@ -221,6 +221,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java": [
+          {
+            "timestamp": "2025-02-21T00:53:37.343Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T01:01:12.049Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnements\\Abonnements.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]
