@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "Projet": {
-      "totalLinesAdded": 1976,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 90,
+      "totalLinesAdded": 2182,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 96,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
           {
@@ -119,6 +119,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T06:55:46.991Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Statistiques.java",
+            "fileType": ".java",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T06:56:29.981Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Statistiques.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
