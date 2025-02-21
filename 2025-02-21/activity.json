@@ -1281,6 +1281,129 @@
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\Statistiques.java"
       ],
       "averageChangeSize": 38.5
+    },
+    "EliteGPT": {
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 8,
+      "files": {
+        "f:\\EliteGPT\\ElitesGPT\\src\\context\\Context.jsx": [
+          {
+            "timestamp": "2025-02-21T20:47:14.750Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\context\\Context.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
+          {
+            "timestamp": "2025-02-21T20:48:04.787Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T20:48:35.111Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T20:49:21.606Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T20:50:35.313Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T20:51:00.216Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\History.jsx": [
+          {
+            "timestamp": "2025-02-21T20:52:41.856Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\History.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 8
+      },
+      "changeFrequency": {
+        "20": 8
+      },
+      "topFiles": [
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+        "f:\\EliteGPT\\ElitesGPT\\src\\context\\Context.jsx",
+        "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\History.jsx"
+      ],
+      "averageChangeSize": 21.285714285714285
     }
   },
   "totalActiveTime": 14,
