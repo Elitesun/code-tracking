@@ -2,7 +2,7 @@
   "date": "2025-02-21",
   "projects": {
     "Projet": {
-      "totalLinesAdded": 220,
+      "totalLinesAdded": 221,
       "totalLinesRemoved": 12,
       "totalActiveTime": 21,
       "files": {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:13:40.115Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],
