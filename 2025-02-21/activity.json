@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "Projet": {
-      "totalLinesAdded": 2730,
+      "totalLinesAdded": 2731,
       "totalLinesRemoved": 79,
-      "totalActiveTime": 113,
+      "totalActiveTime": 115,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
           {
@@ -789,6 +789,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T08:04:10.183Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\souscriptions\\Souscriptions.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],
