@@ -3,7 +3,7 @@
   "projects": {
     "Projet": {
       "totalLinesAdded": 326,
-      "totalLinesRemoved": 12,
+      "totalLinesRemoved": 21,
       "totalActiveTime": 21,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\interfaces\\Dashboard.java": [
@@ -129,6 +129,22 @@
             "fileType": ".java",
             "linesAdded": 105,
             "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnes\\Abonnes.java": [
+          {
+            "timestamp": "2025-02-21T00:40:47.040Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\abonnes\\Abonnes.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 9,
             "projectName": "Projet",
             "content": {
               "added": [],
