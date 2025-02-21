@@ -2,7 +2,7 @@
   "date": "2025-02-21",
   "projects": {
     "Projet": {
-      "totalLinesAdded": 2689,
+      "totalLinesAdded": 2701,
       "totalLinesRemoved": 57,
       "totalActiveTime": 104,
       "files": {
@@ -742,6 +742,20 @@
             "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\SouscriptionDAO.java",
             "fileType": ".java",
             "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "Projet",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T07:32:59.365Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Projet\\src\\dao\\SouscriptionDAO.java",
+            "fileType": ".java",
+            "linesAdded": 12,
             "linesRemoved": 0,
             "projectName": "Projet",
             "content": {
