@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2715                                          |
+| **Lines Added** (➕)   | 2730                                          |
 | **Lines Removed** (➖) | 79                                        |
-| **Net Change** (↕)    | 2636                |
+| **Net Change** (↕)    | 2651                |
 | **Active Time** (⌚)   | 113 minutes |
 
 
@@ -18,7 +18,7 @@
 - **Abonnements.java** (+6, -4)
 - **AjouterSouscription.java** (+475, -3)
 - **ModifierSouscription.java** (+537, -2)
-- **Souscriptions.java** (+323, -9)
+- **Souscriptions.java** (+338, -9)
 - **SouscriptionDAO.java** (+338, -6)
 - **Souscription.java** (+117, -12)
 - **AbonneDAO.java** (+201, -0)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 2794
+".java" : 2809
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,9 @@ title Coding activity by hour (count of changes)
 "02h" : 3
 "06h" : 14
 "07h" : 17
+"08h" : 1
 "23h" : 5
 ```
 
 
-> **Last Updated:** 2/21/2025, 7:53:09 AM
+> **Last Updated:** 2/21/2025, 8:03:17 AM
