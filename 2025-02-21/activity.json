@@ -1283,9 +1283,9 @@
       "averageChangeSize": 38.5
     },
     "EliteGPT": {
-      "totalLinesAdded": 320,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 329,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 25,
       "files": {
         "f:\\EliteGPT\\ElitesGPT\\src\\context\\Context.jsx": [
           {
@@ -1373,6 +1373,62 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T21:10:56.034Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T21:11:47.415Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T21:12:26.324Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T21:12:57.000Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\History.jsx": [
@@ -1402,6 +1458,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-21T21:13:14.426Z",
+            "fileName": "f:\\EliteGPT\\ElitesGPT\\src\\Components\\Sider\\History.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "EliteGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
