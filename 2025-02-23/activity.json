@@ -1,0 +1,78 @@
+{
+  "date": "2025-02-23",
+  "projects": {
+    "ElitesGPT": {
+      "totalLinesAdded": 214,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Main.jsx": [
+          {
+            "timestamp": "2025-02-23T03:17:30.750Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
+          {
+            "timestamp": "2025-02-23T03:22:44.291Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-23T03:22:49.664Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 1
+      },
+      "changeFrequency": {
+        "3": 1
+      },
+      "topFiles": [
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Main.jsx"
+      ],
+      "averageChangeSize": 71.66666666666667
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    3
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
