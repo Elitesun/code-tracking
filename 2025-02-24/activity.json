@@ -3,7 +3,7 @@
   "projects": {
     "ElitesGPT": {
       "totalLinesAdded": 462,
-      "totalLinesRemoved": 220,
+      "totalLinesRemoved": 249,
       "totalActiveTime": 43,
       "files": {
         "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
@@ -401,6 +401,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-24T09:10:59.462Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
