@@ -2,9 +2,9 @@
   "date": "2025-03-01",
   "projects": {
     "React Ecom": {
-      "totalLinesAdded": 394,
+      "totalLinesAdded": 613,
       "totalLinesRemoved": 91,
-      "totalActiveTime": 24,
+      "totalActiveTime": 33,
       "files": {
         "f:\\React Ecom\\Ecom_Store\\src\\Products\\Product.jsx": [
           {
@@ -190,6 +190,48 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-01T12:59:57.397Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-01T13:01:18.115Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-01T13:02:09.101Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "f:\\React Ecom\\Ecom_Store\\src\\Sidebar\\Sidebar_backup.jsx": [
@@ -278,6 +320,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-01T12:57:58.536Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx": [
@@ -308,6 +364,64 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-01T12:57:52.177Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\Navigation\\Nav.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "f:\\React Ecom\\Ecom_Store\\src\\index.css": [
+          {
+            "timestamp": "2025-03-01T13:03:06.279Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-01T13:04:06.015Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-01T13:04:22.028Z",
+            "fileName": "f:\\React Ecom\\Ecom_Store\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "React Ecom",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
