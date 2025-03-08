@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "ElitesGPT": {
-      "totalLinesAdded": 80,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 81,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
       "files": {
         "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
           {
@@ -47,6 +47,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-08T21:15:54.198Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-08T21:16:20.824Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]
