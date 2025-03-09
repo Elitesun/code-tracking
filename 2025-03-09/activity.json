@@ -227,9 +227,9 @@
       "averageChangeSize": 23.666666666666668
     },
     "Fakeme": {
-      "totalLinesAdded": 154,
+      "totalLinesAdded": 157,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 19,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json": [
           {
@@ -358,6 +358,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-09T01:12:22.040Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-09T01:13:36.853Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
