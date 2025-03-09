@@ -227,9 +227,9 @@
       "averageChangeSize": 23.666666666666668
     },
     "Fakeme": {
-      "totalLinesAdded": 186,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 200,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json": [
           {
@@ -342,6 +342,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:57:17.015Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
@@ -499,6 +513,20 @@
             },
             "duration": 4,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-09T02:00:04.499Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\data.json": [
@@ -558,6 +586,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:57:17.031Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
