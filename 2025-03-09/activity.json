@@ -225,6 +225,203 @@
         "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx"
       ],
       "averageChangeSize": 23.666666666666668
+    },
+    "Fakeme": {
+      "totalLinesAdded": 154,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 19,
+      "files": {
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json": [
+          {
+            "timestamp": "2025-03-09T01:02:10.349Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:02:26.228Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:03:26.839Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:04:09.214Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:05:16.238Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:11:09.537Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:11:25.039Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js": [
+          {
+            "timestamp": "2025-03-09T01:06:37.936Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-09T01:08:47.002Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\data.json": [
+          {
+            "timestamp": "2025-03-09T01:10:06.179Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\data.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package-lock.json": [
+          {
+            "timestamp": "2025-03-09T01:11:09.548Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T01:11:25.051Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 14,
+        "js": 5
+      },
+      "changeFrequency": {
+        "1": 19
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package.json",
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\index.js",
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\package-lock.json",
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\data.json"
+      ],
+      "averageChangeSize": 13.083333333333334
     }
   },
   "totalActiveTime": 6,
