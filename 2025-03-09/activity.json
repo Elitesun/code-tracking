@@ -227,7 +227,7 @@
       "averageChangeSize": 23.666666666666668
     },
     "Fakeme": {
-      "totalLinesAdded": 157,
+      "totalLinesAdded": 158,
       "totalLinesRemoved": 3,
       "totalActiveTime": 22,
       "files": {
@@ -433,6 +433,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\.gitignore": [
+          {
+            "timestamp": "2025-03-09T01:21:37.066Z",
+            "fileName": "c:\\Users\\ELITESUN\\Desktop\\Fakeme\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Fakeme",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
