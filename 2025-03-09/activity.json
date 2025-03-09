@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-09",
+  "projects": {
+    "ElitesGPT": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 6,
+      "files": {
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx": [
+          {
+            "timestamp": "2025-03-09T00:05:56.384Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-09T00:06:19.981Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-09T00:10:30.447Z",
+            "fileName": "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "ElitesGPT",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 6
+      },
+      "changeFrequency": {
+        "0": 6
+      },
+      "topFiles": [
+        "f:\\ElitesGPT\\ElitesGPT\\src\\Components\\Sider\\Sidebar.jsx"
+      ],
+      "averageChangeSize": 23.666666666666668
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}
