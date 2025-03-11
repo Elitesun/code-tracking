@@ -35,9 +35,9 @@
       "averageChangeSize": 81
     },
     "Projet Stage": {
-      "totalLinesAdded": 801,
-      "totalLinesRemoved": 373,
-      "totalActiveTime": 60,
+      "totalLinesAdded": 811,
+      "totalLinesRemoved": 375,
+      "totalActiveTime": 63,
       "files": {
         "f:\\Projet Stage\\la-a-la\\package.json": [
           {
@@ -702,6 +702,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:03:47.347Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:04:49.994Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:05:18.984Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:10:56.093Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
