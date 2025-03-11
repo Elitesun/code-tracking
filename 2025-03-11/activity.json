@@ -33,6 +33,39 @@
         "f:\\ElitesGPT\\src\\context\\Context.jsx"
       ],
       "averageChangeSize": 81
+    },
+    "Projet Stage": {
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\Projet Stage\\la-a-la\\package.json": [
+          {
+            "timestamp": "2025-03-11T11:22:19.322Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\package.json",
+            "fileType": ".json",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "f:\\Projet Stage\\la-a-la\\package.json"
+      ],
+      "averageChangeSize": 33
     }
   },
   "totalActiveTime": 0,
