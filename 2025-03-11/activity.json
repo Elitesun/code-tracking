@@ -35,9 +35,9 @@
       "averageChangeSize": 81
     },
     "Projet Stage": {
-      "totalLinesAdded": 811,
+      "totalLinesAdded": 815,
       "totalLinesRemoved": 375,
-      "totalActiveTime": 63,
+      "totalActiveTime": 65,
       "files": {
         "f:\\Projet Stage\\la-a-la\\package.json": [
           {
@@ -758,6 +758,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:16:42.378Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:17:45.783Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
