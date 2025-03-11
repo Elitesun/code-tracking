@@ -35,7 +35,7 @@
       "averageChangeSize": 81
     },
     "Projet Stage": {
-      "totalLinesAdded": 815,
+      "totalLinesAdded": 827,
       "totalLinesRemoved": 375,
       "totalActiveTime": 65,
       "files": {
@@ -786,6 +786,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T16:29:52.994Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\profileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
