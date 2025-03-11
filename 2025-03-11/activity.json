@@ -36,8 +36,8 @@
     },
     "Projet Stage": {
       "totalLinesAdded": 710,
-      "totalLinesRemoved": 197,
-      "totalActiveTime": 27,
+      "totalLinesRemoved": 285,
+      "totalActiveTime": 30,
       "files": {
         "f:\\Projet Stage\\la-a-la\\package.json": [
           {
@@ -370,6 +370,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 17,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T12:43:03.073Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\app-sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T12:49:13.931Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\app-sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "Projet Stage",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T12:51:09.195Z",
+            "fileName": "f:\\Projet Stage\\la-a-la\\components\\app-sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 37,
             "projectName": "Projet Stage",
             "content": {
               "added": [],
