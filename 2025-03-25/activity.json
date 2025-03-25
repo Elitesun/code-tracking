@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-25",
+  "projects": {
+    "-9ae1f02": {
+      "totalLinesAdded": 81,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
+          {
+            "timestamp": "2025-03-25T09:28:44.300Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "-9ae1f02",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-25T09:28:44.658Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "-9ae1f02",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json"
+      ],
+      "averageChangeSize": 40.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
