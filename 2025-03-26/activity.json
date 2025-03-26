@@ -2,9 +2,9 @@
   "date": "2025-03-26",
   "projects": {
     "ELITESUN": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 12,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\ELITESUN\\void main().dart": [
           {
@@ -26,6 +26,34 @@
             "fileName": "c:\\Users\\ELITESUN\\void main().dart",
             "fileType": ".dart",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ELITESUN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-26T10:48:39.137Z",
+            "fileName": "c:\\Users\\ELITESUN\\void main().dart",
+            "fileType": ".dart",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ELITESUN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-26T10:49:28.770Z",
+            "fileName": "c:\\Users\\ELITESUN\\void main().dart",
+            "fileType": ".dart",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "ELITESUN",
             "content": {
