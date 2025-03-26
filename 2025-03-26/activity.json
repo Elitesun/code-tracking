@@ -3,8 +3,8 @@
   "projects": {
     "ELITESUN": {
       "totalLinesAdded": 12,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\ELITESUN\\void main().dart": [
           {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "dart"
+          },
+          {
+            "timestamp": "2025-03-26T10:54:21.371Z",
+            "fileName": "c:\\Users\\ELITESUN\\void main().dart",
+            "fileType": ".dart",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ELITESUN",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "dart"
           }
         ]
