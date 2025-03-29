@@ -3,7 +3,7 @@
   "projects": {
     "BinarySec": {
       "totalLinesAdded": 2040,
-      "totalLinesRemoved": 103,
+      "totalLinesRemoved": 119,
       "totalActiveTime": 50,
       "files": {
         "f:\\BinarySec\\BinarySec-Website\\src\\App.css": [
@@ -159,6 +159,20 @@
             "fileType": ".tsx",
             "linesAdded": 16,
             "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T18:13:38.548Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\ServicesSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 16,
             "projectName": "BinarySec",
             "content": {
               "added": [],
