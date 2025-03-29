@@ -2,7 +2,7 @@
   "date": "2025-03-29",
   "projects": {
     "BinarySec": {
-      "totalLinesAdded": 2062,
+      "totalLinesAdded": 2146,
       "totalLinesRemoved": 119,
       "totalActiveTime": 55,
       "files": {
@@ -674,6 +674,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\BinarySec\\BinarySec-Website\\package.json": [
+          {
+            "timestamp": "2025-03-29T19:47:01.502Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\package.json",
+            "fileType": ".json",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
