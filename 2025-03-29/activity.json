@@ -2,9 +2,9 @@
   "date": "2025-03-29",
   "projects": {
     "BinarySec": {
-      "totalLinesAdded": 1989,
-      "totalLinesRemoved": 55,
-      "totalActiveTime": 43,
+      "totalLinesAdded": 2040,
+      "totalLinesRemoved": 92,
+      "totalActiveTime": 50,
       "files": {
         "f:\\BinarySec\\BinarySec-Website\\src\\App.css": [
           {
@@ -152,6 +152,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:20:58.147Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\ServicesSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\BinarySec\\BinarySec-Website\\src\\components\\StudentReviewsSection.tsx": [
@@ -210,6 +224,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:20:58.319Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\StudentReviewsSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\BinarySec\\BinarySec-Website\\src\\components\\HeroSection.tsx": [
@@ -232,6 +260,48 @@
             "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\HeroSection.tsx",
             "fileType": ".tsx",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:20:58.204Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:25:17.067Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:25:38.969Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\HeroSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
             "linesRemoved": 0,
             "projectName": "BinarySec",
             "content": {
@@ -482,6 +552,34 @@
             "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\ui\\sidebar.tsx",
             "fileType": ".tsx",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:21:35.684Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\ui\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "BinarySec",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-29T13:21:38.911Z",
+            "fileName": "f:\\BinarySec\\BinarySec-Website\\src\\components\\ui\\sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "BinarySec",
             "content": {
