@@ -2,9 +2,9 @@
   "date": "2025-04-01",
   "projects": {
     "product-detail-page": {
-      "totalLinesAdded": 36,
+      "totalLinesAdded": 86,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 5,
       "files": {
         "f:\\product-detail-page\\data\\article.json": [
           {
@@ -34,6 +34,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\product-detail-page\\data\\article.js": [
+          {
+            "timestamp": "2025-04-01T00:29:52.987Z",
+            "fileName": "f:\\product-detail-page\\data\\article.js",
+            "fileType": ".js",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "product-detail-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-01T00:30:12.320Z",
+            "fileName": "f:\\product-detail-page\\data\\article.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "product-detail-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-01T00:32:42.805Z",
+            "fileName": "f:\\product-detail-page\\data\\article.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "product-detail-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ]
       },
