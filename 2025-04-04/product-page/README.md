@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 389                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 384                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 407                                          |
+| **Lines Removed** (➖) | 24                                        |
+| **Net Change** (↕)    | 383                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **globals.css** (+9, -5)
 - **globals.css** (+5, -0)
 - **next.config.ts** (+10, -0)
-- **Prestataire_detail.tsx** (+166, -0)
+- **Prestataire_detail.tsx** (+184, -19)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 364
+".tsx" : 401
 ".json" : 1
 ".css" : 19
 ".ts" : 10
@@ -36,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"22h" : 9
+"22h" : 16
 ```
 
 
-> **Last Updated:** 4/4/2025, 10:19:00 PM
+> **Last Updated:** 4/4/2025, 10:29:09 PM
