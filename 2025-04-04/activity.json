@@ -1,0 +1,179 @@
+{
+  "date": "2025-04-04",
+  "projects": {
+    "product-page": {
+      "totalLinesAdded": 389,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 12,
+      "files": {
+        "f:\\product-page\\Components\\Boutique_detail.tsx": [
+          {
+            "timestamp": "2025-04-04T22:09:22.982Z",
+            "fileName": "f:\\product-page\\Components\\Boutique_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\.next\\package.json": [
+          {
+            "timestamp": "2025-04-04T22:09:39.439Z",
+            "fileName": "f:\\product-page\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\product-page\\styles\\globals.css": [
+          {
+            "timestamp": "2025-04-04T22:10:21.405Z",
+            "fileName": "f:\\product-page\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-04T22:10:24.795Z",
+            "fileName": "f:\\product-page\\styles\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\product-page\\app\\globals.css": [
+          {
+            "timestamp": "2025-04-04T22:10:54.403Z",
+            "fileName": "f:\\product-page\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-04T22:11:39.532Z",
+            "fileName": "f:\\product-page\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\product-page\\next.config.ts": [
+          {
+            "timestamp": "2025-04-04T22:12:21.892Z",
+            "fileName": "f:\\product-page\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\product-page\\Components\\Prestataire_detail.tsx": [
+          {
+            "timestamp": "2025-04-04T22:16:22.341Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-04T22:17:19.602Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 6,
+        "json": 1,
+        "css": 4,
+        "ts": 1
+      },
+      "changeFrequency": {
+        "22": 12
+      },
+      "topFiles": [
+        "f:\\product-page\\styles\\globals.css",
+        "f:\\product-page\\app\\globals.css",
+        "f:\\product-page\\Components\\Prestataire_detail.tsx",
+        "f:\\product-page\\Components\\Boutique_detail.tsx",
+        "f:\\product-page\\.next\\package.json"
+      ],
+      "averageChangeSize": 43.77777777777778
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 6,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "css",
+    "json",
+    "ts"
+  ]
+}
