@@ -1,0 +1,240 @@
+{
+  "date": "2025-04-07",
+  "projects": {
+    "sungpt": {
+      "totalLinesAdded": 195,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 14,
+      "files": {
+        "f:\\sungpt\\.next\\package.json": [
+          {
+            "timestamp": "2025-04-07T15:11:50.233Z",
+            "fileName": "f:\\sungpt\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-07T15:13:49.763Z",
+            "fileName": "f:\\sungpt\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\sungpt\\app\\page.tsx": [
+          {
+            "timestamp": "2025-04-07T15:12:39.357Z",
+            "fileName": "f:\\sungpt\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:13:26.890Z",
+            "fileName": "f:\\sungpt\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:19:10.956Z",
+            "fileName": "f:\\sungpt\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:19:51.888Z",
+            "fileName": "f:\\sungpt\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:21:06.275Z",
+            "fileName": "f:\\sungpt\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\sungpt\\components\\ChatUI.tsx": [
+          {
+            "timestamp": "2025-04-07T15:13:02.304Z",
+            "fileName": "f:\\sungpt\\components\\ChatUI.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:13:33.560Z",
+            "fileName": "f:\\sungpt\\components\\ChatUI.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:21:05.882Z",
+            "fileName": "f:\\sungpt\\components\\ChatUI.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\sungpt\\components\\Sidebar.tsx": [
+          {
+            "timestamp": "2025-04-07T15:13:02.538Z",
+            "fileName": "f:\\sungpt\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:13:33.485Z",
+            "fileName": "f:\\sungpt\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:19:11.565Z",
+            "fileName": "f:\\sungpt\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-07T15:21:05.800Z",
+            "fileName": "f:\\sungpt\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "tsx": 13
+      },
+      "changeFrequency": {
+        "15": 14
+      },
+      "topFiles": [
+        "f:\\sungpt\\app\\page.tsx",
+        "f:\\sungpt\\components\\Sidebar.tsx",
+        "f:\\sungpt\\components\\ChatUI.tsx",
+        "f:\\sungpt\\.next\\package.json"
+      ],
+      "averageChangeSize": 16.785714285714285
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "json"
+  ]
+}
