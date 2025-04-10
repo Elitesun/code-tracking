@@ -111,7 +111,7 @@
       "averageChangeSize": 39.666666666666664
     },
     "product-page": {
-      "totalLinesAdded": 1398,
+      "totalLinesAdded": 1400,
       "totalLinesRemoved": 210,
       "totalActiveTime": 58,
       "files": {
@@ -386,6 +386,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T23:42:24.763Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
