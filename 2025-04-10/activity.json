@@ -111,9 +111,9 @@
       "averageChangeSize": 39.666666666666664
     },
     "product-page": {
-      "totalLinesAdded": 928,
+      "totalLinesAdded": 937,
       "totalLinesRemoved": 20,
-      "totalActiveTime": 33,
+      "totalActiveTime": 36,
       "files": {
         "f:\\product-page\\Components\\Prestataire_detail.tsx": [
           {
@@ -440,6 +440,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\app\\commande\\page.tsx": [
+          {
+            "timestamp": "2025-04-10T21:15:51.677Z",
+            "fileName": "f:\\product-page\\app\\commande\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T21:18:37.579Z",
+            "fileName": "f:\\product-page\\app\\commande\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
