@@ -1,0 +1,81 @@
+{
+  "date": "2025-04-10",
+  "projects": {
+    "sungpt": {
+      "totalLinesAdded": 119,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\sungpt\\components\\ThemeToggle.tsx": [
+          {
+            "timestamp": "2025-04-10T12:59:17.054Z",
+            "fileName": "f:\\sungpt\\components\\ThemeToggle.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\sungpt\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-04-10T12:59:18.355Z",
+            "fileName": "f:\\sungpt\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\sungpt\\contexts\\ThemeContext.tsx": [
+          {
+            "timestamp": "2025-04-10T12:59:38.913Z",
+            "fileName": "f:\\sungpt\\contexts\\ThemeContext.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "f:\\sungpt\\components\\ThemeToggle.tsx",
+        "f:\\sungpt\\app\\layout.tsx",
+        "f:\\sungpt\\contexts\\ThemeContext.tsx"
+      ],
+      "averageChangeSize": 39.666666666666664
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
