@@ -111,9 +111,9 @@
       "averageChangeSize": 39.666666666666664
     },
     "product-page": {
-      "totalLinesAdded": 173,
+      "totalLinesAdded": 336,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 16,
       "files": {
         "f:\\product-page\\Components\\Prestataire_detail.tsx": [
           {
@@ -145,6 +145,124 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-04-10T19:52:36.044Z",
+            "fileName": "f:\\product-page\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          }
+        ],
+        "f:\\product-page\\app\\page.tsx": [
+          {
+            "timestamp": "2025-04-10T19:56:36.120Z",
+            "fileName": "f:\\product-page\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T19:56:41.821Z",
+            "fileName": "f:\\product-page\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T19:58:43.014Z",
+            "fileName": "f:\\product-page\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\Components\\Commande_detail.tsx": [
+          {
+            "timestamp": "2025-04-10T19:59:02.974Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T19:59:13.556Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\donnees\\cmd.json": [
+          {
+            "timestamp": "2025-04-10T20:00:12.482Z",
+            "fileName": "f:\\product-page\\donnees\\cmd.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-10T20:00:13.464Z",
+            "fileName": "f:\\product-page\\donnees\\cmd.json",
+            "fileType": ".json",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
