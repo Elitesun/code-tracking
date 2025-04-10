@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 938                                          |
+| **Lines Added** (➕)   | 974                                          |
 | **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 918                |
-| **Active Time** (⌚)   | 36 minutes |
+| **Net Change** (↕)    | 954                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,9 @@
 - **layout.tsx** (+52, -1)
 - **Laala_detail.tsx** (+120, -1)
 - **page.tsx** (+10, -0)
+- **Retrait_detail.tsx** (+9, -0)
+- **page.tsx** (+9, -0)
+- **retrait.json** (+18, -0)
 
 ## Visualizations
 
@@ -30,9 +33,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 841
+".tsx" : 859
 ".css" : 53
-".json" : 64
+".json" : 82
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +46,8 @@ title Coding activity by hour (count of changes)
 "19h" : 8
 "20h" : 12
 "21h" : 4
-"22h" : 1
+"22h" : 7
 ```
 
 
-> **Last Updated:** 4/10/2025, 10:23:27 PM
+> **Last Updated:** 4/10/2025, 10:33:27 PM
