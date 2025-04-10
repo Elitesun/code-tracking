@@ -3,7 +3,7 @@
   "projects": {
     "sungpt": {
       "totalLinesAdded": 119,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 29,
       "totalActiveTime": 1,
       "files": {
         "f:\\sungpt\\components\\ThemeToggle.tsx": [
@@ -13,6 +13,20 @@
             "fileType": ".tsx",
             "linesAdded": 49,
             "linesRemoved": 0,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T13:22:03.240Z",
+            "fileName": "f:\\sungpt\\components\\ThemeToggle.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 27,
             "projectName": "sungpt",
             "content": {
               "added": [],
@@ -36,6 +50,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T13:22:03.309Z",
+            "fileName": "f:\\sungpt\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\sungpt\\contexts\\ThemeContext.tsx": [
@@ -51,6 +79,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T13:22:03.353Z",
+            "fileName": "f:\\sungpt\\contexts\\ThemeContext.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "sungpt",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
