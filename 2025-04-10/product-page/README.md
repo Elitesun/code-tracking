@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 974                                          |
+| **Lines Added** (➕)   | 986                                          |
 | **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 954                |
+| **Net Change** (↕)    | 966                |
 | **Active Time** (⌚)   | 42 minutes |
 
 
@@ -14,7 +14,7 @@
 - **Prestataire_detail.tsx** (+168, -7)
 - **globals.css** (+53, -0)
 - **page.tsx** (+48, -0)
-- **Commande_detail.tsx** (+109, -0)
+- **Commande_detail.tsx** (+121, -0)
 - **cmd.json** (+64, -0)
 - **Produit_detail.tsx** (+88, -0)
 - **Boutique_detail.tsx** (+198, -11)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 859
+".tsx" : 871
 ".css" : 53
 ".json" : 82
 ```
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "19h" : 8
 "20h" : 12
 "21h" : 4
-"22h" : 7
+"22h" : 8
 ```
 
 
-> **Last Updated:** 4/10/2025, 10:33:27 PM
+> **Last Updated:** 4/10/2025, 10:45:56 PM
