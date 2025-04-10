@@ -111,9 +111,9 @@
       "averageChangeSize": 39.666666666666664
     },
     "product-page": {
-      "totalLinesAdded": 336,
+      "totalLinesAdded": 749,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 16,
+      "totalActiveTime": 27,
       "files": {
         "f:\\product-page\\Components\\Prestataire_detail.tsx": [
           {
@@ -233,6 +233,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-10T20:04:30.752Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ],
         "f:\\product-page\\donnees\\cmd.json": [
@@ -263,6 +277,54 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\product-page\\Components\\Produit_detail.tsx": [
+          {
+            "timestamp": "2025-04-10T20:06:00.605Z",
+            "fileName": "f:\\product-page\\Components\\Produit_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\Components\\Boutique_detail.tsx": [
+          {
+            "timestamp": "2025-04-10T20:06:02.644Z",
+            "fileName": "f:\\product-page\\Components\\Boutique_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\app\\produit\\layout.tsx": [
+          {
+            "timestamp": "2025-04-10T20:07:57.792Z",
+            "fileName": "f:\\product-page\\app\\produit\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },
