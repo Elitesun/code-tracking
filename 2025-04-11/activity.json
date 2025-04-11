@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 336,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 478,
+      "totalLinesRemoved": 29,
+      "totalActiveTime": 26,
       "files": {
         "f:\\product-page\\Components\\Commande_detail.tsx": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T17:10:44.682Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -155,6 +169,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T17:09:20.476Z",
+            "fileName": "f:\\product-page\\Components\\Laala_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
