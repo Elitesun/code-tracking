@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 99,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 336,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 24,
       "files": {
         "f:\\product-page\\Components\\Commande_detail.tsx": [
           {
@@ -125,6 +125,96 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\Components\\Laala_detail.tsx": [
+          {
+            "timestamp": "2025-04-11T15:46:06.921Z",
+            "fileName": "f:\\product-page\\Components\\Laala_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T15:46:43.088Z",
+            "fileName": "f:\\product-page\\Components\\Laala_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\app\\produit\\layout.tsx": [
+          {
+            "timestamp": "2025-04-11T15:47:55.094Z",
+            "fileName": "f:\\product-page\\app\\produit\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T15:48:04.898Z",
+            "fileName": "f:\\product-page\\app\\produit\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\Components\\Produit_detail.tsx": [
+          {
+            "timestamp": "2025-04-11T15:48:44.560Z",
+            "fileName": "f:\\product-page\\Components\\Produit_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T15:49:08.196Z",
+            "fileName": "f:\\product-page\\Components\\Produit_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
