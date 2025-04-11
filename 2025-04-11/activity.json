@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 564,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 584,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 39,
       "files": {
         "f:\\product-page\\Components\\Commande_detail.tsx": [
           {
@@ -167,6 +167,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T18:07:07.952Z",
+            "fileName": "f:\\product-page\\Components\\Retrait_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T18:09:26.589Z",
+            "fileName": "f:\\product-page\\Components\\Retrait_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T18:11:06.267Z",
+            "fileName": "f:\\product-page\\Components\\Retrait_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T18:12:29.673Z",
+            "fileName": "f:\\product-page\\Components\\Retrait_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
