@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-11",
+  "projects": {
+    "product-page": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "f:\\product-page\\Components\\Commande_detail.tsx": [
+          {
+            "timestamp": "2025-04-10T23:53:19.633Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 3
+      },
+      "changeFrequency": {
+        "23": 3
+      },
+      "topFiles": [
+        "f:\\product-page\\Components\\Commande_detail.tsx"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
