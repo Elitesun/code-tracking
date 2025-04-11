@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 584                                          |
-| **Lines Removed** (➖) | 49                                        |
+| **Lines Added** (➕)   | 585                                          |
+| **Lines Removed** (➖) | 50                                        |
 | **Net Change** (↕)    | 535                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Active Time** (⌚)   | 40 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **next.config.js** (+9, -0)
 - **next.config.ts** (+10, -0)
 - **package.json** (+1, -0)
-- **Retrait_detail.tsx** (+96, -20)
+- **Retrait_detail.tsx** (+97, -21)
 - **Laala_detail.tsx** (+119, -17)
 - **layout.tsx** (+28, -10)
 - **Produit_detail.tsx** (+90, -0)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 549
+".tsx" : 551
 ".js" : 9
 ".ts" : 10
 ".json" : 65
@@ -43,9 +43,9 @@ title Coding activity by hour (count of changes)
 "07h" : 2
 "15h" : 6
 "17h" : 5
-"18h" : 4
+"18h" : 6
 "23h" : 1
 ```
 
 
-> **Last Updated:** 4/11/2025, 6:14:45 PM
+> **Last Updated:** 4/11/2025, 6:24:40 PM
