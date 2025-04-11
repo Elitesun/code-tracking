@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 0,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 13,
       "files": {
         "f:\\product-page\\Components\\Commande_detail.tsx": [
           {
@@ -20,6 +20,64 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T00:04:01.960Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-11T00:11:53.952Z",
+            "fileName": "f:\\product-page\\Components\\Commande_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\next.config.js": [
+          {
+            "timestamp": "2025-04-11T00:07:15.095Z",
+            "fileName": "f:\\product-page\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T00:08:17.454Z",
+            "fileName": "f:\\product-page\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ]
       },
