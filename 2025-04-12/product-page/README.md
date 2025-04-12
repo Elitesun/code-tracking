@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76                                          |
+| **Lines Added** (➕)   | 295                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 76                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 295                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
-- **Retrait_detail.tsx** (+76, -0)
+- **Retrait_detail.tsx** (+78, -0)
+- **globals.css** (+53, -0)
+- **Commande_detail.tsx** (+164, -0)
 
 ## Visualizations
 
@@ -20,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 76
+".tsx" : 242
+".css" : 53
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 1
+"08h" : 4
 ```
 
 
-> **Last Updated:** 4/12/2025, 8:17:11 AM
+> **Last Updated:** 4/12/2025, 8:37:11 AM
