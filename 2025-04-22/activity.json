@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "indesign": {
-      "totalLinesAdded": 2127,
-      "totalLinesRemoved": 208,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 2313,
+      "totalLinesRemoved": 230,
+      "totalActiveTime": 78,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
           {
@@ -303,6 +303,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:38:54.592Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:40:22.688Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -730,6 +758,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:37:14.959Z",
+            "fileName": "f:\\indesign\\Components\\ui\\ShinyText.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:37:54.633Z",
+            "fileName": "f:\\indesign\\Components\\ui\\ShinyText.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\indesign\\styles\\truefocus.css": [
@@ -760,6 +816,64 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "f:\\indesign\\Components\\ui\\TrueFocus.tsx": [
+          {
+            "timestamp": "2025-04-22T17:34:25.074Z",
+            "fileName": "f:\\indesign\\Components\\ui\\TrueFocus.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:35:36.744Z",
+            "fileName": "f:\\indesign\\Components\\ui\\TrueFocus.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:36:43.905Z",
+            "fileName": "f:\\indesign\\Components\\ui\\TrueFocus.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T17:41:11.005Z",
+            "fileName": "f:\\indesign\\Components\\ui\\TrueFocus.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
