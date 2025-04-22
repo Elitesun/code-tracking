@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "indesign": {
-      "totalLinesAdded": 2812,
-      "totalLinesRemoved": 460,
-      "totalActiveTime": 105,
+      "totalLinesAdded": 2813,
+      "totalLinesRemoved": 461,
+      "totalActiveTime": 106,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
           {
@@ -359,6 +359,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T18:40:11.972Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T18:40:40.617Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
