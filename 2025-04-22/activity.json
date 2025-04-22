@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "indesign": {
-      "totalLinesAdded": 3201,
-      "totalLinesRemoved": 528,
-      "totalActiveTime": 139,
+      "totalLinesAdded": 3395,
+      "totalLinesRemoved": 529,
+      "totalActiveTime": 151,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
           {
@@ -301,6 +301,62 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:36:39.765Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:43:37.797Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:43:57.086Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:45:53.204Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -756,6 +812,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:39:28.328Z",
+            "fileName": "f:\\indesign\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:39:51.845Z",
+            "fileName": "f:\\indesign\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\indesign\\app\\globals.css": [
@@ -933,6 +1017,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T23:39:06.223Z",
+            "fileName": "f:\\indesign\\Components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
