@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 202                                          |
-| **Lines Removed** (➖) | 26                                        |
-| **Net Change** (↕)    | 176                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 250                                          |
+| **Lines Removed** (➖) | 36                                        |
+| **Net Change** (↕)    | 214                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
 - **Brand.tsx** (+28, -0)
 - **Nav.tsx** (+113, -26)
 - **Hero.tsx** (+61, -0)
+- **Features.tsx** (+48, -10)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 228
+".tsx" : 286
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 9
+"14h" : 11
 ```
 
 
-> **Last Updated:** 4/22/2025, 2:30:06 PM
+> **Last Updated:** 4/22/2025, 2:40:06 PM
