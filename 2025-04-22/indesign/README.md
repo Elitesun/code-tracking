@@ -4,31 +4,31 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2951                                          |
-| **Lines Removed** (➖) | 519                                        |
-| **Net Change** (↕)    | 2432                |
-| **Active Time** (⌚)   | 127 minutes |
+| **Lines Added** (➕)   | 3201                                          |
+| **Lines Removed** (➖) | 528                                        |
+| **Net Change** (↕)    | 2673                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
 - **Brand.tsx** (+56, -14)
 - **Nav.tsx** (+323, -76)
-- **Hero.tsx** (+209, -1)
-- **Features.tsx** (+268, -42)
-- **page.tsx** (+42, -0)
+- **Hero.tsx** (+295, -1)
+- **Features.tsx** (+269, -43)
+- **page.tsx** (+69, -2)
 - **globals.css** (+39, -12)
 - **Components_dd38fe43._.js** (+265, -0)
 - **[root-of-the-server]__ba9c4a92._.js** (+259, -0)
 - **_cc52e176._.js** (+422, -0)
-- **Footer.tsx** (+200, -108)
-- **layout.tsx** (+49, -14)
+- **Footer.tsx** (+292, -108)
+- **layout.tsx** (+84, -14)
 - **shiny.css** (+30, -0)
 - **ShinyText.tsx** (+46, -22)
 - **truefocus.css** (+72, -71)
 - **TrueFocus.tsx** (+315, -159)
 - **MetalBalls.tsx** (+321, -0)
 - **aos.ts** (+13, -0)
-- **next.config.ts** (+22, -0)
+- **next.config.ts** (+31, -6)
 
 ## Visualizations
 
@@ -37,10 +37,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2265
+".tsx" : 2509
 ".css" : 224
 ".js" : 946
-".ts" : 35
+".ts" : 50
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "17h" : 26
 "18h" : 14
 "19h" : 10
-"23h" : 2
+"23h" : 12
 ```
 
 
-> **Last Updated:** 4/22/2025, 11:21:25 PM
+> **Last Updated:** 4/22/2025, 11:31:25 PM
