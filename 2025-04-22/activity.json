@@ -3,7 +3,7 @@
   "projects": {
     "indesign": {
       "totalLinesAdded": 2867,
-      "totalLinesRemoved": 474,
+      "totalLinesRemoved": 493,
       "totalActiveTime": 114,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
@@ -239,6 +239,20 @@
             "fileType": ".tsx",
             "linesAdded": 19,
             "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T19:23:16.342Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
             "projectName": "indesign",
             "content": {
               "added": [],
