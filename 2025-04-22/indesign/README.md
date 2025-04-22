@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2316                                          |
-| **Lines Removed** (➖) | 251                                        |
-| **Net Change** (↕)    | 2065                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Lines Added** (➕)   | 2474                                          |
+| **Lines Removed** (➖) | 459                                        |
+| **Net Change** (↕)    | 2015                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -24,8 +24,8 @@
 - **layout.tsx** (+37, -1)
 - **shiny.css** (+30, -0)
 - **ShinyText.tsx** (+46, -22)
-- **truefocus.css** (+69, -0)
-- **TrueFocus.tsx** (+159, -21)
+- **truefocus.css** (+72, -71)
+- **TrueFocus.tsx** (+314, -158)
 
 ## Visualizations
 
@@ -34,8 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1471
-".css" : 150
+".tsx" : 1763
+".css" : 224
 ".js" : 946
 ```
 
@@ -46,8 +46,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 24
 "15h" : 18
-"17h" : 21
+"17h" : 26
+"18h" : 1
 ```
 
 
-> **Last Updated:** 4/22/2025, 5:54:07 PM
+> **Last Updated:** 4/22/2025, 6:04:07 PM
