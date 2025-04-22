@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2003                                          |
+| **Lines Added** (➕)   | 2056                                          |
 | **Lines Removed** (➖) | 208                                        |
-| **Net Change** (↕)    | 1795                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Net Change** (↕)    | 1848                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
 - **Brand.tsx** (+56, -13)
-- **Nav.tsx** (+288, -32)
+- **Nav.tsx** (+289, -32)
 - **Hero.tsx** (+183, -0)
 - **Features.tsx** (+223, -42)
 - **page.tsx** (+32, -0)
@@ -22,6 +22,8 @@
 - **_cc52e176._.js** (+422, -0)
 - **Footer.tsx** (+199, -108)
 - **layout.tsx** (+37, -1)
+- **shiny.css** (+28, -0)
+- **ShinyText.tsx** (+24, -0)
 
 ## Visualizations
 
@@ -30,8 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1214
-".css" : 51
+".tsx" : 1239
+".css" : 79
 ".js" : 946
 ```
 
@@ -42,8 +44,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 24
 "15h" : 18
-"17h" : 2
+"17h" : 7
 ```
 
 
-> **Last Updated:** 4/22/2025, 5:14:07 PM
+> **Last Updated:** 4/22/2025, 5:24:07 PM
