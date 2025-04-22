@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "indesign": {
-      "totalLinesAdded": 2882,
-      "totalLinesRemoved": 518,
-      "totalActiveTime": 121,
+      "totalLinesAdded": 2896,
+      "totalLinesRemoved": 519,
+      "totalActiveTime": 127,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
           {
@@ -55,6 +55,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 13,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T19:41:24.533Z",
+            "fileName": "f:\\indesign\\Components\\Brand.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "indesign",
             "content": {
               "added": [],
@@ -444,6 +458,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T19:40:48.747Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\indesign\\Components\\Features.tsx": [
@@ -533,6 +561,20 @@
           },
           {
             "timestamp": "2025-04-22T15:11:32.230Z",
+            "fileName": "f:\\indesign\\Components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T19:42:35.191Z",
             "fileName": "f:\\indesign\\Components\\Features.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
@@ -779,6 +821,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-22T19:42:18.415Z",
+            "fileName": "f:\\indesign\\Components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1241,6 +1297,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "f:\\indesign\\next.config.ts": [
+          {
+            "timestamp": "2025-04-22T19:43:44.105Z",
+            "fileName": "f:\\indesign\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-22T19:43:59.108Z",
+            "fileName": "f:\\indesign\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
