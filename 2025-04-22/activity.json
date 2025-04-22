@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "indesign": {
-      "totalLinesAdded": 2056,
+      "totalLinesAdded": 2127,
       "totalLinesRemoved": 208,
-      "totalActiveTime": 61,
+      "totalActiveTime": 67,
       "files": {
         "f:\\indesign\\Components\\Brand.tsx": [
           {
@@ -686,6 +686,20 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-04-22T17:29:34.138Z",
+            "fileName": "f:\\indesign\\styles\\shiny.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ],
         "f:\\indesign\\Components\\ui\\ShinyText.tsx": [
@@ -716,6 +730,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\indesign\\styles\\truefocus.css": [
+          {
+            "timestamp": "2025-04-22T17:33:56.792Z",
+            "fileName": "f:\\indesign\\styles\\truefocus.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-22T17:34:02.415Z",
+            "fileName": "f:\\indesign\\styles\\truefocus.css",
+            "fileType": ".css",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
