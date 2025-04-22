@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2896                                          |
+| **Lines Added** (➕)   | 2951                                          |
 | **Lines Removed** (➖) | 519                                        |
-| **Net Change** (↕)    | 2377                |
+| **Net Change** (↕)    | 2432                |
 | **Active Time** (⌚)   | 127 minutes |
 
 
@@ -14,7 +14,7 @@
 - **Brand.tsx** (+56, -14)
 - **Nav.tsx** (+323, -76)
 - **Hero.tsx** (+209, -1)
-- **Features.tsx** (+224, -42)
+- **Features.tsx** (+268, -42)
 - **page.tsx** (+42, -0)
 - **globals.css** (+39, -12)
 - **Components_dd38fe43._.js** (+265, -0)
@@ -28,7 +28,7 @@
 - **TrueFocus.tsx** (+315, -159)
 - **MetalBalls.tsx** (+321, -0)
 - **aos.ts** (+13, -0)
-- **next.config.ts** (+11, -0)
+- **next.config.ts** (+22, -0)
 
 ## Visualizations
 
@@ -37,10 +37,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2221
+".tsx" : 2265
 ".css" : 224
 ".js" : 946
-".ts" : 24
+".ts" : 35
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,7 +53,8 @@ title Coding activity by hour (count of changes)
 "17h" : 26
 "18h" : 14
 "19h" : 10
+"23h" : 2
 ```
 
 
-> **Last Updated:** 4/22/2025, 7:44:07 PM
+> **Last Updated:** 4/22/2025, 11:21:25 PM
