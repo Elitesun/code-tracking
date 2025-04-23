@@ -208,9 +208,9 @@
       "averageChangeSize": 3
     },
     "invest": {
-      "totalLinesAdded": 145,
+      "totalLinesAdded": 649,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalActiveTime": 17,
       "files": {
         "f:\\invest\\.next\\package.json": [
           {
@@ -310,6 +310,144 @@
             "fileName": "f:\\invest\\components\\Nav.tsx",
             "fileType": ".tsx",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\app\\globals.css": [
+          {
+            "timestamp": "2025-04-23T08:59:21.424Z",
+            "fileName": "f:\\invest\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-23T08:59:27.639Z",
+            "fileName": "f:\\invest\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\invest\\components\\Footer.tsx": [
+          {
+            "timestamp": "2025-04-23T09:00:14.090Z",
+            "fileName": "f:\\invest\\components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T09:00:36.740Z",
+            "fileName": "f:\\invest\\components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\Features.tsx": [
+          {
+            "timestamp": "2025-04-23T09:01:13.244Z",
+            "fileName": "f:\\invest\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\Stats.tsx": [
+          {
+            "timestamp": "2025-04-23T09:01:56.989Z",
+            "fileName": "f:\\invest\\components\\Stats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T09:02:04.179Z",
+            "fileName": "f:\\invest\\components\\Stats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\Hero.tsx": [
+          {
+            "timestamp": "2025-04-23T09:02:40.385Z",
+            "fileName": "f:\\invest\\components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\Pricing.tsx": [
+          {
+            "timestamp": "2025-04-23T09:03:27.066Z",
+            "fileName": "f:\\invest\\components\\Pricing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
             "linesRemoved": 0,
             "projectName": "invest",
             "content": {
