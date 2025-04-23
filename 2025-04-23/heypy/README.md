@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1112                                          |
-| **Lines Removed** (➖) | 60                                        |
-| **Net Change** (↕)    | 1052                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 1248                                          |
+| **Lines Removed** (➖) | 188                                        |
+| **Net Change** (↕)    | 1060                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
 - **settings.json** (+101, -0)
 - **.gitignore** (+12, -2)
-- **settings.cpython-313.pyc** (+29, -0)
-- **paiement.html** (+327, -1)
+- **settings.cpython-313.pyc** (+31, -4)
+- **paiement.html** (+410, -95)
 - **payement.html** (+213, -0)
-- **views.py** (+430, -57)
+- **views.py** (+481, -87)
 
 ## Visualizations
 
@@ -27,9 +27,9 @@ pie showData
 title Lines changed by file type
 ".json" : 101
 "unknown" : 14
-".pyc" : 29
-".html" : 541
-".py" : 487
+".pyc" : 35
+".html" : 718
+".py" : 568
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 6
-"20h" : 13
+"20h" : 20
 ```
 
 
-> **Last Updated:** 4/23/2025, 8:43:05 PM
+> **Last Updated:** 4/23/2025, 8:52:51 PM

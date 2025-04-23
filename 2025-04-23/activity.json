@@ -702,9 +702,9 @@
       "averageChangeSize": 20.857142857142858
     },
     "heypy": {
-      "totalLinesAdded": 1112,
-      "totalLinesRemoved": 60,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 1248,
+      "totalLinesRemoved": 188,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
           {
@@ -793,6 +793,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "pyc"
+          },
+          {
+            "timestamp": "2025-04-23T20:45:58.608Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\globaletresorerie\\__pycache__\\settings.cpython-313.pyc",
+            "fileType": ".pyc",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "pyc"
+          },
+          {
+            "timestamp": "2025-04-23T20:46:00.849Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\globaletresorerie\\__pycache__\\settings.cpython-313.pyc",
+            "fileType": ".pyc",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "pyc"
+          },
+          {
+            "timestamp": "2025-04-23T20:46:16.920Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\globaletresorerie\\__pycache__\\settings.cpython-313.pyc",
+            "fileType": ".pyc",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "pyc"
           }
         ],
@@ -894,6 +936,34 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:45:58.751Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 94,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:46:37.225Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "f:\\heypy\\globaletresorerie\\services\\templates\\payement.html": [
@@ -975,6 +1045,34 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 30,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T20:43:49.726Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\views.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T20:45:58.632Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\views.py",
+            "fileType": ".py",
+            "linesAdded": 51,
+            "linesRemoved": 0,
             "projectName": "heypy",
             "content": {
               "added": [],
