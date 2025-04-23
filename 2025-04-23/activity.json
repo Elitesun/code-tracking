@@ -206,6 +206,136 @@
         "f:\\fintech_site\\.next\\package.json"
       ],
       "averageChangeSize": 3
+    },
+    "invest": {
+      "totalLinesAdded": 145,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 9,
+      "files": {
+        "f:\\invest\\.next\\package.json": [
+          {
+            "timestamp": "2025-04-23T08:34:09.362Z",
+            "fileName": "f:\\invest\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "f:\\invest\\app\\providers.tsx": [
+          {
+            "timestamp": "2025-04-23T08:37:29.692Z",
+            "fileName": "f:\\invest\\app\\providers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\ThemeSwitch.tsx": [
+          {
+            "timestamp": "2025-04-23T08:37:43.101Z",
+            "fileName": "f:\\invest\\components\\ThemeSwitch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-04-23T08:37:56.833Z",
+            "fileName": "f:\\invest\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T08:37:58.608Z",
+            "fileName": "f:\\invest\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\components\\Nav.tsx": [
+          {
+            "timestamp": "2025-04-23T08:38:24.834Z",
+            "fileName": "f:\\invest\\components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T08:38:34.327Z",
+            "fileName": "f:\\invest\\components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "tsx": 9
+      },
+      "changeFrequency": {
+        "8": 9
+      },
+      "topFiles": [
+        "f:\\invest\\app\\layout.tsx",
+        "f:\\invest\\components\\Nav.tsx",
+        "f:\\invest\\.next\\package.json",
+        "f:\\invest\\app\\providers.tsx",
+        "f:\\invest\\components\\ThemeSwitch.tsx"
+      ],
+      "averageChangeSize": 20.857142857142858
     }
   },
   "totalActiveTime": 12,
