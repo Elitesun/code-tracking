@@ -208,9 +208,9 @@
       "averageChangeSize": 3
     },
     "invest": {
-      "totalLinesAdded": 649,
+      "totalLinesAdded": 692,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 17,
+      "totalActiveTime": 23,
       "files": {
         "f:\\invest\\.next\\package.json": [
           {
@@ -242,6 +242,20 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T09:13:07.477Z",
+            "fileName": "f:\\invest\\app\\providers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\invest\\components\\ThemeSwitch.tsx": [
@@ -250,6 +264,20 @@
             "fileName": "f:\\invest\\components\\ThemeSwitch.tsx",
             "fileType": ".tsx",
             "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T09:12:47.027Z",
+            "fileName": "f:\\invest\\components\\ThemeSwitch.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "invest",
             "content": {
@@ -347,6 +375,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-23T09:12:11.934Z",
+            "fileName": "f:\\invest\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "css"
           }
         ],
@@ -456,6 +498,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T09:06:24.927Z",
+            "fileName": "f:\\invest\\components\\Pricing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\invest\\tailwind.config.js": [
+          {
+            "timestamp": "2025-04-23T09:12:27.923Z",
+            "fileName": "f:\\invest\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "invest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
