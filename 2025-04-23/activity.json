@@ -702,9 +702,9 @@
       "averageChangeSize": 20.857142857142858
     },
     "heypy": {
-      "totalLinesAdded": 1102,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 1112,
+      "totalLinesRemoved": 60,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
           {
@@ -838,6 +838,62 @@
             },
             "duration": 0,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:36:45.098Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:42:10.748Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:42:46.943Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:42:46.870Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "f:\\heypy\\globaletresorerie\\services\\templates\\payement.html": [
@@ -897,6 +953,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T20:39:06.509Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\views.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T20:41:28.794Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\views.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 30,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
