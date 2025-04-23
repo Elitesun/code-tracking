@@ -702,9 +702,9 @@
       "averageChangeSize": 20.857142857142858
     },
     "heypy": {
-      "totalLinesAdded": 113,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 142,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
           {
@@ -764,6 +764,36 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-04-23T19:36:12.864Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          }
+        ],
+        "f:\\heypy\\globaletresorerie\\globaletresorerie\\__pycache__\\settings.cpython-313.pyc": [
+          {
+            "timestamp": "2025-04-23T19:37:24.711Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\globaletresorerie\\__pycache__\\settings.cpython-313.pyc",
+            "fileType": ".pyc",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "pyc"
           }
         ]
       },
