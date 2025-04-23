@@ -173,6 +173,39 @@
         "f:\\indesign\\app\\layout.tsx"
       ],
       "averageChangeSize": 35
+    },
+    "fintech_site": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\fintech_site\\.next\\package.json": [
+          {
+            "timestamp": "2025-04-23T08:17:21.020Z",
+            "fileName": "f:\\fintech_site\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "fintech_site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "f:\\fintech_site\\.next\\package.json"
+      ],
+      "averageChangeSize": 3
     }
   },
   "totalActiveTime": 12,
