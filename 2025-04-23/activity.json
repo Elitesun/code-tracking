@@ -702,9 +702,9 @@
       "averageChangeSize": 20.857142857142858
     },
     "heypy": {
-      "totalLinesAdded": 142,
+      "totalLinesAdded": 457,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
           {
@@ -794,6 +794,36 @@
             },
             "duration": 2,
             "language": "pyc"
+          }
+        ],
+        "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html": [
+          {
+            "timestamp": "2025-04-23T20:03:31.238Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 232,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-23T20:03:34.385Z",
+            "fileName": "f:\\heypy\\globaletresorerie\\services\\templates\\paiement.html",
+            "fileType": ".html",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "heypy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
