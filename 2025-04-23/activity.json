@@ -1,0 +1,175 @@
+{
+  "date": "2025-04-23",
+  "projects": {
+    "indesign": {
+      "totalLinesAdded": 293,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 12,
+      "files": {
+        "f:\\indesign\\.next\\package.json": [
+          {
+            "timestamp": "2025-04-23T07:54:08.841Z",
+            "fileName": "f:\\indesign\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-23T07:56:07.636Z",
+            "fileName": "f:\\indesign\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ],
+        "f:\\indesign\\app\\layout.tsx": [
+          {
+            "timestamp": "2025-04-23T07:59:46.548Z",
+            "fileName": "f:\\indesign\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "f:\\indesign\\Components\\Hero.tsx": [
+          {
+            "timestamp": "2025-04-23T08:00:15.402Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T08:00:34.321Z",
+            "fileName": "f:\\indesign\\Components\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\indesign\\Components\\Nav.tsx": [
+          {
+            "timestamp": "2025-04-23T08:01:01.795Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T08:01:18.323Z",
+            "fileName": "f:\\indesign\\Components\\Nav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\indesign\\Components\\Footer.tsx": [
+          {
+            "timestamp": "2025-04-23T08:01:58.416Z",
+            "fileName": "f:\\indesign\\Components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-23T08:02:10.212Z",
+            "fileName": "f:\\indesign\\Components\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "indesign",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "tsx": 10
+      },
+      "changeFrequency": {
+        "7": 6,
+        "8": 6
+      },
+      "topFiles": [
+        "f:\\indesign\\.next\\package.json",
+        "f:\\indesign\\Components\\Hero.tsx",
+        "f:\\indesign\\Components\\Nav.tsx",
+        "f:\\indesign\\Components\\Footer.tsx",
+        "f:\\indesign\\app\\layout.tsx"
+      ],
+      "averageChangeSize": 35
+    }
+  },
+  "totalActiveTime": 12,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    7,
+    8
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "json"
+  ]
+}
