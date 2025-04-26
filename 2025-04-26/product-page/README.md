@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1096                                          |
-| **Lines Removed** (➖) | 129                                        |
+| **Lines Added** (➕)   | 1134                                          |
+| **Lines Removed** (➖) | 167                                        |
 | **Net Change** (↕)    | 967                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **page.tsx** (+7, -0)
 - **Commande_detail.tsx** (+164, -0)
 - **page.tsx** (+8, -0)
-- **Retrait_detail.tsx** (+99, -19)
+- **Retrait_detail.tsx** (+137, -57)
 - **page.tsx** (+12, -4)
 - **layout.tsx** (+65, -28)
 
@@ -34,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".tsx" : 1220
+".tsx" : 1296
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 16
-"12h" : 19
+"12h" : 23
 ```
 
 
-> **Last Updated:** 4/26/2025, 12:35:52 PM
+> **Last Updated:** 4/26/2025, 12:45:52 PM
