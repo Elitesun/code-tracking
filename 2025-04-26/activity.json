@@ -2,7 +2,7 @@
   "date": "2025-04-26",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 1083,
+      "totalLinesAdded": 1085,
       "totalLinesRemoved": 112,
       "totalActiveTime": 44,
       "files": {
@@ -71,6 +71,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:25:30.762Z",
+            "fileName": "f:\\product-page\\Components\\Produit_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "product-page",
             "content": {
               "added": [],
