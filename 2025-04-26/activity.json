@@ -2,9 +2,9 @@
   "date": "2025-04-26",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 1085,
-      "totalLinesRemoved": 112,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 1096,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 55,
       "files": {
         "f:\\product-page\\.next\\package.json": [
           {
@@ -253,6 +253,48 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:30:18.860Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:30:19.557Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:30:59.245Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
