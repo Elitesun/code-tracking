@@ -2,9 +2,9 @@
   "date": "2025-04-26",
   "projects": {
     "product-page": {
-      "totalLinesAdded": 1134,
-      "totalLinesRemoved": 167,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 1306,
+      "totalLinesRemoved": 332,
+      "totalActiveTime": 69,
       "files": {
         "f:\\product-page\\.next\\package.json": [
           {
@@ -166,6 +166,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:53:22.735Z",
+            "fileName": "f:\\product-page\\Components\\Laala_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:55:50.228Z",
+            "fileName": "f:\\product-page\\Components\\Laala_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\product-page\\app\\laala\\page.tsx": [
@@ -296,6 +324,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:54:06.544Z",
+            "fileName": "f:\\product-page\\Components\\Prestataire_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\product-page\\app\\prestataire\\page.tsx": [
@@ -355,6 +397,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:55:27.767Z",
+            "fileName": "f:\\product-page\\Components\\Boutique_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 61,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -504,6 +560,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-26T12:49:29.147Z",
+            "fileName": "f:\\product-page\\Components\\Retrait_detail.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\product-page\\app\\retrait\\page.tsx": [
@@ -578,6 +648,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\product-page\\app\\globals.css": [
+          {
+            "timestamp": "2025-04-26T12:51:55.627Z",
+            "fileName": "f:\\product-page\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-26T12:51:59.673Z",
+            "fileName": "f:\\product-page\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "product-page",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
