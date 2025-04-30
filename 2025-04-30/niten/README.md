@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13475                                          |
-| **Lines Removed** (➖) | 366                                        |
-| **Net Change** (↕)    | 13109                |
-| **Active Time** (⌚)   | 244 minutes |
+| **Lines Added** (➕)   | 13498                                          |
+| **Lines Removed** (➖) | 394                                        |
+| **Net Change** (↕)    | 13104                |
+| **Active Time** (⌚)   | 252 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **LanguageSwitcher.tsx** (+49, -0)
 - **i18n.ts** (+51, -17)
 - **routing.ts** (+62, -12)
-- **middleware.ts** (+64, -1)
+- **middleware.ts** (+80, -21)
 - **layout.tsx** (+107, -20)
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
@@ -49,8 +49,8 @@
 - **__init__.py** (+2, -1)
 - **main.py** (+37, -4)
 - **config.py** (+106, -52)
-- **request.ts** (+17, -0)
-- **middleware.ts** (+9, -0)
+- **request.ts** (+24, -0)
+- **middleware.ts** (+9, -8)
 - **package-lock.json** (+10788, -0)
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
@@ -66,7 +66,7 @@ pie showData
 title Lines changed by file type
 ".tsx" : 1391
 ".json" : 11306
-".ts" : 481
+".ts" : 532
 ".py" : 478
 ".example" : 9
 "unknown" : 47
@@ -89,8 +89,8 @@ title Coding activity by hour (count of changes)
 "17h" : 35
 "18h" : 6
 "19h" : 19
-"20h" : 6
+"20h" : 12
 ```
 
 
-> **Last Updated:** 4/30/2025, 8:07:12 PM
+> **Last Updated:** 4/30/2025, 8:17:12 PM
