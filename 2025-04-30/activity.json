@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 13373,
-      "totalLinesRemoved": 354,
+      "totalLinesRemoved": 355,
       "totalActiveTime": 232,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
@@ -727,6 +727,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T19:45:55.006Z",
+            "fileName": "f:\\niten\\frontend\\src\\i18n\\routing.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
