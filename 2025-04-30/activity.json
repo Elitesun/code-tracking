@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-30",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 263,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
+          {
+            "timestamp": "2025-04-30T09:15:12.532Z",
+            "fileName": "f:\\niten\\frontend\\src\\app\\careers\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 263,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-30T09:15:17.115Z",
+            "fileName": "f:\\niten\\frontend\\src\\app\\careers\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\src\\app\\careers\\page.tsx"
+      ],
+      "averageChangeSize": 132
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
