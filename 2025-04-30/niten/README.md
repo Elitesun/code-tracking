@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1999                                          |
-| **Lines Removed** (➖) | 194                                        |
-| **Net Change** (↕)    | 1805                |
-| **Active Time** (⌚)   | 147 minutes |
+| **Lines Added** (➕)   | 2134                                          |
+| **Lines Removed** (➖) | 198                                        |
+| **Net Change** (↕)    | 1936                |
+| **Active Time** (⌚)   | 160 minutes |
 
 
 ## Modified Files
@@ -39,10 +39,13 @@
 - **en.json** (+23, -22)
 - **fr.json** (+23, -22)
 - **page.tsx** (+70, -0)
-- **database.py** (+67, -31)
+- **database.py** (+69, -31)
 - **job_repository.py** (+46, -0)
-- **careers.py** (+83, -0)
-- **.env.example** (+1, -0)
+- **careers.py** (+84, -0)
+- **.env.example** (+5, -4)
+- **.env** (+3, -0)
+- **pyproject.toml** (+72, -0)
+- **requirements.txt** (+53, -0)
 
 ## Visualizations
 
@@ -54,8 +57,11 @@ title Lines changed by file type
 ".tsx" : 1154
 ".json" : 470
 ".ts" : 341
-".py" : 227
-".example" : 1
+".py" : 230
+".example" : 9
+"unknown" : 3
+".toml" : 72
+".txt" : 53
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -70,8 +76,8 @@ title Coding activity by hour (count of changes)
 "14h" : 19
 "15h" : 36
 "16h" : 10
-"17h" : 9
+"17h" : 17
 ```
 
 
-> **Last Updated:** 4/30/2025, 5:27:12 PM
+> **Last Updated:** 4/30/2025, 5:37:12 PM
