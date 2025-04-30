@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2327,
+      "totalLinesAdded": 2352,
       "totalLinesRemoved": 301,
-      "totalActiveTime": 207,
+      "totalActiveTime": 208,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
           {
@@ -149,6 +149,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T18:56:50.954Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-04-30T18:57:05.303Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
