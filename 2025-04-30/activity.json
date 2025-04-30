@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2134,
-      "totalLinesRemoved": 198,
-      "totalActiveTime": 160,
+      "totalLinesAdded": 2139,
+      "totalLinesRemoved": 243,
+      "totalActiveTime": 179,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
           {
@@ -1560,6 +1560,48 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:37:41.259Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:41:30.147Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:41:41.572Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\app\\repositories\\job_repository.py": [
@@ -1589,6 +1631,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:41:44.904Z",
+            "fileName": "f:\\niten\\fast_back\\app\\repositories\\job_repository.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
@@ -1633,6 +1689,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:41:39.105Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\careers.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
@@ -1724,6 +1794,34 @@
             },
             "duration": 2,
             "language": "toml"
+          },
+          {
+            "timestamp": "2025-04-30T17:37:52.852Z",
+            "fileName": "f:\\niten\\fast_back\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-04-30T17:41:36.609Z",
+            "fileName": "f:\\niten\\fast_back\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
           }
         ],
         "f:\\niten\\fast_back\\requirements.txt": [
@@ -1740,6 +1838,36 @@
             },
             "duration": 3,
             "language": "txt"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\__init__.py": [
+          {
+            "timestamp": "2025-04-30T17:43:44.997Z",
+            "fileName": "f:\\niten\\fast_back\\app\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-30T17:46:21.663Z",
+            "fileName": "f:\\niten\\fast_back\\app\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
           }
         ]
       },
