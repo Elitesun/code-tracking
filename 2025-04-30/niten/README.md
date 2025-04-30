@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13384                                          |
+| **Lines Added** (➕)   | 13475                                          |
 | **Lines Removed** (➖) | 366                                        |
-| **Net Change** (↕)    | 13018                |
-| **Active Time** (⌚)   | 239 minutes |
+| **Net Change** (↕)    | 13109                |
+| **Active Time** (⌚)   | 244 minutes |
 
 
 ## Modified Files
@@ -22,8 +22,8 @@
 - **config.ts** (+6, -1)
 - **LanguageSwitcher.tsx** (+49, -0)
 - **i18n.ts** (+51, -17)
-- **routing.ts** (+46, -12)
-- **middleware.ts** (+51, -1)
+- **routing.ts** (+62, -12)
+- **middleware.ts** (+64, -1)
 - **layout.tsx** (+107, -20)
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
@@ -33,8 +33,8 @@
 - **about.json** (+51, -32)
 - **config.ts** (+64, -16)
 - **navigation.ts** (+40, -3)
-- **common.json** (+24, -0)
 - **common.json** (+48, -0)
+- **common.json** (+72, -0)
 - **layout.tsx** (+47, -7)
 - **en.json** (+23, -22)
 - **fr.json** (+23, -22)
@@ -55,6 +55,7 @@
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
 - **layout.tsx** (+93, -53)
+- **getMessages.ts** (+14, -0)
 
 ## Visualizations
 
@@ -64,8 +65,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1391
-".json" : 11258
-".ts" : 438
+".json" : 11306
+".ts" : 481
 ".py" : 478
 ".example" : 9
 "unknown" : 47
@@ -87,8 +88,9 @@ title Coding activity by hour (count of changes)
 "16h" : 10
 "17h" : 35
 "18h" : 6
-"19h" : 18
+"19h" : 19
+"20h" : 6
 ```
 
 
-> **Last Updated:** 4/30/2025, 7:57:12 PM
+> **Last Updated:** 4/30/2025, 8:07:12 PM
