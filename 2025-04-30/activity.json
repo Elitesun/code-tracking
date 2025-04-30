@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "niten": {
-      "totalLinesAdded": 14922,
-      "totalLinesRemoved": 713,
-      "totalActiveTime": 349,
+      "totalLinesAdded": 14988,
+      "totalLinesRemoved": 803,
+      "totalActiveTime": 357,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
           {
@@ -3288,6 +3288,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-30T23:26:30.318Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 73,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-30T23:26:55.549Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-30T23:28:08.947Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\src\\types\\services.ts": [
@@ -3338,6 +3380,36 @@
           {
             "timestamp": "2025-04-30T23:22:53.917Z",
             "fileName": "f:\\niten\\frontend\\src\\content\\services\\en\\services.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          }
+        ],
+        "f:\\niten\\frontend\\src\\content\\services\\fr\\services.mdx": [
+          {
+            "timestamp": "2025-04-30T23:25:27.920Z",
+            "fileName": "f:\\niten\\frontend\\src\\content\\services\\fr\\services.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-04-30T23:25:59.450Z",
+            "fileName": "f:\\niten\\frontend\\src\\content\\services\\fr\\services.mdx",
             "fileType": ".mdx",
             "linesAdded": 49,
             "linesRemoved": 0,

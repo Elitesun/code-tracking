@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14922                                          |
-| **Lines Removed** (➖) | 713                                        |
-| **Net Change** (↕)    | 14209                |
-| **Active Time** (⌚)   | 349 minutes |
+| **Lines Added** (➕)   | 14988                                          |
+| **Lines Removed** (➖) | 803                                        |
+| **Net Change** (↕)    | 14185                |
+| **Active Time** (⌚)   | 357 minutes |
 
 
 ## Modified Files
@@ -63,8 +63,9 @@
 - **page.tsx** (+271, -9)
 - **services.json** (+83, -82)
 - **services.json** (+77, -76)
-- **ServiceGrid.tsx** (+204, -79)
+- **ServiceGrid.tsx** (+220, -169)
 - **services.ts** (+14, -0)
+- **services.mdx** (+50, -0)
 - **services.mdx** (+50, -0)
 
 ## Visualizations
@@ -74,7 +75,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2600
+".tsx" : 2706
 ".json" : 11767
 ".ts" : 555
 ".py" : 478
@@ -82,7 +83,7 @@ title Lines changed by file type
 "unknown" : 47
 ".toml" : 76
 ".txt" : 53
-".mdx" : 50
+".mdx" : 100
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -103,8 +104,8 @@ title Coding activity by hour (count of changes)
 "20h" : 15
 "21h" : 21
 "22h" : 13
-"23h" : 20
+"23h" : 25
 ```
 
 
-> **Last Updated:** 4/30/2025, 11:25:23 PM
+> **Last Updated:** 4/30/2025, 11:35:23 PM
