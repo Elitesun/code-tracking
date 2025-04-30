@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 947                                          |
+| **Lines Added** (➕)   | 974                                          |
 | **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 895                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Net Change** (↕)    | 922                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **navigation.ts** (+7, -0)
 - **middleware.ts** (+11, -10)
 - **request.ts** (+16, -0)
-- **layout.tsx** (+25, -0)
+- **layout.tsx** (+52, -0)
 - **config.ts** (+6, -1)
 - **LanguageSwitcher.tsx** (+49, -0)
 - **i18n.ts** (+19, -8)
@@ -39,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 551
+".tsx" : 578
 ".json" : 308
 ".ts" : 140
 ```
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "11h" : 4
 "12h" : 15
 "13h" : 16
-"14h" : 15
+"14h" : 17
 ```
 
 
-> **Last Updated:** 4/30/2025, 2:47:28 PM
+> **Last Updated:** 4/30/2025, 2:57:28 PM
