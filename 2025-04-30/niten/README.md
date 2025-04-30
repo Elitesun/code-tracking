@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1018                                          |
-| **Lines Removed** (➖) | 55                                        |
-| **Net Change** (↕)    | 963                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Lines Added** (➕)   | 1170                                          |
+| **Lines Removed** (➖) | 80                                        |
+| **Net Change** (↕)    | 1090                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
@@ -18,12 +18,12 @@
 - **navigation.ts** (+7, -0)
 - **middleware.ts** (+11, -10)
 - **request.ts** (+16, -0)
-- **layout.tsx** (+52, -0)
+- **layout.tsx** (+104, -9)
 - **config.ts** (+6, -1)
 - **LanguageSwitcher.tsx** (+49, -0)
-- **i18n.ts** (+19, -8)
+- **i18n.ts** (+33, -8)
 - **routing.ts** (+12, -0)
-- **middleware.ts** (+15, -0)
+- **middleware.ts** (+27, -0)
 - **layout.tsx** (+46, -0)
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
@@ -31,8 +31,10 @@
 - **Hero.tsx** (+60, -0)
 - **home.json** (+20, -0)
 - **about.json** (+51, -32)
-- **config.ts** (+26, -0)
+- **config.ts** (+52, -16)
 - **navigation.ts** (+18, -3)
+- **common.json** (+24, -0)
+- **common.json** (+24, -0)
 
 ## Visualizations
 
@@ -41,9 +43,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 578
-".json" : 308
-".ts" : 187
+".tsx" : 639
+".json" : 356
+".ts" : 255
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +58,8 @@ title Coding activity by hour (count of changes)
 "12h" : 15
 "13h" : 16
 "14h" : 19
-"15h" : 8
+"15h" : 17
 ```
 
 
-> **Last Updated:** 4/30/2025, 3:17:28 PM
+> **Last Updated:** 4/30/2025, 3:38:12 PM
