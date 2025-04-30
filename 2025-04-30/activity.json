@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 14157,
-      "totalLinesRemoved": 456,
+      "totalLinesRemoved": 458,
       "totalActiveTime": 308,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
@@ -2915,6 +2915,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-04-30T22:20:43.885Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
