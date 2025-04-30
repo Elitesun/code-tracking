@@ -2,7 +2,7 @@
   "date": "2025-04-30",
   "projects": {
     "niten": {
-      "totalLinesAdded": 14988,
+      "totalLinesAdded": 15057,
       "totalLinesRemoved": 803,
       "totalActiveTime": 357,
       "files": {
@@ -3420,6 +3420,22 @@
             },
             "duration": 1,
             "language": "mdx"
+          }
+        ],
+        "f:\\niten\\frontend\\package.json": [
+          {
+            "timestamp": "2025-04-30T23:44:07.524Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
