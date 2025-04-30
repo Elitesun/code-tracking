@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1391                                          |
-| **Lines Removed** (➖) | 132                                        |
-| **Net Change** (↕)    | 1259                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 1448                                          |
+| **Lines Removed** (➖) | 163                                        |
+| **Net Change** (↕)    | 1285                |
+| **Active Time** (⌚)   | 133 minutes |
 
 
 ## Modified Files
@@ -18,13 +18,13 @@
 - **navigation.ts** (+7, -0)
 - **middleware.ts** (+11, -10)
 - **request.ts** (+16, -0)
-- **layout.tsx** (+147, -9)
+- **layout.tsx** (+149, -11)
 - **config.ts** (+6, -1)
 - **LanguageSwitcher.tsx** (+49, -0)
-- **i18n.ts** (+47, -8)
+- **i18n.ts** (+51, -17)
 - **routing.ts** (+12, -0)
-- **middleware.ts** (+40, -1)
-- **layout.tsx** (+46, -0)
+- **middleware.ts** (+51, -1)
+- **layout.tsx** (+86, -20)
 - **page.tsx** (+23, -0)
 - **page.tsx** (+68, -0)
 - **page.tsx** (+16, -0)
@@ -46,9 +46,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 736
+".tsx" : 800
 ".json" : 470
-".ts" : 317
+".ts" : 341
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,9 @@ title Coding activity by hour (count of changes)
 "12h" : 15
 "13h" : 16
 "14h" : 19
-"15h" : 33
+"15h" : 36
+"16h" : 5
 ```
 
 
-> **Last Updated:** 4/30/2025, 3:55:20 PM
+> **Last Updated:** 4/30/2025, 4:05:20 PM
