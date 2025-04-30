@@ -2,9 +2,9 @@
   "date": "2025-04-30",
   "projects": {
     "niten": {
-      "totalLinesAdded": 263,
+      "totalLinesAdded": 365,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "f:\\niten\\frontend\\src\\app\\careers\\page.tsx": [
           {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json": [
+          {
+            "timestamp": "2025-04-30T11:39:40.048Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-30T11:39:40.893Z",
+            "fileName": "c:\\Users\\ELITESUN\\AppData\\Roaming\\Code\\User\\profiles\\-9ae1f02\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
