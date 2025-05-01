@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1506                                          |
-| **Lines Removed** (➖) | 593                                        |
-| **Net Change** (↕)    | 913                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Lines Added** (➕)   | 1545                                          |
+| **Lines Removed** (➖) | 594                                        |
+| **Net Change** (↕)    | 951                |
+| **Active Time** (⌚)   | 115 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,8 @@
 - **localeSwitcher.ts** (+55, -0)
 - **LangSwitch.tsx** (+21, -0)
 - **Switcher.ts** (+55, -9)
-- **Switcher.tsx** (+53, -0)
+- **Switcher.tsx** (+91, -1)
+- **Navbar.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 377
-".tsx" : 928
+".tsx" : 968
 ".ts" : 286
 ".mdx" : 508
 ```
@@ -55,8 +56,8 @@ title Coding activity by hour (count of changes)
 "00h" : 1
 "01h" : 15
 "02h" : 43
-"03h" : 21
+"03h" : 25
 ```
 
 
-> **Last Updated:** 5/1/2025, 3:42:36 AM
+> **Last Updated:** 5/1/2025, 3:52:36 AM
