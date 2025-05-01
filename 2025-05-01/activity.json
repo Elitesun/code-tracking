@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "niten": {
-      "totalLinesAdded": 177,
-      "totalLinesRemoved": 39,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 333,
+      "totalLinesRemoved": 110,
+      "totalActiveTime": 32,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -83,6 +83,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T02:14:38.591Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -178,6 +192,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T02:17:40.540Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx": [
@@ -236,6 +264,48 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-01T02:17:10.448Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 66,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-01T02:18:56.718Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-01T02:19:49.768Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\src\\data\\services.ts": [
@@ -288,6 +358,96 @@
             "fileName": "f:\\niten\\frontend\\next-intl.config.ts",
             "fileType": ".ts",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\content\\services\\en.mdx": [
+          {
+            "timestamp": "2025-05-01T02:16:32.982Z",
+            "fileName": "f:\\niten\\content\\services\\en.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-01T02:18:23.760Z",
+            "fileName": "f:\\niten\\content\\services\\en.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          }
+        ],
+        "f:\\niten\\content\\services\\fr.mdx": [
+          {
+            "timestamp": "2025-05-01T02:16:38.750Z",
+            "fileName": "f:\\niten\\content\\services\\fr.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-01T02:17:22.452Z",
+            "fileName": "f:\\niten\\content\\services\\fr.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          }
+        ],
+        "f:\\niten\\frontend\\src\\types\\mdx.d.ts": [
+          {
+            "timestamp": "2025-05-01T02:16:56.456Z",
+            "fileName": "f:\\niten\\frontend\\src\\types\\mdx.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T02:17:43.048Z",
+            "fileName": "f:\\niten\\frontend\\src\\types\\mdx.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
