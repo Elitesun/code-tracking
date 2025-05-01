@@ -2271,6 +2271,39 @@
         "f:\\niten\\frontend\\package.json"
       ],
       "averageChangeSize": 1
+    },
+    "jane_portfolio": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\jane_portfolio\\package.json": [
+          {
+            "timestamp": "2025-05-01T23:53:34.216Z",
+            "fileName": "f:\\jane_portfolio\\package.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "jane_portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "f:\\jane_portfolio\\package.json"
+      ],
+      "averageChangeSize": 28
     }
   },
   "totalActiveTime": 0,
