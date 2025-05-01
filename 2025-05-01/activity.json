@@ -2,8 +2,8 @@
   "date": "2025-05-01",
   "projects": {
     "niten": {
-      "totalLinesAdded": 119,
-      "totalLinesRemoved": 15,
+      "totalLinesAdded": 177,
+      "totalLinesRemoved": 39,
       "totalActiveTime": 21,
       "files": {
         "f:\\niten\\frontend\\package.json": [
@@ -76,6 +76,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-01T02:04:48.823Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "f:\\niten\\frontend\\src\\app\\[locale]\\careers\\page.tsx": [
@@ -99,6 +113,20 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-01T02:04:48.895Z",
+            "fileName": "f:\\niten\\frontend\\src\\app\\[locale]\\careers\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -135,6 +163,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T02:04:48.852Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
@@ -179,6 +221,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-01T02:04:48.862Z",
+            "fileName": "f:\\niten\\frontend\\src\\components\\services\\ServiceGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
