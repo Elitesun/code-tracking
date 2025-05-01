@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-01",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 0,
+      "files": {
+        "f:\\niten\\frontend\\package.json": [
+          {
+            "timestamp": "2025-05-01T00:24:21.096Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "0": 0
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\package.json"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
