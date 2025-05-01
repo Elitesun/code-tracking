@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2186                                          |
-| **Lines Removed** (➖) | 635                                        |
+| **Lines Added** (➕)   | 2210                                          |
+| **Lines Removed** (➖) | 659                                        |
 | **Net Change** (↕)    | 1551                |
-| **Active Time** (⌚)   | 162 minutes |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
@@ -36,11 +36,11 @@
 - **Navbar.tsx** (+4, -0)
 - **footer.json** (+37, -0)
 - **footer.json** (+37, -0)
-- **Footer.tsx** (+145, -0)
+- **Footer.tsx** (+146, -1)
 - **project.ts** (+12, -0)
 - **page.tsx** (+98, -1)
-- **ProjectGrid.tsx** (+120, -24)
-- **ProjectCard.tsx** (+113, -9)
+- **ProjectGrid.tsx** (+134, -38)
+- **ProjectCard.tsx** (+122, -18)
 - **create-frontend-branch.sh** (+15, -0)
 
 ## Visualizations
@@ -51,7 +51,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 451
-".tsx" : 1483
+".tsx" : 1531
 ".ts" : 364
 ".mdx" : 508
 ".sh" : 15
@@ -68,8 +68,8 @@ title Coding activity by hour (count of changes)
 "03h" : 27
 "08h" : 18
 "09h" : 8
-"10h" : 2
+"10h" : 8
 ```
 
 
-> **Last Updated:** 5/1/2025, 10:25:06 AM
+> **Last Updated:** 5/1/2025, 10:35:06 AM
