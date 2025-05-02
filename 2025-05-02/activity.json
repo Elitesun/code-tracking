@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 4302,
+      "totalLinesAdded": 4305,
       "totalLinesRemoved": 1112,
-      "totalActiveTime": 269,
+      "totalActiveTime": 271,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -1863,6 +1863,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T17:13:06.812Z",
+            "fileName": "f:\\niten\\frontend\\i18n\\request.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ],
         "f:\\niten\\frontend\\messages\\fr\\projects.json": [
@@ -2458,6 +2472,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T17:14:53.426Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\careers.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
