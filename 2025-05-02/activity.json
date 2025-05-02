@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 1159,
-      "totalLinesRemoved": 200,
-      "totalActiveTime": 103,
+      "totalLinesAdded": 1604,
+      "totalLinesRemoved": 347,
+      "totalActiveTime": 109,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -707,6 +707,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T12:52:47.215Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Testimonials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\layout\\Footer.tsx": [
@@ -821,6 +835,64 @@
             "fileName": "f:\\niten\\frontend\\components\\client\\TestimonialsCarousel.tsx",
             "fileType": ".tsx",
             "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T12:52:06.227Z",
+            "fileName": "f:\\niten\\frontend\\components\\client\\TestimonialsCarousel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T12:52:21.149Z",
+            "fileName": "f:\\niten\\frontend\\components\\client\\TestimonialsCarousel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 147,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\home\\TestimonialsAnimation.tsx": [
+          {
+            "timestamp": "2025-05-02T12:55:08.694Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\TestimonialsAnimation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T12:55:53.987Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\TestimonialsAnimation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 164,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
