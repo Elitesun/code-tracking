@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 306,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 52,
+      "totalLinesAdded": 422,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 60,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -242,6 +242,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:13:59.592Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:16:33.619Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
@@ -460,6 +488,36 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\ui\\CountUp.tsx": [
+          {
+            "timestamp": "2025-05-02T02:20:02.449Z",
+            "fileName": "f:\\niten\\frontend\\components\\ui\\CountUp.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:20:10.052Z",
+            "fileName": "f:\\niten\\frontend\\components\\ui\\CountUp.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
