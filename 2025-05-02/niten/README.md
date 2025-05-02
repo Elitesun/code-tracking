@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3395                                          |
-| **Lines Removed** (➖) | 969                                        |
-| **Net Change** (↕)    | 2426                |
-| **Active Time** (⌚)   | 216 minutes |
+| **Lines Added** (➕)   | 3645                                          |
+| **Lines Removed** (➖) | 1015                                        |
+| **Net Change** (↕)    | 2630                |
+| **Active Time** (⌚)   | 221 minutes |
 
 
 ## Modified Files
@@ -41,11 +41,13 @@
 - **projects.json** (+74, -0)
 - **ProjectGrid.tsx** (+98, -0)
 - **ProjectCard.tsx** (+117, -2)
-- **request.ts** (+27, -0)
+- **request.ts** (+28, -0)
 - **projects.json** (+76, -0)
-- **about.json** (+21, -0)
-- **about.json** (+20, -0)
-- **StatsSection.tsx** (+28, -0)
+- **about.json** (+68, -0)
+- **about.json** (+67, -0)
+- **StatsSection.tsx** (+38, -0)
+- **Constants.tsx** (+105, -46)
+- **HeroSection.tsx** (+40, -0)
 
 ## Visualizations
 
@@ -54,12 +56,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 374
+".json" : 468
 "unknown" : 8
-".tsx" : 3906
+".tsx" : 4107
 ".js" : 10
 ".css" : 21
-".ts" : 45
+".ts" : 46
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -76,8 +78,8 @@ title Coding activity by hour (count of changes)
 "13h" : 19
 "14h" : 30
 "15h" : 16
-"16h" : 6
+"16h" : 14
 ```
 
 
-> **Last Updated:** 5/2/2025, 4:11:18 PM
+> **Last Updated:** 5/2/2025, 4:21:18 PM
