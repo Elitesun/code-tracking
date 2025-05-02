@@ -36,8 +36,8 @@
     },
     "niten": {
       "totalLinesAdded": 2831,
-      "totalLinesRemoved": 927,
-      "totalActiveTime": 158,
+      "totalLinesRemoved": 955,
+      "totalActiveTime": 161,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -382,6 +382,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:36:04.388Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -829,6 +843,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:35:38.420Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\ui\\button.tsx": [
@@ -1022,6 +1050,20 @@
             "fileType": ".tsx",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:36:22.885Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Testimonials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -1418,6 +1460,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:35:11.979Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
