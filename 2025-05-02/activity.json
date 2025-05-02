@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 17,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 11,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -95,6 +95,50 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\.husky\\pre-commit": [
+          {
+            "timestamp": "2025-05-02T00:35:36.067Z",
+            "fileName": "f:\\niten\\frontend\\.husky\\pre-commit",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-02T00:37:37.446Z",
+            "fileName": "f:\\niten\\frontend\\.husky\\pre-commit",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-02T00:38:41.472Z",
+            "fileName": "f:\\niten\\frontend\\.husky\\pre-commit",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
