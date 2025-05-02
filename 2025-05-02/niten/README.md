@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 125                                          |
+| **Lines Added** (➕)   | 132                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 121                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Net Change** (↕)    | 128                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,9 @@
 - **pre-commit** (+4, -4)
 - **layout.tsx** (+24, -0)
 - **tailwind.config.js** (+10, -0)
-- **Hero.tsx** (+56, -0)
+- **Hero.tsx** (+57, -0)
 - **layout.tsx** (+14, -0)
+- **globals.css** (+6, -0)
 
 ## Visualizations
 
@@ -27,8 +28,9 @@ pie showData
 title Lines changed by file type
 ".json" : 17
 "unknown" : 8
-".tsx" : 94
+".tsx" : 95
 ".js" : 10
+".css" : 6
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 8
-"01h" : 7
+"01h" : 9
 ```
 
 
-> **Last Updated:** 5/2/2025, 1:20:45 AM
+> **Last Updated:** 5/2/2025, 1:40:46 AM
