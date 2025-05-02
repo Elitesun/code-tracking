@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4329                                          |
-| **Lines Removed** (➖) | 1115                                        |
-| **Net Change** (↕)    | 3214                |
-| **Active Time** (⌚)   | 277 minutes |
+| **Lines Added** (➕)   | 4356                                          |
+| **Lines Removed** (➖) | 1145                                        |
+| **Net Change** (↕)    | 3211                |
+| **Active Time** (⌚)   | 299 minutes |
 
 
 ## Modified Files
 - **package.json** (+73, -2)
-- **pre-commit** (+6, -4)
+- **pre-commit** (+8, -4)
 - **layout.tsx** (+24, -0)
 - **tailwind.config.js** (+10, -0)
 - **Hero.tsx** (+255, -74)
@@ -36,27 +36,28 @@
 - **getTranslation.ts** (+7, -0)
 - **FeatureIcons.tsx** (+17, -0)
 - **LanguageSwitcher.tsx** (+49, -0)
-- **page.tsx** (+72, -8)
+- **page.tsx** (+72, -11)
 - **page.tsx** (+103, -12)
 - **projects.json** (+74, -0)
-- **ProjectGrid.tsx** (+98, -0)
+- **ProjectGrid.tsx** (+98, -1)
 - **ProjectCard.tsx** (+117, -2)
-- **request.ts** (+29, -0)
+- **request.ts** (+30, -1)
 - **projects.json** (+76, -0)
-- **about.json** (+69, -0)
-- **about.json** (+68, -0)
-- **StatsSection.tsx** (+41, -0)
+- **about.json** (+69, -5)
+- **about.json** (+68, -4)
+- **StatsSection.tsx** (+41, -2)
 - **Constants.tsx** (+130, -120)
 - **HeroSection.tsx** (+43, -0)
 - **StorySection.tsx** (+46, -0)
-- **ValuesSection.tsx** (+44, -0)
+- **ValuesSection.tsx** (+49, -0)
 - **TeamSection.tsx** (+58, -4)
-- **CTASection.tsx** (+36, -0)
+- **CTASection.tsx** (+36, -2)
 - **careers.json** (+62, -0)
 - **careers.json** (+60, -0)
-- **page.tsx** (+265, -20)
+- **page.tsx** (+268, -20)
 - **.prettierignore** (+3, -0)
-- **.eslintrc.json** (+18, -0)
+- **.eslintrc.json** (+23, -11)
+- **.prettierrc.json** (+11, -1)
 
 ## Visualizations
 
@@ -65,12 +66,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 668
-"unknown" : 13
-".tsx" : 4685
+".json" : 705
+"unknown" : 15
+".tsx" : 4701
 ".js" : 10
 ".css" : 21
-".ts" : 47
+".ts" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -88,8 +89,9 @@ title Coding activity by hour (count of changes)
 "14h" : 30
 "15h" : 16
 "16h" : 42
-"17h" : 12
+"17h" : 26
+"18h" : 2
 ```
 
 
-> **Last Updated:** 5/2/2025, 5:51:18 PM
+> **Last Updated:** 5/2/2025, 6:01:18 PM
