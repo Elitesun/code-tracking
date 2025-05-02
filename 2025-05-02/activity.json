@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 1954,
-      "totalLinesRemoved": 782,
-      "totalActiveTime": 122,
+      "totalLinesAdded": 2060,
+      "totalLinesRemoved": 809,
+      "totalActiveTime": 128,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -791,6 +791,20 @@
             },
             "duration": 5,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T13:28:51.473Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Testimonials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\layout\\Footer.tsx": [
@@ -986,6 +1000,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T13:29:02.761Z",
+            "fileName": "f:\\niten\\frontend\\messages\\fr\\home.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\messages\\en\\home.json": [
+          {
+            "timestamp": "2025-05-02T13:30:18.815Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\home.json",
+            "fileType": ".json",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ]

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1954                                          |
-| **Lines Removed** (➖) | 782                                        |
-| **Net Change** (↕)    | 1172                |
-| **Active Time** (⌚)   | 122 minutes |
+| **Lines Added** (➕)   | 2060                                          |
+| **Lines Removed** (➖) | 809                                        |
+| **Net Change** (↕)    | 1251                |
+| **Active Time** (⌚)   | 128 minutes |
 
 
 ## Modified Files
@@ -23,14 +23,15 @@
 - **CountUp.tsx** (+99, -0)
 - **Features.tsx** (+78, -1)
 - **button.tsx** (+59, -0)
-- **Testimonials.tsx** (+657, -604)
+- **Testimonials.tsx** (+657, -631)
 - **Footer.tsx** (+145, -0)
 - **ServiceCard.tsx** (+113, -0)
 - **ServiceGrid.tsx** (+68, -0)
 - **testimonials.ts** (+11, -0)
 - **TestimonialsCarousel.tsx** (+148, -147)
 - **TestimonialsAnimation.tsx** (+165, -0)
-- **home.json** (+60, -0)
+- **home.json** (+83, -0)
+- **home.json** (+83, -0)
 
 ## Visualizations
 
@@ -39,9 +40,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 77
+".json" : 183
 "unknown" : 8
-".tsx" : 2609
+".tsx" : 2636
 ".js" : 10
 ".css" : 21
 ".ts" : 11
@@ -58,8 +59,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 1
 "12h" : 14
-"13h" : 4
+"13h" : 7
 ```
 
 
-> **Last Updated:** 5/2/2025, 1:28:03 PM
+> **Last Updated:** 5/2/2025, 1:38:03 PM
