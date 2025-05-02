@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 422,
+      "totalLinesAdded": 450,
       "totalLinesRemoved": 28,
-      "totalActiveTime": 60,
+      "totalActiveTime": 69,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -270,6 +270,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:22:40.735Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:27:30.536Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
@@ -511,6 +539,20 @@
             "fileName": "f:\\niten\\frontend\\components\\ui\\CountUp.tsx",
             "fileType": ".tsx",
             "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T02:28:17.521Z",
+            "fileName": "f:\\niten\\frontend\\components\\ui\\CountUp.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
