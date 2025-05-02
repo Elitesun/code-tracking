@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 132,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 293,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 43,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -289,6 +289,94 @@
             },
             "duration": 4,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-05-02T01:40:48.570Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-02T01:42:10.179Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\globals.css": [
+          {
+            "timestamp": "2025-05-02T01:46:46.368Z",
+            "fileName": "f:\\niten\\frontend\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-02T01:47:31.971Z",
+            "fileName": "f:\\niten\\frontend\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
+          {
+            "timestamp": "2025-05-02T01:46:48.209Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 148,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T01:47:23.427Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
