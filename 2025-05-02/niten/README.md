@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4723                                          |
-| **Lines Removed** (➖) | 1163                                        |
-| **Net Change** (↕)    | 3560                |
-| **Active Time** (⌚)   | 314 minutes |
+| **Lines Removed** (➖) | 1170                                        |
+| **Net Change** (↕)    | 3553                |
+| **Active Time** (⌚)   | 319 minutes |
 
 
 ## Modified Files
@@ -37,10 +37,10 @@
 - **FeatureIcons.tsx** (+17, -0)
 - **LanguageSwitcher.tsx** (+49, -0)
 - **page.tsx** (+72, -11)
-- **page.tsx** (+103, -12)
+- **page.tsx** (+103, -17)
 - **projects.json** (+74, -0)
 - **ProjectGrid.tsx** (+98, -1)
-- **ProjectCard.tsx** (+117, -2)
+- **ProjectCard.tsx** (+117, -4)
 - **request.ts** (+31, -1)
 - **projects.json** (+76, -0)
 - **about.json** (+69, -5)
@@ -70,7 +70,7 @@ pie showData
 title Lines changed by file type
 ".json" : 750
 "unknown" : 15
-".tsx" : 5040
+".tsx" : 5047
 ".js" : 10
 ".css" : 21
 ".ts" : 50
@@ -92,8 +92,8 @@ title Coding activity by hour (count of changes)
 "15h" : 16
 "16h" : 42
 "17h" : 26
-"18h" : 10
+"18h" : 12
 ```
 
 
-> **Last Updated:** 5/2/2025, 6:21:18 PM
+> **Last Updated:** 5/2/2025, 6:31:18 PM
