@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3645                                          |
+| **Lines Added** (➕)   | 3780                                          |
 | **Lines Removed** (➖) | 1015                                        |
-| **Net Change** (↕)    | 2630                |
-| **Active Time** (⌚)   | 221 minutes |
+| **Net Change** (↕)    | 2765                |
+| **Active Time** (⌚)   | 231 minutes |
 
 
 ## Modified Files
@@ -47,7 +47,10 @@
 - **about.json** (+67, -0)
 - **StatsSection.tsx** (+38, -0)
 - **Constants.tsx** (+105, -46)
-- **HeroSection.tsx** (+40, -0)
+- **HeroSection.tsx** (+43, -0)
+- **StorySection.tsx** (+46, -0)
+- **ValuesSection.tsx** (+43, -0)
+- **TeamSection.tsx** (+43, -0)
 
 ## Visualizations
 
@@ -58,7 +61,7 @@ pie showData
 title Lines changed by file type
 ".json" : 468
 "unknown" : 8
-".tsx" : 4107
+".tsx" : 4242
 ".js" : 10
 ".css" : 21
 ".ts" : 46
@@ -78,8 +81,8 @@ title Coding activity by hour (count of changes)
 "13h" : 19
 "14h" : 30
 "15h" : 16
-"16h" : 14
+"16h" : 20
 ```
 
 
-> **Last Updated:** 5/2/2025, 4:21:18 PM
+> **Last Updated:** 5/2/2025, 4:31:18 PM
