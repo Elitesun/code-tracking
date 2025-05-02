@@ -35,7 +35,7 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 122,
+      "totalLinesAdded": 125,
       "totalLinesRemoved": 4,
       "totalActiveTime": 24,
       "files": {
@@ -244,6 +244,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T01:20:41.905Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
