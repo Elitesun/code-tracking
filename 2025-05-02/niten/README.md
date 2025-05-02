@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2064                                          |
-| **Lines Removed** (➖) | 809                                        |
-| **Net Change** (↕)    | 1255                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 2420                                          |
+| **Lines Removed** (➖) | 925                                        |
+| **Net Change** (↕)    | 1495                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
@@ -15,12 +15,12 @@
 - **pre-commit** (+4, -4)
 - **layout.tsx** (+24, -0)
 - **tailwind.config.js** (+10, -0)
-- **Hero.tsx** (+102, -12)
+- **Hero.tsx** (+244, -64)
 - **layout.tsx** (+14, -0)
 - **globals.css** (+10, -6)
 - **globals.css** (+5, -0)
 - **Navbar.tsx** (+165, -8)
-- **CountUp.tsx** (+99, -0)
+- **CountUp.tsx** (+262, -64)
 - **Features.tsx** (+78, -1)
 - **button.tsx** (+59, -0)
 - **Testimonials.tsx** (+657, -631)
@@ -32,6 +32,8 @@
 - **TestimonialsAnimation.tsx** (+169, -0)
 - **home.json** (+83, -0)
 - **home.json** (+83, -0)
+- **StatsSection.tsx** (+44, -0)
+- **getTranslation.ts** (+7, -0)
 
 ## Visualizations
 
@@ -42,10 +44,10 @@ pie showData
 title Lines changed by file type
 ".json" : 183
 "unknown" : 8
-".tsx" : 2640
+".tsx" : 3105
 ".js" : 10
 ".css" : 21
-".ts" : 11
+".ts" : 18
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -59,8 +61,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 1
 "12h" : 14
-"13h" : 8
+"13h" : 19
 ```
 
 
-> **Last Updated:** 5/2/2025, 1:48:03 PM
+> **Last Updated:** 5/2/2025, 2:01:18 PM
