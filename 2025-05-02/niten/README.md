@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2420                                          |
-| **Lines Removed** (➖) | 925                                        |
-| **Net Change** (↕)    | 1495                |
-| **Active Time** (⌚)   | 139 minutes |
+| **Lines Added** (➕)   | 2550                                          |
+| **Lines Removed** (➖) | 927                                        |
+| **Net Change** (↕)    | 1623                |
+| **Active Time** (⌚)   | 147 minutes |
 
 
 ## Modified Files
@@ -21,9 +21,9 @@
 - **globals.css** (+5, -0)
 - **Navbar.tsx** (+165, -8)
 - **CountUp.tsx** (+262, -64)
-- **Features.tsx** (+78, -1)
+- **Features.tsx** (+157, -3)
 - **button.tsx** (+59, -0)
-- **Testimonials.tsx** (+657, -631)
+- **Testimonials.tsx** (+691, -631)
 - **Footer.tsx** (+145, -0)
 - **ServiceCard.tsx** (+113, -0)
 - **ServiceGrid.tsx** (+68, -0)
@@ -34,6 +34,7 @@
 - **home.json** (+83, -0)
 - **StatsSection.tsx** (+44, -0)
 - **getTranslation.ts** (+7, -0)
+- **FeatureIcons.tsx** (+17, -0)
 
 ## Visualizations
 
@@ -44,7 +45,7 @@ pie showData
 title Lines changed by file type
 ".json" : 183
 "unknown" : 8
-".tsx" : 3105
+".tsx" : 3237
 ".js" : 10
 ".css" : 21
 ".ts" : 18
@@ -62,7 +63,8 @@ title Coding activity by hour (count of changes)
 "11h" : 1
 "12h" : 14
 "13h" : 19
+"14h" : 7
 ```
 
 
-> **Last Updated:** 5/2/2025, 2:01:18 PM
+> **Last Updated:** 5/2/2025, 2:11:18 PM
