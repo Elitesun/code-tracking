@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 4356,
-      "totalLinesRemoved": 1145,
-      "totalActiveTime": 299,
+      "totalLinesAdded": 4383,
+      "totalLinesRemoved": 1158,
+      "totalActiveTime": 304,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -1947,6 +1947,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T18:07:44.922Z",
+            "fileName": "f:\\niten\\frontend\\i18n\\request.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\niten\\frontend\\messages\\fr\\projects.json": [
@@ -2671,6 +2685,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T18:10:19.998Z",
+            "fileName": "f:\\niten\\frontend\\messages\\fr\\careers.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ],
         "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx": [
@@ -2868,6 +2896,36 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\messages\\en\\common.json": [
+          {
+            "timestamp": "2025-05-02T18:07:11.289Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\common.json",
+            "fileType": ".json",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T18:07:17.311Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\common.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "niten",
             "content": {
               "added": [],
