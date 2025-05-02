@@ -35,9 +35,9 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 2710,
+      "totalLinesAdded": 2831,
       "totalLinesRemoved": 927,
-      "totalActiveTime": 154,
+      "totalActiveTime": 158,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -1372,6 +1372,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\layout\\LanguageSwitcher.tsx": [
+          {
+            "timestamp": "2025-05-02T14:22:30.302Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\LanguageSwitcher.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\services\\page.tsx": [
+          {
+            "timestamp": "2025-05-02T14:28:06.753Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:29:37.403Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
