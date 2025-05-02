@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4302                                          |
-| **Lines Removed** (➖) | 1095                                        |
-| **Net Change** (↕)    | 3207                |
-| **Active Time** (⌚)   | 268 minutes |
+| **Lines Removed** (➖) | 1112                                        |
+| **Net Change** (↕)    | 3190                |
+| **Active Time** (⌚)   | 269 minutes |
 
 
 ## Modified Files
@@ -54,7 +54,7 @@
 - **CTASection.tsx** (+36, -0)
 - **careers.json** (+60, -0)
 - **careers.json** (+60, -0)
-- **page.tsx** (+262, -0)
+- **page.tsx** (+262, -17)
 
 ## Visualizations
 
@@ -65,7 +65,7 @@ pie showData
 title Lines changed by file type
 ".json" : 648
 "unknown" : 10
-".tsx" : 4662
+".tsx" : 4679
 ".js" : 10
 ".css" : 21
 ".ts" : 46
@@ -86,8 +86,8 @@ title Coding activity by hour (count of changes)
 "14h" : 30
 "15h" : 16
 "16h" : 42
-"17h" : 3
+"17h" : 4
 ```
 
 
-> **Last Updated:** 5/2/2025, 5:01:18 PM
+> **Last Updated:** 5/2/2025, 5:11:18 PM
