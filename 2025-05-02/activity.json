@@ -35,7 +35,7 @@
       "averageChangeSize": 133
     },
     "niten": {
-      "totalLinesAdded": 2060,
+      "totalLinesAdded": 2064,
       "totalLinesRemoved": 809,
       "totalActiveTime": 128,
       "files": {
@@ -984,6 +984,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T13:39:19.786Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\TestimonialsAnimation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
