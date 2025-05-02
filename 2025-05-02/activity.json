@@ -36,8 +36,8 @@
     },
     "niten": {
       "totalLinesAdded": 3225,
-      "totalLinesRemoved": 955,
-      "totalActiveTime": 179,
+      "totalLinesRemoved": 960,
+      "totalActiveTime": 180,
       "files": {
         "f:\\niten\\frontend\\package.json": [
           {
@@ -1490,6 +1490,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T15:18:31.612Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\projects\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T15:19:20.216Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\projects\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
