@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4383                                          |
-| **Lines Removed** (➖) | 1158                                        |
-| **Net Change** (↕)    | 3225                |
-| **Active Time** (⌚)   | 304 minutes |
+| **Lines Added** (➕)   | 4723                                          |
+| **Lines Removed** (➖) | 1163                                        |
+| **Net Change** (↕)    | 3560                |
+| **Active Time** (⌚)   | 314 minutes |
 
 
 ## Modified Files
@@ -52,13 +52,14 @@
 - **ValuesSection.tsx** (+49, -0)
 - **TeamSection.tsx** (+58, -4)
 - **CTASection.tsx** (+36, -2)
-- **careers.json** (+62, -0)
-- **careers.json** (+62, -0)
+- **careers.json** (+63, -3)
+- **careers.json** (+62, -2)
 - **page.tsx** (+268, -20)
 - **.prettierignore** (+3, -0)
 - **.eslintrc.json** (+23, -11)
 - **.prettierrc.json** (+11, -1)
 - **common.json** (+24, -13)
+- **page.tsx** (+339, -0)
 
 ## Visualizations
 
@@ -67,9 +68,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 744
+".json" : 750
 "unknown" : 15
-".tsx" : 4701
+".tsx" : 5040
 ".js" : 10
 ".css" : 21
 ".ts" : 50
@@ -91,8 +92,8 @@ title Coding activity by hour (count of changes)
 "15h" : 16
 "16h" : 42
 "17h" : 26
-"18h" : 6
+"18h" : 10
 ```
 
 
-> **Last Updated:** 5/2/2025, 6:11:18 PM
+> **Last Updated:** 5/2/2025, 6:21:18 PM
