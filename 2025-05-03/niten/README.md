@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 822                                          |
-| **Lines Removed** (➖) | 156                                        |
-| **Net Change** (↕)    | 666                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 1035                                          |
+| **Lines Removed** (➖) | 294                                        |
+| **Net Change** (↕)    | 741                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **MapComponent.tsx** (+28, -1)
-- **page.tsx** (+686, -155)
+- **page.tsx** (+686, -293)
 - **ContactInfo.tsx** (+107, -0)
-- **ContactForm.tsx** (+1, -0)
+- **ContactForm.tsx** (+214, -0)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 978
+".tsx" : 1329
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 4
 "10h" : 2
-"11h" : 12
+"11h" : 17
 ```
 
 
-> **Last Updated:** 5/3/2025, 11:46:26 AM
+> **Last Updated:** 5/3/2025, 11:56:26 AM
