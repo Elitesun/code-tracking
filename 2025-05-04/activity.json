@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 3059,
-      "totalLinesRemoved": 336,
+      "totalLinesRemoved": 339,
       "totalActiveTime": 183,
       "files": {
         "f:\\niten\\frontend\\components\\contact\\MapComponent.tsx": [
@@ -1647,6 +1647,20 @@
             "fileType": ".tsx",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:58:28.872Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\details\\ServiceHero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "niten",
             "content": {
               "added": [],
