@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1588,
-      "totalLinesRemoved": 245,
-      "totalActiveTime": 108,
+      "totalLinesAdded": 1702,
+      "totalLinesRemoved": 247,
+      "totalActiveTime": 114,
       "files": {
         "f:\\niten\\frontend\\components\\contact\\MapComponent.tsx": [
           {
@@ -339,6 +339,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T17:28:37.462Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\ServiceCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T17:30:53.144Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\ServiceCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -1223,6 +1251,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\projects\\ProjectCard.tsx": [
+          {
+            "timestamp": "2025-05-04T17:29:02.831Z",
+            "fileName": "f:\\niten\\frontend\\components\\projects\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T17:29:09.303Z",
+            "fileName": "f:\\niten\\frontend\\components\\projects\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
