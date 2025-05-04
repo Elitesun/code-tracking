@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2806                                          |
+| **Lines Added** (➕)   | 2862                                          |
 | **Lines Removed** (➖) | 251                                        |
-| **Net Change** (↕)    | 2555                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Net Change** (↕)    | 2611                |
+| **Active Time** (⌚)   | 161 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **settings.json** (+107, -2)
 - **services.json** (+185, -0)
 - **services.json** (+185, -0)
-- **page.tsx** (+179, -1)
+- **page.tsx** (+180, -1)
 - **ServiceCard.tsx** (+239, -1)
 - **page.tsx** (+124, -1)
 - **not-found.tsx** (+126, -47)
@@ -37,10 +37,10 @@
 - **style.css** (+8, -4)
 - **tailwind.config.js** (+140, -0)
 - **Component.js** (+556, -0)
-- **ServiceHero.tsx** (+70, -0)
+- **ServiceHero.tsx** (+94, -0)
 - **ServiceFeatures.tsx** (+44, -0)
 - **SpotlightCard.tsx** (+70, -0)
-- **serviceImages.ts** (+1, -0)
+- **serviceImages.ts** (+32, -0)
 
 ## Visualizations
 
@@ -49,10 +49,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1377
+".tsx" : 1402
 ".json" : 509
 ".css" : 272
-".ts" : 183
+".ts" : 214
 ".js" : 716
 ```
 
@@ -70,8 +70,8 @@ title Coding activity by hour (count of changes)
 "16h" : 20
 "17h" : 6
 "18h" : 16
-"19h" : 3
+"19h" : 6
 ```
 
 
-> **Last Updated:** 5/4/2025, 7:07:58 PM
+> **Last Updated:** 5/4/2025, 7:17:58 PM

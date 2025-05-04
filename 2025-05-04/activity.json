@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2806,
+      "totalLinesAdded": 2862,
       "totalLinesRemoved": 251,
-      "totalActiveTime": 146,
+      "totalActiveTime": 161,
       "files": {
         "f:\\niten\\frontend\\components\\contact\\MapComponent.tsx": [
           {
@@ -330,6 +330,20 @@
             "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:12:01.193Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
@@ -1486,6 +1500,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:12:01.321Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\details\\ServiceHero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\services\\details\\ServiceFeatures.tsx": [
@@ -1561,6 +1589,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-04T19:12:01.017Z",
+            "fileName": "f:\\niten\\frontend\\lib\\serviceImages.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ]
