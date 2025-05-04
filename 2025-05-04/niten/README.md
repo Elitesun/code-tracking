@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3248                                          |
-| **Lines Removed** (➖) | 339                                        |
-| **Net Change** (↕)    | 2909                |
-| **Active Time** (⌚)   | 205 minutes |
+| **Lines Added** (➕)   | 3389                                          |
+| **Lines Removed** (➖) | 367                                        |
+| **Net Change** (↕)    | 3022                |
+| **Active Time** (⌚)   | 217 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **settings.json** (+107, -2)
 - **services.json** (+270, -0)
 - **services.json** (+270, -0)
-- **page.tsx** (+180, -2)
+- **page.tsx** (+190, -2)
 - **ServiceCard.tsx** (+239, -1)
 - **page.tsx** (+124, -1)
 - **not-found.tsx** (+126, -47)
@@ -42,7 +42,9 @@
 - **SpotlightCard.tsx** (+83, -13)
 - **serviceImages.ts** (+32, -0)
 - **globals.css** (+148, -20)
-- **layout.tsx** (+7, -0)
+- **layout.tsx** (+28, -0)
+- **eslint.config.mjs** (+26, -0)
+- **layout.tsx** (+84, -28)
 
 ## Visualizations
 
@@ -51,11 +53,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1538
+".tsx" : 1681
 ".json" : 679
 ".css" : 440
 ".ts" : 214
 ".js" : 716
+".mjs" : 26
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -74,8 +77,9 @@ title Coding activity by hour (count of changes)
 "18h" : 16
 "19h" : 23
 "20h" : 5
-"21h" : 5
+"21h" : 9
+"22h" : 3
 ```
 
 
-> **Last Updated:** 5/4/2025, 9:53:23 PM
+> **Last Updated:** 5/4/2025, 10:03:23 PM
