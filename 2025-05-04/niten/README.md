@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1213                                          |
-| **Lines Removed** (➖) | 133                                        |
-| **Net Change** (↕)    | 1080                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Lines Added** (➕)   | 1284                                          |
+| **Lines Removed** (➖) | 172                                        |
+| **Net Change** (↕)    | 1112                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -19,11 +19,11 @@
 - **page.tsx** (+166, -1)
 - **ServiceCard.tsx** (+119, -0)
 - **page.tsx** (+63, -1)
-- **not-found.tsx** (+126, -8)
+- **not-found.tsx** (+126, -47)
 - **notfound.json** (+6, -0)
 - **notfound.json** (+1, -0)
 - **package.json** (+3, -2)
-- **not-found.tsx** (+75, -74)
+- **not-found.tsx** (+114, -74)
 - **not-found.css** (+97, -0)
 - **middleware.ts** (+59, -37)
 - **request.ts** (+35, -3)
@@ -31,6 +31,7 @@
 - **[[sllug]].js** (+20, -0)
 - **error.json** (+9, -0)
 - **error.json** (+9, -0)
+- **not-found.css** (+32, -0)
 
 ## Visualizations
 
@@ -39,9 +40,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 741
+".tsx" : 819
 ".json" : 307
-".css" : 97
+".css" : 129
 ".ts" : 181
 ".js" : 20
 ```
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 9
 "15h" : 17
-"16h" : 9
+"16h" : 13
 ```
 
 
-> **Last Updated:** 5/4/2025, 4:08:59 PM
+> **Last Updated:** 5/4/2025, 4:18:59 PM
