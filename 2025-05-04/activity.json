@@ -3,8 +3,8 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 3042,
-      "totalLinesRemoved": 251,
-      "totalActiveTime": 170,
+      "totalLinesRemoved": 319,
+      "totalActiveTime": 181,
       "files": {
         "f:\\niten\\frontend\\components\\contact\\MapComponent.tsx": [
           {
@@ -1556,6 +1556,48 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:30:17.328Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\details\\ServiceHero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:32:14.188Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\details\\ServiceHero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:34:53.015Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\details\\ServiceHero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\services\\details\\ServiceFeatures.tsx": [
@@ -1644,6 +1686,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-04T19:28:38.470Z",
+            "fileName": "f:\\niten\\frontend\\components\\ui\\SpotlightCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\lib\\serviceImages.ts": [
@@ -1697,6 +1753,20 @@
             "fileType": ".css",
             "linesAdded": 20,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-04T19:28:46.560Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 20,
             "projectName": "niten",
             "content": {
               "added": [],
