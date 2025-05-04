@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3241                                          |
+| **Lines Added** (➕)   | 3248                                          |
 | **Lines Removed** (➖) | 339                                        |
-| **Net Change** (↕)    | 2902                |
-| **Active Time** (⌚)   | 204 minutes |
+| **Net Change** (↕)    | 2909                |
+| **Active Time** (⌚)   | 205 minutes |
 
 
 ## Modified Files
@@ -42,6 +42,7 @@
 - **SpotlightCard.tsx** (+83, -13)
 - **serviceImages.ts** (+32, -0)
 - **globals.css** (+148, -20)
+- **layout.tsx** (+7, -0)
 
 ## Visualizations
 
@@ -50,7 +51,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1531
+".tsx" : 1538
 ".json" : 679
 ".css" : 440
 ".ts" : 214
@@ -73,8 +74,8 @@ title Coding activity by hour (count of changes)
 "18h" : 16
 "19h" : 23
 "20h" : 5
-"21h" : 3
+"21h" : 5
 ```
 
 
-> **Last Updated:** 5/4/2025, 9:43:23 PM
+> **Last Updated:** 5/4/2025, 9:53:23 PM
