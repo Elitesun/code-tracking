@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "niten": {
-      "totalLinesAdded": 642,
-      "totalLinesRemoved": 186,
-      "totalActiveTime": 42,
+      "totalLinesAdded": 706,
+      "totalLinesRemoved": 251,
+      "totalActiveTime": 45,
       "files": {
         "f:\\niten\\frontend\\components\\home\\Hero.tsx": [
           {
@@ -489,6 +489,64 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T19:24:53.089Z",
+            "fileName": "f:\\niten\\frontend\\components\\auth\\SignInPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 64,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T19:25:20.490Z",
+            "fileName": "f:\\niten\\frontend\\components\\auth\\SignInPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T19:25:28.681Z",
+            "fileName": "f:\\niten\\frontend\\components\\auth\\SignInPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\auth\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T19:26:02.097Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\auth\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
