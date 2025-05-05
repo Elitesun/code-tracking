@@ -2,8 +2,8 @@
   "date": "2025-05-05",
   "projects": {
     "niten": {
-      "totalLinesAdded": 375,
-      "totalLinesRemoved": 26,
+      "totalLinesAdded": 398,
+      "totalLinesRemoved": 47,
       "totalActiveTime": 28,
       "files": {
         "f:\\niten\\frontend\\components\\home\\Hero.tsx": [
@@ -41,6 +41,20 @@
             "fileType": ".tsx",
             "linesAdded": 28,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T09:21:48.418Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Hero.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 21,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -93,6 +107,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T09:21:54.672Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Testimonials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -319,6 +347,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T09:21:50.624Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
