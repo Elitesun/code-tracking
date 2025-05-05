@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 257,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 14,
       "files": {
         "f:\\niten\\frontend\\components\\home\\Hero.tsx": [
           {
@@ -33,6 +33,98 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\layout\\Footer.tsx": [
+          {
+            "timestamp": "2025-05-05T08:07:02.431Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Footer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\home\\Testimonials.tsx": [
+          {
+            "timestamp": "2025-05-05T08:07:47.831Z",
+            "fileName": "f:\\niten\\frontend\\components\\home\\Testimonials.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\contact\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T08:11:20.157Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\contact\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\about\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T08:12:06.230Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T08:12:09.743Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T08:12:29.963Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
