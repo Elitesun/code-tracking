@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "niten": {
-      "totalLinesAdded": 931,
-      "totalLinesRemoved": 335,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 1791,
+      "totalLinesRemoved": 342,
+      "totalActiveTime": 76,
       "files": {
         "f:\\niten\\frontend\\components\\home\\Hero.tsx": [
           {
@@ -833,6 +833,226 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\(website)\\about\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T20:43:36.256Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(website)\\about\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\about\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:36.277Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\about\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:36.818Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:36.712Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\contact\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:36.911Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\contact\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\projects\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:37.165Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\projects\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\[id]\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:36.760Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\[id]\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\services\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:37.891Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\services\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\services\\[id]\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:43:37.997Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\services\\[id]\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\page.ts": [
+          {
+            "timestamp": "2025-05-05T20:44:22.822Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\(website)\\layout.tsx": [
+          {
+            "timestamp": "2025-05-05T20:44:22.779Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(website)\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T20:44:43.626Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(website)\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\(auth)\\auth\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T20:45:41.957Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(auth)\\auth\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T20:45:51.213Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(auth)\\auth\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
