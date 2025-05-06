@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-06",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx": [
+          {
+            "timestamp": "2025-05-06T09:35:14.596Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-06T09:35:30.579Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
