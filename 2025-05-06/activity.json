@@ -3,8 +3,8 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 268,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 8,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx": [
           {
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-06T10:20:57.259Z",
+            "fileName": "f:\\niten\\frontend\\components\\auth\\SignInPage.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
