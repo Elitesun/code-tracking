@@ -2,9 +2,9 @@
   "date": "2025-05-06",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2861,
+      "totalLinesAdded": 2868,
       "totalLinesRemoved": 41,
-      "totalActiveTime": 119,
+      "totalActiveTime": 121,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\(auth)\\layout.tsx": [
           {
@@ -687,6 +687,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-06T22:35:23.493Z",
+            "fileName": "f:\\niten\\frontend\\i18n\\routing.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -1425,6 +1439,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-06T22:34:59.025Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
