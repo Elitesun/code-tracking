@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2625                                          |
-| **Lines Removed** (➖) | 40                                        |
-| **Net Change** (↕)    | 2585                |
-| **Active Time** (⌚)   | 106 minutes |
+| **Lines Added** (➕)   | 2861                                          |
+| **Lines Removed** (➖) | 41                                        |
+| **Net Change** (↕)    | 2820                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **LangSwitch.tsx** (+22, -0)
 - **Switcher.tsx** (+137, -0)
 - **request.ts** (+32, -0)
-- **routing.ts** (+39, -0)
+- **routing.ts** (+78, -0)
 - **AOSInit.tsx** (+15, -0)
 - **useScrollPosition.ts** (+22, -0)
 - **ServiceGrid.tsx** (+66, -0)
@@ -42,6 +42,9 @@
 - **ApplicationForm.tsx** (+292, -1)
 - **careers.json** (+76, -0)
 - **careers.json** (+76, -0)
+- **Navbar.tsx** (+173, -1)
+- **navigation.json** (+12, -0)
+- **navigation.json** (+12, -0)
 
 ## Visualizations
 
@@ -50,10 +53,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1806
+".tsx" : 1980
 ".css" : 132
-".ts" : 147
-".json" : 580
+".ts" : 186
+".json" : 604
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -68,8 +71,8 @@ title Coding activity by hour (count of changes)
 "18h" : 15
 "19h" : 15
 "21h" : 3
-"22h" : 5
+"22h" : 14
 ```
 
 
-> **Last Updated:** 5/6/2025, 10:24:41 PM
+> **Last Updated:** 5/6/2025, 10:34:41 PM
