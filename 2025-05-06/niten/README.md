@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2053                                          |
-| **Lines Removed** (➖) | 34                                        |
-| **Net Change** (↕)    | 2019                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 2232                                          |
+| **Lines Removed** (➖) | 35                                        |
+| **Net Change** (↕)    | 2197                |
+| **Active Time** (⌚)   | 94 minutes |
 
 
 ## Modified Files
@@ -35,9 +35,11 @@
 - **auth.json** (+27, -0)
 - **auth.json** (+27, -0)
 - **Features.tsx** (+94, -12)
-- **page.tsx** (+21, -0)
+- **page.tsx** (+22, -0)
 - **JoinTeamForm.tsx** (+110, -0)
-- **HeroSection.tsx** (+44, -0)
+- **HeroSection.tsx** (+44, -1)
+- **page.tsx** (+31, -0)
+- **ApplicationForm.tsx** (+147, -0)
 
 ## Visualizations
 
@@ -46,7 +48,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1380
+".tsx" : 1560
 ".css" : 132
 ".ts" : 147
 ".json" : 428
@@ -62,8 +64,8 @@ title Coding activity by hour (count of changes)
 "12h" : 4
 "17h" : 32
 "18h" : 15
-"19h" : 5
+"19h" : 11
 ```
 
 
-> **Last Updated:** 5/6/2025, 7:22:03 PM
+> **Last Updated:** 5/6/2025, 7:32:03 PM
