@@ -4,19 +4,30 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 413                                          |
+| **Lines Added** (➕)   | 1018                                          |
 | **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 392                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Net Change** (↕)    | 997                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
 - **layout.tsx** (+31, -7)
 - **page.tsx** (+64, -0)
-- **ServiceHero.tsx** (+98, -0)
+- **ServiceHero.tsx** (+198, -0)
 - **SignInPage.tsx** (+89, -12)
 - **globals.css** (+130, -2)
 - **page.tsx** (+1, -0)
+- **middleware.ts** (+23, -0)
+- **project.ts** (+13, -0)
+- **services.ts** (+18, -0)
+- **LangSwitch.tsx** (+22, -0)
+- **Switcher.tsx** (+137, -0)
+- **request.ts** (+31, -0)
+- **routing.ts** (+39, -0)
+- **AOSInit.tsx** (+15, -0)
+- **useScrollPosition.ts** (+22, -0)
+- **ServiceGrid.tsx** (+66, -0)
+- **ServiceCard.tsx** (+119, -0)
 
 ## Visualizations
 
@@ -25,8 +36,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 302
+".tsx" : 761
 ".css" : 132
+".ts" : 146
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,7 +49,8 @@ title Coding activity by hour (count of changes)
 "09h" : 4
 "10h" : 14
 "12h" : 4
+"17h" : 21
 ```
 
 
-> **Last Updated:** 5/6/2025, 12:45:11 PM
+> **Last Updated:** 5/6/2025, 5:12:03 PM
