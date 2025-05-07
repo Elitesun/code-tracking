@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1121                                          |
-| **Lines Removed** (➖) | 75                                        |
-| **Net Change** (↕)    | 1046                |
+| **Lines Removed** (➖) | 83                                        |
+| **Net Change** (↕)    | 1038                |
 | **Active Time** (⌚)   | 33 minutes |
 
 
@@ -20,7 +20,7 @@
 - **AOSProvider.tsx** (+23, -0)
 - **ServiceCard.tsx** (+127, -8)
 - **ServiceGrid.tsx** (+69, -3)
-- **ServiceHero.tsx** (+128, -15)
+- **ServiceHero.tsx** (+128, -23)
 - **page.tsx** (+115, -37)
 - **page.tsx** (+118, -10)
 - **SubFeatureSection.tsx** (+89, -0)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1196
+".tsx" : 1204
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "10h" : 14
-"11h" : 16
+"11h" : 17
 ```
 
 
-> **Last Updated:** 5/7/2025, 11:26:57 AM
+> **Last Updated:** 5/7/2025, 11:36:57 AM
