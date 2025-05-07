@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2323                                          |
-| **Lines Removed** (➖) | 135                                        |
-| **Net Change** (↕)    | 2188                |
-| **Active Time** (⌚)   | 83 minutes |
+| **Lines Added** (➕)   | 2386                                          |
+| **Lines Removed** (➖) | 196                                        |
+| **Net Change** (↕)    | 2190                |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
 - **page.tsx** (+14, -0)
 - **Hero.tsx** (+113, -0)
 - **Features.tsx** (+82, -0)
-- **layout.tsx** (+122, -2)
+- **layout.tsx** (+185, -63)
 - **ProjectCard.tsx** (+236, -2)
 - **page.tsx** (+21, -0)
 - **AOSProvider.tsx** (+23, -0)
@@ -43,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2452
+".tsx" : 2576
 ".json" : 5
 "unknown" : 1
 ```
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "18h" : 2
 "19h" : 8
 "20h" : 5
-"21h" : 1
+"21h" : 4
 ```
 
 
-> **Last Updated:** 5/7/2025, 9:12:54 PM
+> **Last Updated:** 5/7/2025, 9:22:54 PM
