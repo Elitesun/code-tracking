@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1696                                          |
+| **Lines Added** (➕)   | 1963                                          |
 | **Lines Removed** (➖) | 101                                        |
-| **Net Change** (↕)    | 1595                |
-| **Active Time** (⌚)   | 45 minutes |
+| **Net Change** (↕)    | 1862                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,11 @@
 - **AOSInit.tsx** (+47, -0)
 - **ProjectGrid.tsx** (+198, -6)
 - **page.tsx** (+188, -0)
+- **HeroSection.tsx** (+60, -0)
+- **ValuesSection.tsx** (+53, -0)
+- **TeamSection.tsx** (+58, -0)
+- **StorySection.tsx** (+48, -0)
+- **CTASection.tsx** (+48, -0)
 
 ## Visualizations
 
@@ -35,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1797
+".tsx" : 2064
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -47,8 +52,8 @@ title Coding activity by hour (count of changes)
 "10h" : 14
 "11h" : 25
 "16h" : 3
-"17h" : 1
+"17h" : 11
 ```
 
 
-> **Last Updated:** 5/7/2025, 5:14:07 PM
+> **Last Updated:** 5/7/2025, 5:24:07 PM
