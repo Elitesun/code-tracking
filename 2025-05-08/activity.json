@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1482,
+      "totalLinesAdded": 1532,
       "totalLinesRemoved": 218,
-      "totalActiveTime": 34,
+      "totalActiveTime": 41,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx": [
           {
@@ -159,6 +159,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T10:22:50.977Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -466,6 +480,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T10:22:51.343Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\messages\\en\\jobPostings.json": [
@@ -495,6 +523,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:23:11.717Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\jobPostings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
@@ -564,6 +606,20 @@
             "fileName": "f:\\niten\\frontend\\next.config.mjs",
             "fileType": ".mjs",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-08T10:22:51.444Z",
+            "fileName": "f:\\niten\\frontend\\next.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
