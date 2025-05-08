@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1532,
-      "totalLinesRemoved": 218,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 1611,
+      "totalLinesRemoved": 420,
+      "totalActiveTime": 43,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx": [
           {
@@ -174,6 +174,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:10.902Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\messages\\en.json": [
@@ -276,6 +290,20 @@
             },
             "duration": 5,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:15.052Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\messages\\ja.json": [
@@ -350,6 +378,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:10.598Z",
+            "fileName": "f:\\niten\\frontend\\messages\\fr\\careers.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "f:\\niten\\frontend\\messages\\en\\careers.json": [
@@ -401,6 +443,20 @@
             "fileType": ".json",
             "linesAdded": 7,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:10.419Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\careers.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -494,6 +550,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:14.943Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\messages\\en\\jobPostings.json": [
@@ -538,6 +608,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:10.689Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\jobPostings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 81,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ],
         "f:\\niten\\frontend\\messages\\fr\\jobPostings.json": [
@@ -567,6 +651,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-08T10:36:10.733Z",
+            "fileName": "f:\\niten\\frontend\\messages\\fr\\jobPostings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
