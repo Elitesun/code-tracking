@@ -1,0 +1,122 @@
+{
+  "date": "2025-05-09",
+  "projects": {
+    "un_laala": {
+      "totalLinesAdded": 211,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 7,
+      "files": {
+        "f:\\un_laala\\data\\collection.json": [
+          {
+            "timestamp": "2025-05-09T19:43:36.382Z",
+            "fileName": "f:\\un_laala\\data\\collection.json",
+            "fileType": ".json",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-09T19:43:50.295Z",
+            "fileName": "f:\\un_laala\\data\\collection.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-09T19:44:10.345Z",
+            "fileName": "f:\\un_laala\\data\\collection.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\un_laala\\app\\page.tsx": [
+          {
+            "timestamp": "2025-05-09T19:44:23.013Z",
+            "fileName": "f:\\un_laala\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-09T19:44:34.458Z",
+            "fileName": "f:\\un_laala\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-09T19:47:14.429Z",
+            "fileName": "f:\\un_laala\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "un_laala",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "tsx": 5
+      },
+      "changeFrequency": {
+        "19": 7
+      },
+      "topFiles": [
+        "f:\\un_laala\\data\\collection.json",
+        "f:\\un_laala\\app\\page.tsx"
+      ],
+      "averageChangeSize": 36.166666666666664
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "json"
+  ]
+}
