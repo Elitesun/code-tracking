@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 986                                          |
-| **Lines Removed** (➖) | 201                                        |
-| **Net Change** (↕)    | 785                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 1026                                          |
+| **Lines Removed** (➖) | 210                                        |
+| **Net Change** (↕)    | 816                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
 - **collection.json** (+131, -5)
-- **page.tsx** (+402, -42)
-- **laala.json** (+56, -14)
+- **page.tsx** (+418, -51)
+- **laala.json** (+80, -14)
 - **MediaModal.tsx** (+169, -57)
 - **MediaViewer.tsx** (+149, -83)
 - **next.config.ts** (+31, -0)
@@ -26,8 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 206
-".tsx" : 902
+".json" : 230
+".tsx" : 927
 ".ts" : 79
 ```
 
@@ -37,8 +37,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 12
-"20h" : 29
+"20h" : 33
+"21h" : 1
 ```
 
 
-> **Last Updated:** 5/9/2025, 8:52:33 PM
+> **Last Updated:** 5/9/2025, 9:02:33 PM
