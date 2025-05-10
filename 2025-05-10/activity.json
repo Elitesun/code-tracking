@@ -3,8 +3,8 @@
   "projects": {
     "Elitesun": {
       "totalLinesAdded": 23073,
-      "totalLinesRemoved": 9155,
-      "totalActiveTime": 98,
+      "totalLinesRemoved": 9192,
+      "totalActiveTime": 99,
       "files": {
         "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx": [
           {
@@ -608,6 +608,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-10T17:56:23.847Z",
+            "fileName": "f:\\Elitesun\\src\\app\\resources\\config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\Elitesun\\src\\app\\blog\\[slug]\\page.tsx": [
@@ -1119,6 +1133,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T17:55:34.019Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\StylePanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
