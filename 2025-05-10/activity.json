@@ -3,7 +3,7 @@
   "projects": {
     "Elitesun": {
       "totalLinesAdded": 23073,
-      "totalLinesRemoved": 9142,
+      "totalLinesRemoved": 9155,
       "totalActiveTime": 98,
       "files": {
         "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx": [
@@ -795,6 +795,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T17:40:46.759Z",
+            "fileName": "f:\\Elitesun\\src\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
