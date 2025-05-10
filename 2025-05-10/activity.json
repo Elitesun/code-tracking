@@ -1,0 +1,337 @@
+{
+  "date": "2025-05-10",
+  "projects": {
+    "Elitesun": {
+      "totalLinesAdded": 2328,
+      "totalLinesRemoved": 1021,
+      "totalActiveTime": 23,
+      "files": {
+        "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx": [
+          {
+            "timestamp": "2025-05-10T15:32:51.708Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 233,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:34:11.184Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 116,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\LetterFx.tsx": [
+          {
+            "timestamp": "2025-05-10T15:36:05.027Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\LetterFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 279,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:36:29.065Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\LetterFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 192,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:37:32.460Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\LetterFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\Icon.tsx": [
+          {
+            "timestamp": "2025-05-10T15:37:46.703Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\Icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:37:50.100Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\Icon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 90,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\HoloFx.tsx": [
+          {
+            "timestamp": "2025-05-10T15:37:58.051Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\HoloFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 323,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:38:05.933Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\HoloFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 163,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\GlitchFx.tsx": [
+          {
+            "timestamp": "2025-05-10T15:38:11.210Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\GlitchFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 222,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:38:14.957Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\GlitchFx.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 112,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\DropdownWrapper.tsx": [
+          {
+            "timestamp": "2025-05-10T15:38:19.259Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\DropdownWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 425,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:38:20.826Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\DropdownWrapper.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 207,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\icons.ts": [
+          {
+            "timestamp": "2025-05-10T15:38:31.989Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\icons.ts",
+            "fileType": ".ts",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-10T15:39:04.034Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\icons.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\work\\Projects.tsx": [
+          {
+            "timestamp": "2025-05-10T15:39:09.462Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:40:28.367Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 40,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\ProjectCard.tsx": [
+          {
+            "timestamp": "2025-05-10T15:40:32.364Z",
+            "fileName": "f:\\Elitesun\\src\\components\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-10T15:40:49.991Z",
+            "fileName": "f:\\Elitesun\\src\\components\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 93,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\Header.tsx": [
+          {
+            "timestamp": "2025-05-10T15:40:56.810Z",
+            "fileName": "f:\\Elitesun\\src\\components\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 21,
+        "ts": 2
+      },
+      "changeFrequency": {
+        "15": 23
+      },
+      "topFiles": [
+        "f:\\Elitesun\\src\\once-ui\\components\\LetterFx.tsx",
+        "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx",
+        "f:\\Elitesun\\src\\once-ui\\components\\Icon.tsx",
+        "f:\\Elitesun\\src\\once-ui\\components\\HoloFx.tsx",
+        "f:\\Elitesun\\src\\once-ui\\components\\GlitchFx.tsx"
+      ],
+      "averageChangeSize": 167.45
+    }
+  },
+  "totalActiveTime": 23,
+  "totalProjects": 1,
+  "totalFiles": 10,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
