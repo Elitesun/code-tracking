@@ -2,9 +2,9 @@
   "date": "2025-05-11",
   "projects": {
     "Elitesun": {
-      "totalLinesAdded": 616,
+      "totalLinesAdded": 873,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 15,
+      "totalActiveTime": 20,
       "files": {
         "f:\\Elitesun\\src\\app\\work\\page.tsx": [
           {
@@ -212,6 +212,52 @@
             },
             "duration": 1,
             "language": "mdx"
+          }
+        ],
+        "f:\\Elitesun\\src\\app\\page.tsx": [
+          {
+            "timestamp": "2025-05-11T23:46:08.659Z",
+            "fileName": "f:\\Elitesun\\src\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-11T23:46:26.204Z",
+            "fileName": "f:\\Elitesun\\src\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\Header.tsx": [
+          {
+            "timestamp": "2025-05-11T23:49:51.993Z",
+            "fileName": "f:\\Elitesun\\src\\components\\Header.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
