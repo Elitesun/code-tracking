@@ -534,9 +534,9 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 500,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 536,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 24,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -580,6 +580,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:13:22.155Z",
+            "fileName": "f:\\niten\\fast_back\\alembic\\env.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\app\\models\\database.py": [
@@ -609,6 +623,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:12:40.049Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
@@ -656,6 +684,20 @@
             },
             "duration": 1,
             "language": "sh"
+          },
+          {
+            "timestamp": "2025-05-12T08:12:50.915Z",
+            "fileName": "f:\\niten\\fast_back\\entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ],
         "f:\\niten\\fast_back\\app\\config.py": [
@@ -686,6 +728,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:12:30.210Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\Dockerfile": [
@@ -709,6 +765,48 @@
             "fileType": "unknown",
             "linesAdded": 13,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T08:13:42.716Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T08:17:50.569Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T08:17:56.638Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 9,
             "projectName": "niten",
             "content": {
               "added": [],
