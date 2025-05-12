@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4055                                          |
-| **Lines Removed** (➖) | 316                                        |
-| **Net Change** (↕)    | 3739                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Lines Added** (➕)   | 4084                                          |
+| **Lines Removed** (➖) | 328                                        |
+| **Net Change** (↕)    | 3756                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
 - **env.py** (+188, -6)
-- **database.py** (+44, -0)
+- **database.py** (+73, -0)
 - **alembic.ini** (+119, -0)
 - **entrypoint.sh** (+117, -8)
 - **config.py** (+127, -4)
@@ -27,7 +27,7 @@
 - **poetry.lock** (+1926, -0)
 - **globals.css** (+128, -0)
 - **docker-compose.yml** (+52, -12)
-- **docker-compose.yml** (+124, -24)
+- **docker-compose.yml** (+124, -36)
 - **job_service.py** (+125, -14)
 - **careers.py** (+89, -0)
 - **.env** (+41, -0)
@@ -39,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 597
+".py" : 626
 ".ini" : 119
 ".sh" : 125
 "unknown" : 279
@@ -48,7 +48,7 @@ title Lines changed by file type
 ".tsx" : 735
 ".lock" : 1926
 ".css" : 128
-".yml" : 212
+".yml" : 224
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -66,8 +66,8 @@ title Coding activity by hour (count of changes)
 "18h" : 4
 "19h" : 3
 "20h" : 3
-"21h" : 6
+"21h" : 9
 ```
 
 
-> **Last Updated:** 5/12/2025, 9:20:02 PM
+> **Last Updated:** 5/12/2025, 9:30:02 PM

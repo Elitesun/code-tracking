@@ -534,9 +534,9 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 4055,
-      "totalLinesRemoved": 316,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 4084,
+      "totalLinesRemoved": 328,
+      "totalActiveTime": 79,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -679,6 +679,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T21:20:05.257Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
@@ -1423,6 +1437,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-12T21:20:32.599Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-12T21:21:21.069Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "yml"
           }
         ],
