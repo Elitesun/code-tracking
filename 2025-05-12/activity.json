@@ -2,9 +2,9 @@
   "date": "2025-05-12",
   "projects": {
     "Elitesun": {
-      "totalLinesAdded": 138,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 573,
+      "totalLinesRemoved": 174,
+      "totalActiveTime": 26,
       "files": {
         "f:\\Elitesun\\src\\components\\Header.tsx": [
           {
@@ -122,6 +122,110 @@
             },
             "duration": 4,
             "language": "mdx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\SideAnimate.tsx": [
+          {
+            "timestamp": "2025-05-12T00:36:58.200Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-12T00:37:06.983Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-12T00:39:44.764Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 133,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-12T00:40:19.218Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\SideAnimate.module.css": [
+          {
+            "timestamp": "2025-05-12T00:39:49.542Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.module.css",
+            "fileType": ".css",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "f:\\Elitesun\\tsconfig.json": [
+          {
+            "timestamp": "2025-05-12T00:41:10.652Z",
+            "fileName": "f:\\Elitesun\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T00:41:17.376Z",
+            "fileName": "f:\\Elitesun\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
