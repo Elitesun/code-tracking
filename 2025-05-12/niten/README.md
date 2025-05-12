@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1060                                          |
+| **Lines Added** (➕)   | 1253                                          |
 | **Lines Removed** (➖) | 259                                        |
-| **Net Change** (↕)    | 801                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 994                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -20,8 +20,10 @@
 - **requirements.txt** (+55, -0)
 - **.env** (+20, -0)
 - **package.json** (+3, -2)
-- **JobDetails.tsx** (+248, -0)
+- **JobDetails.tsx** (+251, -0)
 - **page.tsx** (+251, -233)
+- **careers.json** (+95, -0)
+- **careers.json** (+95, -0)
 
 ## Visualizations
 
@@ -35,8 +37,8 @@ title Lines changed by file type
 ".sh" : 73
 "unknown" : 117
 ".txt" : 55
-".json" : 5
-".tsx" : 732
+".json" : 195
+".tsx" : 735
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +47,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 24
-"09h" : 6
+"09h" : 11
 ```
 
 
-> **Last Updated:** 5/12/2025, 9:51:09 AM
+> **Last Updated:** 5/12/2025, 10:01:09 AM
