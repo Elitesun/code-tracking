@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1253                                          |
+| **Lines Added** (➕)   | 3188                                          |
 | **Lines Removed** (➖) | 259                                        |
-| **Net Change** (↕)    | 994                |
-| **Active Time** (⌚)   | 43 minutes |
+| **Net Change** (↕)    | 2929                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
@@ -18,12 +18,13 @@
 - **config.py** (+63, -2)
 - **Dockerfile** (+84, -13)
 - **requirements.txt** (+55, -0)
-- **.env** (+20, -0)
+- **.env** (+29, -0)
 - **package.json** (+3, -2)
 - **JobDetails.tsx** (+251, -0)
 - **page.tsx** (+251, -233)
 - **careers.json** (+95, -0)
 - **careers.json** (+95, -0)
+- **poetry.lock** (+1926, -0)
 
 ## Visualizations
 
@@ -35,10 +36,11 @@ title Lines changed by file type
 ".py" : 218
 ".ini" : 119
 ".sh" : 73
-"unknown" : 117
+"unknown" : 126
 ".txt" : 55
 ".json" : 195
 ".tsx" : 735
+".lock" : 1926
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,7 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 24
 "09h" : 11
+"10h" : 4
 ```
 
 
-> **Last Updated:** 5/12/2025, 10:01:09 AM
+> **Last Updated:** 5/12/2025, 10:11:09 AM

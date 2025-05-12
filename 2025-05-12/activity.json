@@ -534,9 +534,9 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 1253,
+      "totalLinesAdded": 3188,
       "totalLinesRemoved": 259,
-      "totalActiveTime": 43,
+      "totalActiveTime": 47,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -888,6 +888,34 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T10:05:53.313Z",
+            "fileName": "f:\\niten\\fast_back\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T10:05:58.048Z",
+            "fileName": "f:\\niten\\fast_back\\.env",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "f:\\niten\\frontend\\.next\\package.json": [
@@ -1052,6 +1080,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "f:\\niten\\fast_back\\poetry.lock": [
+          {
+            "timestamp": "2025-05-12T10:04:26.926Z",
+            "fileName": "f:\\niten\\fast_back\\poetry.lock",
+            "fileType": ".lock",
+            "linesAdded": 1725,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-12T10:04:38.026Z",
+            "fileName": "f:\\niten\\fast_back\\poetry.lock",
+            "fileType": ".lock",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ]
       },
