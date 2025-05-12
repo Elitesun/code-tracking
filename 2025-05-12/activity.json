@@ -534,7 +534,7 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 3980,
+      "totalLinesAdded": 3989,
       "totalLinesRemoved": 298,
       "totalActiveTime": 64,
       "files": {
@@ -1347,6 +1347,20 @@
             "fileType": ".yml",
             "linesAdded": 0,
             "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-12T21:07:10.911Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 9,
+            "linesRemoved": 0,
             "projectName": "niten",
             "content": {
               "added": [],
