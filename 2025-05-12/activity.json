@@ -534,9 +534,9 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 558,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 561,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 28,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -888,6 +888,36 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\package.json": [
+          {
+            "timestamp": "2025-05-12T09:31:31.625Z",
+            "fileName": "f:\\niten\\frontend\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-12T09:31:51.096Z",
+            "fileName": "f:\\niten\\frontend\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
