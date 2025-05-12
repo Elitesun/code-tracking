@@ -532,6 +532,241 @@
         "f:\\Elitesun\\src\\components\\Header.tsx"
       ],
       "averageChangeSize": 27.8
+    },
+    "niten": {
+      "totalLinesAdded": 500,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 14,
+      "files": {
+        "f:\\niten\\fast_back\\alembic\\env.py": [
+          {
+            "timestamp": "2025-05-12T08:01:36.354Z",
+            "fileName": "f:\\niten\\fast_back\\alembic\\env.py",
+            "fileType": ".py",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:03:49.193Z",
+            "fileName": "f:\\niten\\fast_back\\alembic\\env.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:03:49.157Z",
+            "fileName": "f:\\niten\\fast_back\\alembic\\env.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\models\\database.py": [
+          {
+            "timestamp": "2025-05-12T08:01:42.822Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:03:20.784Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\database.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\alembic.ini": [
+          {
+            "timestamp": "2025-05-12T08:01:49.025Z",
+            "fileName": "f:\\niten\\fast_back\\alembic.ini",
+            "fileType": ".ini",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ini"
+          }
+        ],
+        "f:\\niten\\fast_back\\entrypoint.sh": [
+          {
+            "timestamp": "2025-05-12T08:03:25.334Z",
+            "fileName": "f:\\niten\\fast_back\\entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-05-12T08:03:27.556Z",
+            "fileName": "f:\\niten\\fast_back\\entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\config.py": [
+          {
+            "timestamp": "2025-05-12T08:03:34.386Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T08:03:42.155Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\Dockerfile": [
+          {
+            "timestamp": "2025-05-12T08:03:54.701Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-12T08:04:03.525Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\fast_back\\requirements.txt": [
+          {
+            "timestamp": "2025-05-12T08:04:13.095Z",
+            "fileName": "f:\\niten\\fast_back\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-12T08:04:22.164Z",
+            "fileName": "f:\\niten\\fast_back\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 7,
+        "ini": 1,
+        "sh": 2,
+        "unknown": 2,
+        "txt": 2
+      },
+      "changeFrequency": {
+        "8": 14
+      },
+      "topFiles": [
+        "f:\\niten\\fast_back\\alembic\\env.py",
+        "f:\\niten\\fast_back\\app\\models\\database.py",
+        "f:\\niten\\fast_back\\entrypoint.sh",
+        "f:\\niten\\fast_back\\app\\config.py",
+        "f:\\niten\\fast_back\\Dockerfile"
+      ],
+      "averageChangeSize": 36.357142857142854
     }
   },
   "totalActiveTime": 6,
