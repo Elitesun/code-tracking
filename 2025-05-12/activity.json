@@ -534,9 +534,9 @@
       "averageChangeSize": 27.8
     },
     "niten": {
-      "totalLinesAdded": 3782,
+      "totalLinesAdded": 3867,
       "totalLinesRemoved": 284,
-      "totalActiveTime": 56,
+      "totalActiveTime": 57,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -1313,6 +1313,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\models\\careers.py": [
+          {
+            "timestamp": "2025-05-12T18:21:28.350Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\careers.py",
+            "fileType": ".py",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T18:21:34.536Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\careers.py",
+            "fileType": ".py",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]

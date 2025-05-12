@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3782                                          |
+| **Lines Added** (➕)   | 3867                                          |
 | **Lines Removed** (➖) | 284                                        |
-| **Net Change** (↕)    | 3498                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Net Change** (↕)    | 3583                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
@@ -29,6 +29,7 @@
 - **docker-compose.yml** (+52, -12)
 - **docker-compose.yml** (+90, -8)
 - **job_service.py** (+111, -0)
+- **careers.py** (+85, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 383
+".py" : 468
 ".ini" : 119
 ".sh" : 125
 "unknown" : 238
@@ -61,7 +62,8 @@ title Coding activity by hour (count of changes)
 "14h" : 3
 "15h" : 3
 "17h" : 1
+"18h" : 2
 ```
 
 
-> **Last Updated:** 5/12/2025, 5:09:04 PM
+> **Last Updated:** 5/12/2025, 6:29:04 PM
