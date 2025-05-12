@@ -535,8 +535,8 @@
     },
     "niten": {
       "totalLinesAdded": 3980,
-      "totalLinesRemoved": 284,
-      "totalActiveTime": 59,
+      "totalLinesRemoved": 298,
+      "totalActiveTime": 64,
       "files": {
         "f:\\niten\\fast_back\\alembic\\env.py": [
           {
@@ -1383,6 +1383,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-12T20:31:23.591Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ],
