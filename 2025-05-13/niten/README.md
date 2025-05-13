@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1200                                          |
-| **Lines Removed** (➖) | 76                                        |
-| **Net Change** (↕)    | 1124                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Lines Removed** (➖) | 78                                        |
+| **Net Change** (↕)    | 1122                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **config.py** (+139, -0)
 - **main.py** (+41, -0)
 - **job_service.py** (+117, -5)
-- **careers.py** (+183, -1)
+- **careers.py** (+183, -3)
 - **env.py** (+85, -0)
 - **alembic.ini** (+119, -0)
 - **4fb000cd1429_change_job_id_to_integer_with_.py** (+99, -0)
@@ -33,7 +33,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 178
 ".yml" : 226
-".py" : 701
+".py" : 703
 ".ts" : 52
 ".ini" : 119
 ```
@@ -50,8 +50,8 @@ title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 9
 "20h" : 4
-"22h" : 4
+"22h" : 5
 ```
 
 
-> **Last Updated:** 5/13/2025, 10:54:09 PM
+> **Last Updated:** 5/13/2025, 11:04:09 PM
