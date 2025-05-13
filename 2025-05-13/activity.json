@@ -1,0 +1,78 @@
+{
+  "date": "2025-05-13",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 4,
+      "files": {
+        "f:\\niten\\.env": [
+          {
+            "timestamp": "2025-05-13T08:09:13.216Z",
+            "fileName": "f:\\niten\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-13T08:12:10.089Z",
+            "fileName": "f:\\niten\\.env",
+            "fileType": "unknown",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\fast_back\\Dockerfile": [
+          {
+            "timestamp": "2025-05-13T08:12:13.862Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 4
+      },
+      "changeFrequency": {
+        "8": 4
+      },
+      "topFiles": [
+        "f:\\niten\\.env",
+        "f:\\niten\\fast_back\\Dockerfile"
+      ],
+      "averageChangeSize": 7.333333333333333
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
