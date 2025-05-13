@@ -4,22 +4,22 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1003                                          |
+| **Lines Added** (➕)   | 1198                                          |
 | **Lines Removed** (➖) | 76                                        |
-| **Net Change** (↕)    | 927                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Net Change** (↕)    | 1122                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
-- **.env** (+49, -14)
+- **.env** (+87, -14)
 - **Dockerfile** (+77, -0)
 - **docker-compose.yml** (+170, -56)
 - **database.py** (+31, -0)
 - **storage.ts** (+52, -0)
-- **config.py** (+72, -0)
+- **config.py** (+139, -0)
 - **main.py** (+41, -0)
 - **job_service.py** (+117, -5)
-- **careers.py** (+91, -1)
+- **careers.py** (+181, -1)
 - **env.py** (+85, -0)
 - **alembic.ini** (+119, -0)
 - **4fb000cd1429_change_job_id_to_integer_with_.py** (+99, -0)
@@ -31,9 +31,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 140
+"unknown" : 178
 ".yml" : 226
-".py" : 542
+".py" : 699
 ".ts" : 52
 ".ini" : 119
 ```
@@ -50,7 +50,8 @@ title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 9
 "20h" : 4
+"22h" : 3
 ```
 
 
-> **Last Updated:** 5/13/2025, 9:00:59 PM
+> **Last Updated:** 5/13/2025, 10:24:09 PM
