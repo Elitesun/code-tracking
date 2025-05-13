@@ -2,7 +2,7 @@
   "date": "2025-05-13",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1198,
+      "totalLinesAdded": 1200,
       "totalLinesRemoved": 76,
       "totalActiveTime": 53,
       "files": {
@@ -504,6 +504,20 @@
             "fileName": "f:\\niten\\fast_back\\app\\models\\careers.py",
             "fileType": ".py",
             "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-13T22:52:20.780Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\careers.py",
+            "fileType": ".py",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
