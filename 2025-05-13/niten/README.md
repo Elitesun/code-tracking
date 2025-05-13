@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 603                                          |
-| **Lines Removed** (➖) | 70                                        |
-| **Net Change** (↕)    | 533                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 698                                          |
+| **Lines Removed** (➖) | 71                                        |
+| **Net Change** (↕)    | 627                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,8 @@
 - **storage.ts** (+52, -0)
 - **config.py** (+72, -0)
 - **main.py** (+41, -0)
-- **job_service.py** (+111, -0)
+- **job_service.py** (+116, -0)
+- **careers.py** (+90, -1)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 140
 ".yml" : 226
-".py" : 255
+".py" : 351
 ".ts" : 52
 ```
 
@@ -43,8 +44,8 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "11h" : 5
 "12h" : 5
-"13h" : 1
+"13h" : 5
 ```
 
 
-> **Last Updated:** 5/13/2025, 1:08:20 PM
+> **Last Updated:** 5/13/2025, 1:18:20 PM
