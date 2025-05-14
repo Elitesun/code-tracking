@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 636,
+      "totalLinesAdded": 744,
       "totalLinesRemoved": 16,
-      "totalActiveTime": 21,
+      "totalActiveTime": 25,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -166,6 +166,20 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T14:20:48.919Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\storage_service.py",
+            "fileType": ".py",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\entrypoint.sh": [
@@ -244,6 +258,38 @@
             },
             "duration": 3,
             "language": "yml"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\models\\aws_helpers.py": [
+          {
+            "timestamp": "2025-05-14T14:20:13.189Z",
+            "fileName": "f:\\niten\\fast_back\\app\\models\\aws_helpers.py",
+            "fileType": ".py",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\.env": [
+          {
+            "timestamp": "2025-05-14T14:26:05.521Z",
+            "fileName": "f:\\niten\\.env",
+            "fileType": "unknown",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },
