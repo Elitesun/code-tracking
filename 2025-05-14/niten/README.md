@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1830                                          |
-| **Lines Removed** (➖) | 154                                        |
-| **Net Change** (↕)    | 1676                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Lines Added** (➕)   | 1905                                          |
+| **Lines Removed** (➖) | 176                                        |
+| **Net Change** (↕)    | 1729                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
 - **jobs.py** (+293, -15)
-- **job_service.py** (+234, -0)
-- **application_service.py** (+136, -5)
-- **storage_service.py** (+102, -16)
+- **job_service.py** (+242, -0)
+- **application_service.py** (+136, -6)
+- **storage_service.py** (+105, -16)
 - **entrypoint.sh** (+42, -0)
 - **Dockerfile** (+74, -0)
 - **config.py** (+151, -51)
@@ -29,6 +29,11 @@
 - **main.py** (+41, -0)
 - **router.py** (+8, -0)
 - **jobs.py** (+182, -0)
+- **base.py** (+12, -0)
+- **job.py** (+14, -0)
+- **email.py** (+8, -0)
+- **database.py** (+8, -0)
+- **__init__.py** (+22, -21)
 
 ## Visualizations
 
@@ -37,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1514
+".py" : 1611
 ".sh" : 42
 "unknown" : 302
 ".yml" : 126
@@ -58,8 +63,8 @@ title Coding activity by hour (count of changes)
 "20h" : 1
 "21h" : 4
 "22h" : 8
-"23h" : 5
+"23h" : 14
 ```
 
 
-> **Last Updated:** 5/14/2025, 11:13:12 PM
+> **Last Updated:** 5/14/2025, 11:33:12 PM

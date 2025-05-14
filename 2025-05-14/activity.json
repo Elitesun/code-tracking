@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1830,
-      "totalLinesRemoved": 154,
-      "totalActiveTime": 86,
+      "totalLinesAdded": 1905,
+      "totalLinesRemoved": 176,
+      "totalActiveTime": 98,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -246,6 +246,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:29:37.922Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\app\\services\\application_service.py": [
@@ -318,6 +332,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:30:44.784Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\application_service.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ],
         "f:\\niten\\fast_back\\app\\services\\storage_service.py": [
@@ -389,6 +417,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:28:52.128Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\storage_service.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ],
@@ -1089,6 +1131,100 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\base.py": [
+          {
+            "timestamp": "2025-05-14T23:25:21.015Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\base.py",
+            "fileType": ".py",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\job.py": [
+          {
+            "timestamp": "2025-05-14T23:25:23.585Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\job.py",
+            "fileType": ".py",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\email.py": [
+          {
+            "timestamp": "2025-05-14T23:25:25.007Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\email.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\database.py": [
+          {
+            "timestamp": "2025-05-14T23:25:26.094Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\database.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\__init__.py": [
+          {
+            "timestamp": "2025-05-14T23:25:29.540Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:26:41.789Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
