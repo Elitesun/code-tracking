@@ -2,7 +2,7 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 351,
+      "totalLinesAdded": 393,
       "totalLinesRemoved": 16,
       "totalActiveTime": 11,
       "files": {
@@ -166,6 +166,22 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\entrypoint.sh": [
+          {
+            "timestamp": "2025-05-14T13:43:29.271Z",
+            "fileName": "f:\\niten\\fast_back\\entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
           }
         ]
       },
