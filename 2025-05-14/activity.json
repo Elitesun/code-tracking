@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 230,
+      "totalLinesAdded": 343,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -56,6 +56,66 @@
             "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
             "fileType": ".py",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\services\\application_service.py": [
+          {
+            "timestamp": "2025-05-14T08:30:13.862Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\application_service.py",
+            "fileType": ".py",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T08:30:16.813Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\application_service.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\services\\storage_service.py": [
+          {
+            "timestamp": "2025-05-14T08:30:22.564Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\storage_service.py",
+            "fileType": ".py",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T08:30:29.967Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\storage_service.py",
+            "fileType": ".py",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
