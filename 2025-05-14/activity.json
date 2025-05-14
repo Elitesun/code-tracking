@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 1599,
+      "totalLinesAdded": 1830,
       "totalLinesRemoved": 154,
-      "totalActiveTime": 80,
+      "totalActiveTime": 86,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -1014,6 +1014,82 @@
             },
             "duration": 2,
             "language": "unknown"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\main.py": [
+          {
+            "timestamp": "2025-05-14T23:08:47.785Z",
+            "fileName": "f:\\niten\\fast_back\\app\\main.py",
+            "fileType": ".py",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\api\\router.py": [
+          {
+            "timestamp": "2025-05-14T23:08:48.678Z",
+            "fileName": "f:\\niten\\fast_back\\app\\api\\router.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\api\\endpoints\\jobs.py": [
+          {
+            "timestamp": "2025-05-14T23:10:34.529Z",
+            "fileName": "f:\\niten\\fast_back\\app\\api\\endpoints\\jobs.py",
+            "fileType": ".py",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:12:20.059Z",
+            "fileName": "f:\\niten\\fast_back\\app\\api\\endpoints\\jobs.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T23:12:54.864Z",
+            "fileName": "f:\\niten\\fast_back\\app\\api\\endpoints\\jobs.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
