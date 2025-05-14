@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 848                                          |
-| **Lines Removed** (➖) | 88                                        |
-| **Net Change** (↕)    | 760                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 850                                          |
+| **Lines Removed** (➖) | 124                                        |
+| **Net Change** (↕)    | 726                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -17,10 +17,10 @@
 - **storage_service.py** (+102, -8)
 - **entrypoint.sh** (+42, -0)
 - **Dockerfile** (+74, -0)
-- **config.py** (+102, -27)
+- **config.py** (+104, -43)
 - **docker-compose.yml** (+112, -14)
 - **aws_helpers.py** (+23, -0)
-- **.env** (+64, -0)
+- **.env** (+64, -20)
 - **.env** (+33, -31)
 
 ## Visualizations
@@ -30,9 +30,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 566
+".py" : 584
 ".sh" : 42
-"unknown" : 202
+"unknown" : 222
 ".yml" : 126
 ```
 
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 8
 "17h" : 6
-"18h" : 8
+"18h" : 12
 ```
 
 
-> **Last Updated:** 5/14/2025, 6:23:11 PM
+> **Last Updated:** 5/14/2025, 6:33:11 PM
