@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1458                                          |
-| **Lines Removed** (➖) | 147                                        |
-| **Net Change** (↕)    | 1311                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Lines Added** (➕)   | 1467                                          |
+| **Lines Removed** (➖) | 152                                        |
+| **Net Change** (↕)    | 1315                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
 - **jobs.py** (+293, -15)
 - **job_service.py** (+234, -0)
-- **application_service.py** (+116, -0)
+- **application_service.py** (+116, -5)
 - **storage_service.py** (+102, -16)
 - **entrypoint.sh** (+42, -0)
 - **Dockerfile** (+74, -0)
@@ -23,7 +23,7 @@
 - **.env** (+64, -20)
 - **.env** (+33, -31)
 - **email_service.py** (+91, -0)
-- **careers.py** (+55, -0)
+- **careers.py** (+64, -0)
 - **careers.py** (+95, -0)
 
 ## Visualizations
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1215
+".py" : 1229
 ".sh" : 42
 "unknown" : 222
 ".yml" : 126
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "18h" : 19
 "19h" : 12
 "20h" : 1
-"21h" : 2
+"21h" : 4
 ```
 
 
-> **Last Updated:** 5/14/2025, 9:33:12 PM
+> **Last Updated:** 5/14/2025, 9:53:12 PM
