@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 113,
+      "totalLinesAdded": 230,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -26,6 +26,36 @@
             "fileName": "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py",
             "fileType": ".py",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\services\\job_service.py": [
+          {
+            "timestamp": "2025-05-14T08:19:50.191Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
+            "fileType": ".py",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T08:20:04.643Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
+            "fileType": ".py",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
