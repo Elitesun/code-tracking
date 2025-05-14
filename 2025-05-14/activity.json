@@ -2,9 +2,9 @@
   "date": "2025-05-14",
   "projects": {
     "niten": {
-      "totalLinesAdded": 818,
-      "totalLinesRemoved": 36,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 839,
+      "totalLinesRemoved": 84,
+      "totalActiveTime": 34,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
           {
@@ -270,6 +270,20 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T18:07:06.368Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "f:\\niten\\docker-compose.yml": [
@@ -313,6 +327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-14T18:06:47.673Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yml"
           }
         ],
@@ -360,6 +388,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-14T18:08:34.907Z",
+            "fileName": "f:\\niten\\.env",
+            "fileType": "unknown",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "f:\\niten\\fast_back\\.env": [
@@ -389,6 +431,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-14T18:06:47.656Z",
+            "fileName": "f:\\niten\\fast_back\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-14T18:08:09.979Z",
+            "fileName": "f:\\niten\\fast_back\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ]
