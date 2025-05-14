@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 748,
-      "totalLinesRemoved": 16,
+      "totalLinesRemoved": 36,
       "totalActiveTime": 25,
       "files": {
         "f:\\niten\\fast_back\\app\\api\\v1\\endpoints\\jobs.py": [
@@ -227,6 +227,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-14T17:31:17.087Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
