@@ -1415,9 +1415,9 @@
       "averageChangeSize": 42
     },
     "laala_boost": {
-      "totalLinesAdded": 5785,
-      "totalLinesRemoved": 649,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 6061,
+      "totalLinesRemoved": 652,
+      "totalActiveTime": 87,
       "files": {
         "f:\\boost\\laala_boost\\app\\page.tsx": [
           {
@@ -1987,6 +1987,48 @@
             },
             "duration": 4,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T23:27:47.950Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\ContentTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T23:29:45.581Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\ContentTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T23:29:45.657Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\ContentTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\boost\\laala_boost\\components\\Dashboard.tsx": [
@@ -2427,6 +2469,22 @@
             "fileName": "f:\\boost\\laala_boost\\app\\unLaala\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 459,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\boost\\laala_boost\\app\\unLaala\\[id]\\page.tsx": [
+          {
+            "timestamp": "2025-05-15T23:28:28.999Z",
+            "fileName": "f:\\boost\\laala_boost\\app\\unLaala\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 273,
             "linesRemoved": 0,
             "projectName": "laala_boost",
             "content": {
