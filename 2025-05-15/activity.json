@@ -2,7 +2,7 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 12098,
+      "totalLinesAdded": 12100,
       "totalLinesRemoved": 161,
       "totalActiveTime": 73,
       "files": {
@@ -239,6 +239,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:16:18.120Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -1246,8 +1260,8 @@
     },
     "laala_boost": {
       "totalLinesAdded": 4970,
-      "totalLinesRemoved": 636,
-      "totalActiveTime": 66,
+      "totalLinesRemoved": 648,
+      "totalActiveTime": 67,
       "files": {
         "f:\\boost\\laala_boost\\app\\page.tsx": [
           {
@@ -1733,6 +1747,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:17:42.209Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\ContentTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\boost\\laala_boost\\components\\Dashboard.tsx": [
@@ -1770,6 +1798,20 @@
             "fileType": ".tsx",
             "linesAdded": 21,
             "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:18:39.660Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\Dashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
             "projectName": "laala_boost",
             "content": {
               "added": [],
