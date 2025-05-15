@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 12098,
-      "totalLinesRemoved": 159,
+      "totalLinesRemoved": 161,
       "totalActiveTime": 73,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
@@ -225,6 +225,20 @@
             "fileType": ".tsx",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:06:38.997Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -1231,9 +1245,9 @@
       "averageChangeSize": 42
     },
     "laala_boost": {
-      "totalLinesAdded": 1916,
+      "totalLinesAdded": 4970,
       "totalLinesRemoved": 636,
-      "totalActiveTime": 64,
+      "totalActiveTime": 66,
       "files": {
         "f:\\boost\\laala_boost\\app\\page.tsx": [
           {
@@ -1705,6 +1719,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:06:33.966Z",
+            "fileName": "f:\\boost\\laala_boost\\components\\ContentTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "f:\\boost\\laala_boost\\components\\Dashboard.tsx": [
@@ -1973,6 +2001,38 @@
             },
             "duration": 0,
             "language": "css"
+          }
+        ],
+        "f:\\boost\\laala_boost\\.next\\static\\chunks\\_5286fa20._.js": [
+          {
+            "timestamp": "2025-05-15T22:06:46.719Z",
+            "fileName": "f:\\boost\\laala_boost\\.next\\static\\chunks\\_5286fa20._.js",
+            "fileType": ".js",
+            "linesAdded": 1575,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "f:\\boost\\laala_boost\\.next\\server\\chunks\\ssr\\[root-of-the-server]__cee39406._.js": [
+          {
+            "timestamp": "2025-05-15T22:06:46.409Z",
+            "fileName": "f:\\boost\\laala_boost\\.next\\server\\chunks\\ssr\\[root-of-the-server]__cee39406._.js",
+            "fileType": ".js",
+            "linesAdded": 1478,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
