@@ -4,34 +4,38 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2697                                          |
+| **Lines Added** (➕)   | 12094                                          |
 | **Lines Removed** (➖) | 158                                        |
-| **Net Change** (↕)    | 2539                |
+| **Net Change** (↕)    | 11936                |
 | **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
 - **Dockerfile** (+84, -0)
-- **page.tsx** (+53, -30)
-- **page.tsx** (+474, -15)
-- **page.tsx** (+215, -1)
+- **page.tsx** (+71, -30)
+- **page.tsx** (+710, -15)
+- **page.tsx** (+323, -1)
 - **tsconfig.json** (+128, -34)
-- **package.json** (+104, -0)
-- **postcss.config.mjs** (+14, -0)
+- **package.json** (+167, -0)
+- **postcss.config.mjs** (+21, -0)
 - **tailwind.config.ts** (+22, -0)
-- **globals.css** (+255, -10)
-- **CountUp.tsx** (+114, -0)
-- **StatsSection.tsx** (+39, -0)
+- **globals.css** (+383, -10)
+- **CountUp.tsx** (+228, -0)
+- **StatsSection.tsx** (+78, -0)
 - **globals.css** (+123, -9)
-- **Testimonials.tsx** (+54, -0)
-- **TestimonialsAnimation.tsx** (+174, -0)
-- **next.config.ts** (+33, -3)
+- **Testimonials.tsx** (+108, -0)
+- **TestimonialsAnimation.tsx** (+348, -0)
+- **next.config.ts** (+61, -3)
 - **next.config.ts** (+28, -15)
-- **page.tsx** (+262, -6)
-- **JobDetails.tsx** (+251, -35)
+- **page.tsx** (+524, -6)
+- **JobDetails.tsx** (+502, -35)
 - **ApplicationForm.tsx** (+182, -0)
 - **page.ts** (+85, -0)
 - **package.json** (+3, -0)
+- **components.json** (+22, -0)
+- **utils.ts** (+7, -0)
+- **eslint.config.mjs** (+32, -0)
+- **package-lock.json** (+7854, -0)
 
 ## Visualizations
 
@@ -41,11 +45,11 @@
 pie showData
 title Lines changed by file type
 "unknown" : 84
-".tsx" : 1905
-".json" : 269
-".mjs" : 14
-".ts" : 186
-".css" : 397
+".tsx" : 3161
+".json" : 8208
+".mjs" : 53
+".ts" : 221
+".css" : 525
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +65,8 @@ title Coding activity by hour (count of changes)
 "10h" : 21
 "12h" : 3
 "13h" : 11
-"18h" : 1
+"18h" : 18
 ```
 
 
-> **Last Updated:** 5/15/2025, 6:08:44 PM
+> **Last Updated:** 5/15/2025, 6:28:44 PM
