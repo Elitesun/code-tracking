@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 12100,
-      "totalLinesRemoved": 161,
-      "totalActiveTime": 73,
+      "totalLinesAdded": 12315,
+      "totalLinesRemoved": 431,
+      "totalActiveTime": 79,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -259,6 +259,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:37:55.457Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:37:58.552Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 215,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1132,6 +1160,48 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:35:06.058Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\JobDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:35:37.353Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\JobDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 117,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T22:37:53.454Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\JobDetails.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 98,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx": [
@@ -1259,9 +1329,9 @@
       "averageChangeSize": 42
     },
     "laala_boost": {
-      "totalLinesAdded": 4970,
+      "totalLinesAdded": 5099,
       "totalLinesRemoved": 648,
-      "totalActiveTime": 67,
+      "totalActiveTime": 70,
       "files": {
         "f:\\boost\\laala_boost\\app\\page.tsx": [
           {
@@ -2075,6 +2145,66 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\boost\\laala_boost\\data\\collection.json": [
+          {
+            "timestamp": "2025-05-15T22:39:15.067Z",
+            "fileName": "f:\\boost\\laala_boost\\data\\collection.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-15T22:39:17.798Z",
+            "fileName": "f:\\boost\\laala_boost\\data\\collection.json",
+            "fileType": ".json",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\boost\\laala_boost\\data\\laala.json": [
+          {
+            "timestamp": "2025-05-15T22:39:33.439Z",
+            "fileName": "f:\\boost\\laala_boost\\data\\laala.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-15T22:39:35.449Z",
+            "fileName": "f:\\boost\\laala_boost\\data\\laala.json",
+            "fileType": ".json",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "laala_boost",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
