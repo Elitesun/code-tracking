@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2320,
+      "totalLinesAdded": 2694,
       "totalLinesRemoved": 158,
-      "totalActiveTime": 68,
+      "totalActiveTime": 73,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -305,6 +305,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T13:44:21.355Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
@@ -880,6 +894,38 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx": [
+          {
+            "timestamp": "2025-05-15T13:40:38.974Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 182,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\[id]\\page.ts": [
+          {
+            "timestamp": "2025-05-15T13:40:57.911Z",
+            "fileName": "f:\\niten\\frontend\\.next\\types\\app\\[locale]\\careers\\jobs\\[id]\\page.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

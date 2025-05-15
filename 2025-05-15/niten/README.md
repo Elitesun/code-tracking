@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2320                                          |
+| **Lines Added** (➕)   | 2694                                          |
 | **Lines Removed** (➖) | 158                                        |
-| **Net Change** (↕)    | 2162                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Net Change** (↕)    | 2536                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
 - **Dockerfile** (+84, -0)
 - **page.tsx** (+53, -30)
 - **page.tsx** (+474, -15)
-- **page.tsx** (+108, -1)
+- **page.tsx** (+215, -1)
 - **tsconfig.json** (+128, -34)
 - **package.json** (+104, -0)
 - **postcss.config.mjs** (+14, -0)
@@ -29,6 +29,8 @@
 - **next.config.ts** (+28, -15)
 - **page.tsx** (+262, -6)
 - **JobDetails.tsx** (+251, -35)
+- **ApplicationForm.tsx** (+182, -0)
+- **page.ts** (+85, -0)
 
 ## Visualizations
 
@@ -38,10 +40,10 @@
 pie showData
 title Lines changed by file type
 "unknown" : 84
-".tsx" : 1616
+".tsx" : 1905
 ".json" : 266
 ".mjs" : 14
-".ts" : 101
+".ts" : 186
 ".css" : 397
 ```
 
@@ -57,8 +59,8 @@ title Coding activity by hour (count of changes)
 "09h" : 6
 "10h" : 21
 "12h" : 3
-"13h" : 8
+"13h" : 11
 ```
 
 
-> **Last Updated:** 5/15/2025, 1:18:31 PM
+> **Last Updated:** 5/15/2025, 1:44:36 PM
