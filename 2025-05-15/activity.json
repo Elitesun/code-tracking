@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 12544,
-      "totalLinesRemoved": 545,
-      "totalActiveTime": 91,
+      "totalLinesAdded": 12602,
+      "totalLinesRemoved": 626,
+      "totalActiveTime": 92,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -571,6 +571,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T23:47:30.486Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 81,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
@@ -1484,6 +1498,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx": [
+          {
+            "timestamp": "2025-05-15T23:47:21.112Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
