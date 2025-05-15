@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 84,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 122,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 6,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -34,6 +34,64 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx": [
+          {
+            "timestamp": "2025-05-15T06:58:39.751Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T06:58:45.071Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T06:59:36.871Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T07:01:39.943Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ]
       },
