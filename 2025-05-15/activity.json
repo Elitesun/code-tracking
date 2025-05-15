@@ -2,7 +2,7 @@
   "date": "2025-05-15",
   "projects": {
     "niten": {
-      "totalLinesAdded": 12094,
+      "totalLinesAdded": 12098,
       "totalLinesRemoved": 159,
       "totalActiveTime": 73,
       "files": {
@@ -211,6 +211,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T18:57:32.746Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "niten",
             "content": {
               "added": [],
