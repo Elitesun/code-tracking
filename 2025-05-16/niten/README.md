@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 305                                          |
+| **Lines Added** (➕)   | 468                                          |
 | **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 285                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 448                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,9 @@
 - **page.tsx** (+106, -1)
 - **mockServices.ts** (+38, -0)
 - **docker-compose.yml** (+102, -0)
+- **email_exceptions.py** (+31, -0)
+- **email_service.py** (+91, -0)
+- **templating.py** (+41, -0)
 
 ## Visualizations
 
@@ -26,6 +29,7 @@ title Lines changed by file type
 ".tsx" : 185
 ".ts" : 38
 ".yml" : 102
+".py" : 163
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +39,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "09h" : 1
+"11h" : 3
 "23h" : 4
 ```
 
 
-> **Last Updated:** 5/16/2025, 9:20:20 AM
+> **Last Updated:** 5/16/2025, 11:34:03 AM
