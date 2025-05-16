@@ -1,0 +1,97 @@
+{
+  "date": "2025-05-16",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 97,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 6,
+      "files": {
+        "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx": [
+          {
+            "timestamp": "2025-05-15T23:55:21.111Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T23:59:18.120Z",
+            "fileName": "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx": [
+          {
+            "timestamp": "2025-05-15T23:56:50.385Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\data\\mockServices.ts": [
+          {
+            "timestamp": "2025-05-15T23:59:00.243Z",
+            "fileName": "f:\\niten\\frontend\\data\\mockServices.ts",
+            "fileType": ".ts",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 3,
+        "ts": 3
+      },
+      "changeFrequency": {
+        "23": 6
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\components\\services\\ServicePageContent.tsx",
+        "f:\\niten\\frontend\\app\\[locale]\\services\\[id]\\page.tsx",
+        "f:\\niten\\frontend\\data\\mockServices.ts"
+      ],
+      "averageChangeSize": 24.5
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
