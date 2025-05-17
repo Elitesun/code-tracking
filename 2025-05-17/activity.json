@@ -3,7 +3,7 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 94,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 6,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
@@ -99,6 +99,20 @@
             "fileType": ".ts",
             "linesAdded": 32,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-17T14:58:54.151Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "niten",
             "content": {
               "added": [],
