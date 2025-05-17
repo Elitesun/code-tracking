@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 307                                          |
-| **Lines Removed** (➖) | 68                                        |
-| **Net Change** (↕)    | 239                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Lines Added** (➕)   | 387                                          |
+| **Lines Removed** (➖) | 93                                        |
+| **Net Change** (↕)    | 294                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
 - **Dockerfile** (+232, -66)
-- **next.config.ts** (+63, -2)
+- **next.config.ts** (+93, -2)
 - **.dockerignore** (+8, -0)
-- **next.config.js** (+4, -0)
+- **next.config.js** (+54, -25)
 
 ## Visualizations
 
@@ -24,8 +24,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 306
-".ts" : 65
-".js" : 4
+".ts" : 95
+".js" : 79
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "14h" : 4
 "15h" : 6
 "16h" : 1
-"17h" : 11
+"17h" : 15
 ```
 
 
-> **Last Updated:** 5/17/2025, 5:48:29 PM
+> **Last Updated:** 5/17/2025, 5:58:29 PM
