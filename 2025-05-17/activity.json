@@ -2,9 +2,9 @@
   "date": "2025-05-17",
   "projects": {
     "niten": {
-      "totalLinesAdded": 511,
-      "totalLinesRemoved": 147,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 613,
+      "totalLinesRemoved": 190,
+      "totalActiveTime": 37,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -328,6 +328,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-17T18:27:39.761Z",
+            "fileName": "f:\\niten\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ],
         "f:\\niten\\frontend\\next.config.ts": [
@@ -518,6 +532,36 @@
             },
             "duration": 2,
             "language": "unknown"
+          }
+        ],
+        "f:\\niten\\docker-compose.yml": [
+          {
+            "timestamp": "2025-05-17T18:27:44.828Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-17T18:27:45.690Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
