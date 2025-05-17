@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 94                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 93                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 183                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 181                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
-- **Dockerfile** (+54, -0)
-- **next.config.ts** (+32, -1)
+- **Dockerfile** (+112, -0)
+- **next.config.ts** (+63, -2)
 - **.dockerignore** (+8, -0)
 
 ## Visualizations
@@ -22,8 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 62
-".ts" : 33
+"unknown" : 120
+".ts" : 65
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 6
 "14h" : 4
+"15h" : 4
 ```
 
 
-> **Last Updated:** 5/17/2025, 3:01:06 PM
+> **Last Updated:** 5/17/2025, 3:29:06 PM
