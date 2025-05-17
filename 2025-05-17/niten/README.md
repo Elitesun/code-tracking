@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1743                                          |
-| **Lines Removed** (➖) | 205                                        |
-| **Net Change** (↕)    | 1538                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 1751                                          |
+| **Lines Removed** (➖) | 342                                        |
+| **Net Change** (↕)    | 1409                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -18,13 +18,15 @@
 - **.env** (+44, -0)
 - **docker-compose.yml** (+102, -6)
 - **api-client.ts** (+93, -0)
-- **mockJobs.ts** (+110, -0)
-- **page.tsx** (+229, -0)
-- **page.tsx** (+306, -15)
-- **page.tsx** (+178, -0)
-- **ApplicationForm.tsx** (+202, -0)
+- **mockJobs.ts** (+110, -22)
+- **page.tsx** (+229, -6)
+- **page.tsx** (+306, -50)
+- **page.tsx** (+182, -53)
+- **ApplicationForm.tsx** (+202, -20)
 - **.env.development** (+6, -0)
 - **.env.production** (+6, -0)
+- **.env** (+2, -1)
+- **.env.local** (+2, -0)
 
 ## Visualizations
 
@@ -33,13 +35,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-"unknown" : 521
-".ts" : 298
+"unknown" : 524
+".ts" : 320
 ".js" : 79
 ".yml" : 108
-".tsx" : 930
+".tsx" : 1048
 ".development" : 6
 ".production" : 6
+".local" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +56,8 @@ title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 15
 "18h" : 7
-"20h" : 14
+"20h" : 24
 ```
 
 
-> **Last Updated:** 5/17/2025, 8:08:30 PM
+> **Last Updated:** 5/17/2025, 8:18:30 PM
