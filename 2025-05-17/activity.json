@@ -2,9 +2,9 @@
   "date": "2025-05-17",
   "projects": {
     "niten": {
-      "totalLinesAdded": 2419,
-      "totalLinesRemoved": 342,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 2952,
+      "totalLinesRemoved": 346,
+      "totalActiveTime": 85,
       "files": {
         "f:\\niten\\frontend\\Dockerfile": [
           {
@@ -592,6 +592,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-17T20:48:54.456Z",
+            "fileName": "f:\\niten\\frontend\\lib\\api-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "f:\\niten\\frontend\\data\\mockJobs.ts": [
@@ -731,6 +745,34 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 35,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-17T20:49:25.705Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 256,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-17T20:49:52.127Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -1076,6 +1118,70 @@
             },
             "duration": 3,
             "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\jobs\\JobList.tsx": [
+          {
+            "timestamp": "2025-05-17T20:49:08.460Z",
+            "fileName": "f:\\niten\\frontend\\components\\jobs\\JobList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 115,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\messages\\en\\jobs.json": [
+          {
+            "timestamp": "2025-05-17T20:49:16.884Z",
+            "fileName": "f:\\niten\\frontend\\messages\\en\\jobs.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\messages\\fr\\jobs.json": [
+          {
+            "timestamp": "2025-05-17T20:49:18.132Z",
+            "fileName": "f:\\niten\\frontend\\messages\\fr\\jobs.json",
+            "fileType": ".json",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\.env.example": [
+          {
+            "timestamp": "2025-05-17T20:49:33.008Z",
+            "fileName": "f:\\niten\\frontend\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "example"
           }
         ]
       },
