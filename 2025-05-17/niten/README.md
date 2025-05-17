@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1777                                          |
+| **Lines Added** (➕)   | 2419                                          |
 | **Lines Removed** (➖) | 342                                        |
-| **Net Change** (↕)    | 1435                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Net Change** (↕)    | 2077                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,15 @@
 - **.env.production** (+6, -0)
 - **.env** (+2, -1)
 - **.env.local** (+2, -0)
+- **page.tsx** (+10, -0)
+- **Start.tsx** (+164, -0)
+- **page.tsx** (+68, -0)
+- **Navbar.tsx** (+195, -0)
+- **ServiceHero.tsx** (+105, -0)
+- **routing.ts** (+43, -0)
+- **navigation.json** (+12, -0)
+- **navigation.json** (+12, -0)
+- **request.ts** (+33, -0)
 
 ## Visualizations
 
@@ -36,13 +45,14 @@
 pie showData
 title Lines changed by file type
 "unknown" : 524
-".ts" : 346
+".ts" : 422
 ".js" : 79
 ".yml" : 108
-".tsx" : 1048
+".tsx" : 1590
 ".development" : 6
 ".production" : 6
 ".local" : 2
+".json" : 24
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +66,8 @@ title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 15
 "18h" : 7
-"20h" : 25
+"20h" : 34
 ```
 
 
-> **Last Updated:** 5/17/2025, 8:28:30 PM
+> **Last Updated:** 5/17/2025, 8:48:09 PM
