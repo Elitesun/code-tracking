@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1831                                          |
+| **Lines Added** (➕)   | 2143                                          |
 | **Lines Removed** (➖) | 369                                        |
-| **Net Change** (↕)    | 1462                |
-| **Active Time** (⌚)   | 99 minutes |
+| **Net Change** (↕)    | 1774                |
+| **Active Time** (⌚)   | 101 minutes |
 
 
 ## Modified Files
-- **JobList.tsx** (+13, -6)
+- **JobList.tsx** (+138, -6)
 - **Dockerfile** (+54, -10)
 - **docker-compose.yml** (+120, -18)
 - **Dockerfile.dev** (+21, -0)
@@ -23,7 +23,7 @@
 - **careers.json** (+96, -0)
 - **careers.json** (+96, -0)
 - **router.py** (+8, -0)
-- **page.tsx** (+7, -70)
+- **page.tsx** (+194, -70)
 - **FeaturedJobs.tsx** (+300, -0)
 - **page.tsx** (+452, -0)
 - **package.json** (+3, -0)
@@ -37,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 901
+".tsx" : 1213
 "unknown" : 142
 ".yml" : 138
 ".dev" : 21
@@ -55,7 +55,8 @@ title Coding activity by hour (count of changes)
 "01h" : 8
 "02h" : 11
 "09h" : 9
+"18h" : 2
 ```
 
 
-> **Last Updated:** 5/18/2025, 12:19:52 PM
+> **Last Updated:** 5/18/2025, 6:58:03 PM
