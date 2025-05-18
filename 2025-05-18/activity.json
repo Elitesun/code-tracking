@@ -3,8 +3,8 @@
   "projects": {
     "niten": {
       "totalLinesAdded": 587,
-      "totalLinesRemoved": 72,
-      "totalActiveTime": 43,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 48,
       "files": {
         "f:\\niten\\frontend\\components\\jobs\\JobList.tsx": [
           {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-18T00:47:52.737Z",
+            "fileName": "f:\\niten\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "unknown"
           }
         ],
@@ -248,6 +262,20 @@
             },
             "duration": 3,
             "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-18T00:49:12.800Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yml"
           }
         ],
         "f:\\niten\\frontend\\Dockerfile.dev": [
@@ -301,6 +329,20 @@
             "fileType": ".py",
             "linesAdded": 28,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-18T00:47:00.657Z",
+            "fileName": "f:\\niten\\fast_back\\app\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 18,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -433,6 +475,20 @@
             "fileType": ".sh",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-05-18T00:47:57.782Z",
+            "fileName": "f:\\niten\\fast_back\\entrypoint.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "niten",
             "content": {
               "added": [],
