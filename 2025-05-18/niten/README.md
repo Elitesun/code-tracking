@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2851                                          |
-| **Lines Removed** (➖) | 507                                        |
-| **Net Change** (↕)    | 2344                |
-| **Active Time** (⌚)   | 142 minutes |
+| **Lines Added** (➕)   | 3304                                          |
+| **Lines Removed** (➖) | 671                                        |
+| **Net Change** (↕)    | 2633                |
+| **Active Time** (⌚)   | 157 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **Dockerfile.dev** (+21, -0)
 - **main.py** (+71, -30)
 - **jobs.py** (+407, -225)
-- **.env** (+44, -0)
+- **.env** (+88, -0)
 - **entrypoint.sh** (+52, -10)
 - **COMMIT_EDITMSG** (+34, -0)
 - **careers.json** (+96, -0)
@@ -31,10 +31,12 @@
 - **skeleton.tsx** (+16, -0)
 - **page.tsx** (+230, -54)
 - **Navbar.tsx** (+197, -1)
-- **Start.tsx** (+165, -0)
-- **page.tsx** (+21, -15)
+- **Start.tsx** (+165, -164)
+- **page.tsx** (+180, -15)
 - **start.json** (+35, -0)
 - **start.json** (+35, -0)
+- **page.tsx** (+165, -0)
+- **page.ts** (+85, -0)
 
 ## Visualizations
 
@@ -43,13 +45,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1989
-"unknown" : 142
+".tsx" : 2477
+"unknown" : 186
 ".yml" : 138
 ".dev" : 21
 ".py" : 741
 ".sh" : 62
 ".json" : 265
+".ts" : 85
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +65,9 @@ title Coding activity by hour (count of changes)
 "02h" : 11
 "09h" : 9
 "18h" : 3
-"19h" : 28
+"19h" : 30
+"20h" : 4
 ```
 
 
-> **Last Updated:** 5/18/2025, 7:58:03 PM
+> **Last Updated:** 5/18/2025, 8:08:03 PM
