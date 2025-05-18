@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3920                                          |
-| **Lines Removed** (➖) | 704                                        |
-| **Net Change** (↕)    | 3216                |
-| **Active Time** (⌚)   | 172 minutes |
+| **Lines Added** (➕)   | 3958                                          |
+| **Lines Removed** (➖) | 731                                        |
+| **Net Change** (↕)    | 3227                |
+| **Active Time** (⌚)   | 175 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **page.tsx** (+230, -54)
 - **Navbar.tsx** (+197, -1)
 - **Start.tsx** (+165, -164)
-- **page.tsx** (+186, -16)
+- **page.tsx** (+186, -25)
 - **start.json** (+35, -0)
 - **start.json** (+35, -0)
 - **page.tsx** (+165, -0)
@@ -40,11 +40,11 @@
 - **ContactForm.tsx** (+211, -5)
 - **api-client.ts** (+165, -3)
 - **.env.example** (+4, -0)
-- **route.ts** (+45, -0)
-- **email.ts** (+39, -0)
+- **route.ts** (+45, -9)
+- **email.ts** (+75, -0)
 - **application_confirmation.html** (+69, -0)
 - **.env** (+5, -0)
-- **route.ts** (+72, -24)
+- **route.ts** (+74, -33)
 
 ## Visualizations
 
@@ -53,14 +53,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2700
+".tsx" : 2709
 "unknown" : 191
 ".yml" : 138
 ".dev" : 21
 ".py" : 741
 ".sh" : 62
 ".json" : 265
-".ts" : 433
+".ts" : 489
 ".example" : 4
 ".html" : 69
 ```
@@ -77,8 +77,9 @@ title Coding activity by hour (count of changes)
 "18h" : 3
 "19h" : 30
 "20h" : 9
-"21h" : 15
+"21h" : 18
+"22h" : 2
 ```
 
 
-> **Last Updated:** 5/18/2025, 9:48:03 PM
+> **Last Updated:** 5/18/2025, 10:08:03 PM
