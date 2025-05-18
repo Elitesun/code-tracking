@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 803                                          |
+| **Lines Added** (➕)   | 995                                          |
 | **Lines Removed** (➖) | 292                                        |
-| **Net Change** (↕)    | 511                |
-| **Active Time** (⌚)   | 52 minutes |
+| **Net Change** (↕)    | 703                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,8 @@
 - **.env** (+44, -0)
 - **entrypoint.sh** (+52, -10)
 - **COMMIT_EDITMSG** (+34, -0)
+- **careers.json** (+96, -0)
+- **careers.json** (+96, -0)
 
 ## Visualizations
 
@@ -34,6 +36,7 @@ title Lines changed by file type
 ".dev" : 21
 ".py" : 730
 ".sh" : 62
+".json" : 192
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 34
-"01h" : 4
+"01h" : 8
 ```
 
 
-> **Last Updated:** 5/18/2025, 1:36:55 AM
+> **Last Updated:** 5/18/2025, 1:56:56 AM
