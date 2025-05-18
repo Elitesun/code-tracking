@@ -4,17 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 189                                          |
-| **Lines Removed** (➖) | 11                                        |
-| **Net Change** (↕)    | 178                |
-| **Active Time** (⌚)   | 20 minutes |
+| **Lines Added** (➕)   | 587                                          |
+| **Lines Removed** (➖) | 72                                        |
+| **Net Change** (↕)    | 515                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
 - **JobList.tsx** (+1, -1)
 - **Dockerfile** (+54, -5)
-- **docker-compose.yml** (+113, -5)
+- **docker-compose.yml** (+120, -12)
 - **Dockerfile.dev** (+21, -0)
+- **main.py** (+69, -10)
+- **jobs.py** (+226, -44)
+- **.env** (+44, -0)
+- **entrypoint.sh** (+52, -0)
 
 ## Visualizations
 
@@ -24,9 +28,11 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 2
-"unknown" : 59
-".yml" : 118
+"unknown" : 103
+".yml" : 132
 ".dev" : 21
+".py" : 349
+".sh" : 52
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +40,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 16
+"00h" : 30
 ```
 
 
-> **Last Updated:** 5/18/2025, 12:36:55 AM
+> **Last Updated:** 5/18/2025, 12:46:55 AM
