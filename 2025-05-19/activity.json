@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "niten": {
-      "totalLinesAdded": 3114,
-      "totalLinesRemoved": 126,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 3602,
+      "totalLinesRemoved": 190,
+      "totalActiveTime": 92,
       "files": {
         "f:\\niten\\frontend\\app\\api\\contact\\route.ts": [
           {
@@ -54,6 +54,34 @@
             "fileName": "f:\\niten\\frontend\\app\\api\\contact\\route.ts",
             "fileType": ".ts",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T10:54:54.722Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\contact\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:01:29.783Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\contact\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 41,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
@@ -338,6 +366,48 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T10:55:04.448Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:01:17.681Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:01:31.653Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "f:\\niten\\frontend\\lib\\api-client.ts": [
@@ -588,6 +658,156 @@
             },
             "duration": 3,
             "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\lib\\email.ts": [
+          {
+            "timestamp": "2025-05-19T10:54:49.512Z",
+            "fileName": "f:\\niten\\frontend\\lib\\email.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:01:07.541Z",
+            "fileName": "f:\\niten\\frontend\\lib\\email.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:01:27.416Z",
+            "fileName": "f:\\niten\\frontend\\lib\\email.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\email\\templates\\meeting_confirmation.html": [
+          {
+            "timestamp": "2025-05-19T10:56:43.432Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\email\\templates\\meeting_confirmation.html",
+            "fileType": ".html",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-19T10:59:17.359Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\email\\templates\\meeting_confirmation.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\email\\templating.py": [
+          {
+            "timestamp": "2025-05-19T10:56:55.350Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\email\\templating.py",
+            "fileType": ".py",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T10:56:58.977Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\email\\templating.py",
+            "fileType": ".py",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\services\\email_service.py": [
+          {
+            "timestamp": "2025-05-19T10:57:02.461Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\email_service.py",
+            "fileType": ".py",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T10:57:14.588Z",
+            "fileName": "f:\\niten\\fast_back\\app\\services\\email_service.py",
+            "fileType": ".py",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\routers\\email.py": [
+          {
+            "timestamp": "2025-05-19T11:01:20.815Z",
+            "fileName": "f:\\niten\\fast_back\\app\\routers\\email.py",
+            "fileType": ".py",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
