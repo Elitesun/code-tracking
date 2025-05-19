@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3878                                          |
-| **Lines Removed** (➖) | 240                                        |
-| **Net Change** (↕)    | 3638                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 3999                                          |
+| **Lines Removed** (➖) | 254                                        |
+| **Net Change** (↕)    | 3745                |
+| **Active Time** (⌚)   | 162 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **page.tsx** (+169, -5)
 - **_5de586a6._.js** (+1249, -0)
 - **_e26fae4a._.js** (+725, -0)
-- **ApplicationForm.tsx** (+235, -44)
+- **ApplicationForm.tsx** (+242, -51)
 - **route.ts** (+68, -0)
 - **email.ts** (+84, -0)
 - **meeting_confirmation.html** (+68, -0)
@@ -29,8 +29,9 @@
 - **email_service.py** (+159, -0)
 - **email.py** (+28, -0)
 - **route.ts** (+54, -0)
-- **route.ts** (+55, -3)
+- **route.ts** (+62, -10)
 - **config.py** (+104, -4)
+- **docker-compose.yml** (+107, -0)
 
 ## Visualizations
 
@@ -39,11 +40,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 753
+".ts" : 767
 ".py" : 870
-".tsx" : 453
+".tsx" : 467
 ".js" : 1974
 ".html" : 68
+".yml" : 107
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,9 +55,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 38
-"11h" : 26
+"11h" : 35
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/19/2025, 11:43:17 AM
+> **Last Updated:** 5/19/2025, 11:53:17 AM

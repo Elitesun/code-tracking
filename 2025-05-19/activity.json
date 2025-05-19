@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "niten": {
-      "totalLinesAdded": 3878,
-      "totalLinesRemoved": 240,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 3999,
+      "totalLinesRemoved": 254,
+      "totalActiveTime": 162,
       "files": {
         "f:\\niten\\frontend\\app\\api\\contact\\route.ts": [
           {
@@ -768,6 +768,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T11:45:08.958Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T11:45:10.935Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T11:48:32.537Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\app\\api\\send-application-email\\route.ts": [
@@ -1022,6 +1064,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:45:27.346Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\careers\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:48:32.884Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\careers\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "f:\\niten\\fast_back\\app\\config.py": [
@@ -1094,6 +1164,64 @@
             },
             "duration": 2,
             "language": "py"
+          }
+        ],
+        "f:\\niten\\docker-compose.yml": [
+          {
+            "timestamp": "2025-05-19T11:46:09.469Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-19T11:46:20.950Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-19T11:46:40.729Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-05-19T11:51:37.633Z",
+            "fileName": "f:\\niten\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "yml"
           }
         ]
       },
