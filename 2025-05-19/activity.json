@@ -2,9 +2,9 @@
   "date": "2025-05-19",
   "projects": {
     "niten": {
-      "totalLinesAdded": 3769,
-      "totalLinesRemoved": 231,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 3878,
+      "totalLinesRemoved": 240,
+      "totalActiveTime": 144,
       "files": {
         "f:\\niten\\frontend\\app\\api\\contact\\route.ts": [
           {
@@ -740,6 +740,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T11:40:25.630Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T11:42:48.973Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\ApplicationForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\niten\\frontend\\app\\api\\send-application-email\\route.ts": [
@@ -966,6 +994,106 @@
             },
             "duration": 5,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:40:14.130Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\careers\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T11:42:05.514Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\careers\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\config.py": [
+          {
+            "timestamp": "2025-05-19T11:37:49.873Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T11:37:50.288Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T11:37:50.461Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T11:38:59.297Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-19T11:38:59.321Z",
+            "fileName": "f:\\niten\\fast_back\\app\\config.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
           }
         ]
       },
