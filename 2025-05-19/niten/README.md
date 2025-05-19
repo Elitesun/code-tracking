@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4138                                          |
-| **Lines Removed** (➖) | 254                                        |
-| **Net Change** (↕)    | 3884                |
-| **Active Time** (⌚)   | 164 minutes |
+| **Lines Added** (➕)   | 4320                                          |
+| **Lines Removed** (➖) | 355                                        |
+| **Net Change** (↕)    | 3965                |
+| **Active Time** (⌚)   | 179 minutes |
 
 
 ## Modified Files
 - **route.ts** (+146, -99)
 - **storage_service.py** (+53, -11)
-- **jobs.py** (+198, -16)
-- **careers.py** (+100, -1)
-- **careers.py** (+66, -0)
+- **jobs.py** (+211, -22)
+- **careers.py** (+128, -29)
+- **careers.py** (+131, -65)
 - **route.ts** (+71, -23)
 - **api-client.ts** (+116, -34)
 - **page.tsx** (+169, -5)
@@ -33,6 +33,7 @@
 - **config.py** (+104, -4)
 - **docker-compose.yml** (+107, -0)
 - **FeaturedJobs.tsx** (+139, -0)
+- **application_service.py** (+76, -2)
 
 ## Visualizations
 
@@ -42,7 +43,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 767
-".py" : 870
+".py" : 1153
 ".tsx" : 606
 ".js" : 1974
 ".html" : 68
@@ -57,9 +58,9 @@ title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 38
 "11h" : 35
-"12h" : 2
+"12h" : 13
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/19/2025, 12:23:17 PM
+> **Last Updated:** 5/19/2025, 12:33:17 PM
