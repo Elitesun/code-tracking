@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2813                                          |
-| **Lines Removed** (➖) | 84                                        |
-| **Net Change** (↕)    | 2729                |
-| **Active Time** (⌚)   | 56 minutes |
+| **Lines Added** (➕)   | 3114                                          |
+| **Lines Removed** (➖) | 109                                        |
+| **Net Change** (↕)    | 3005                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
@@ -17,10 +17,12 @@
 - **careers.py** (+100, -1)
 - **careers.py** (+66, -0)
 - **route.ts** (+48, -0)
-- **api-client.ts** (+100, -18)
+- **api-client.ts** (+116, -34)
 - **page.tsx** (+169, -5)
 - **_5de586a6._.js** (+1249, -0)
 - **_e26fae4a._.js** (+725, -0)
+- **ApplicationForm.tsx** (+217, -9)
+- **route.ts** (+68, -0)
 
 ## Visualizations
 
@@ -29,9 +31,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 304
+".ts" : 404
 ".py" : 445
-".tsx" : 174
+".tsx" : 400
 ".js" : 1974
 ```
 
@@ -41,9 +43,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"10h" : 20
+"10h" : 28
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/19/2025, 10:33:15 AM
+> **Last Updated:** 5/19/2025, 10:43:15 AM
