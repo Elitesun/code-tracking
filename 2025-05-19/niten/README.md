@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5615                                          |
+| **Lines Added** (➕)   | 5989                                          |
 | **Lines Removed** (➖) | 369                                        |
-| **Net Change** (↕)    | 5246                |
-| **Active Time** (⌚)   | 225 minutes |
+| **Net Change** (↕)    | 5620                |
+| **Active Time** (⌚)   | 230 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **careers.py** (+128, -29)
 - **careers.py** (+131, -65)
 - **route.ts** (+71, -23)
-- **api-client.ts** (+116, -34)
+- **api-client.ts** (+201, -34)
 - **page.tsx** (+169, -5)
 - **_5de586a6._.js** (+1249, -0)
 - **_e26fae4a._.js** (+725, -0)
@@ -29,7 +29,7 @@
 - **email_service.py** (+159, -0)
 - **email.py** (+28, -0)
 - **route.ts** (+54, -0)
-- **route.ts** (+65, -10)
+- **route.ts** (+133, -10)
 - **config.py** (+104, -4)
 - **docker-compose.yml** (+107, -0)
 - **FeaturedJobs.tsx** (+139, -0)
@@ -45,6 +45,9 @@
 - **Footer.tsx** (+166, -4)
 - **page.tsx** (+80, -0)
 - **page.tsx** (+78, -1)
+- **schema.prisma** (+45, -0)
+- **jobs.ts** (+51, -0)
+- **JobList.tsx** (+125, -0)
 
 ## Visualizations
 
@@ -53,13 +56,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 852
+".ts" : 1056
 ".py" : 1153
-".tsx" : 1479
+".tsx" : 1604
 ".js" : 2310
 ".html" : 68
 ".yml" : 107
 ".json" : 15
+".prisma" : 45
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -73,8 +77,9 @@ title Coding activity by hour (count of changes)
 "12h" : 15
 "16h" : 18
 "17h" : 8
+"18h" : 7
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/19/2025, 5:13:03 PM
+> **Last Updated:** 5/19/2025, 6:30:20 PM
