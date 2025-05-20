@@ -2,8 +2,8 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 203,
-      "totalLinesRemoved": 0,
+      "totalLinesAdded": 208,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 1,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:01:01.742Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:01:07.216Z",
+            "fileName": "f:\\niten\\frontend\\components\\layout\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
