@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14123                                          |
-| **Lines Removed** (➖) | 262                                        |
-| **Net Change** (↕)    | 13861                |
-| **Active Time** (⌚)   | 110 minutes |
+| **Lines Added** (➕)   | 14423                                          |
+| **Lines Removed** (➖) | 270                                        |
+| **Net Change** (↕)    | 14153                |
+| **Active Time** (⌚)   | 116 minutes |
 
 
 ## Modified Files
@@ -16,12 +16,12 @@
 - **api-client.ts** (+85, -0)
 - **FeaturedJobs.tsx** (+139, -1)
 - **page.tsx** (+226, -1)
-- **route.ts** (+50, -4)
+- **route.ts** (+88, -4)
 - **.env** (+98, -10)
 - **Dockerfile** (+91, -46)
 - **docker-compose.yml** (+109, -2)
 - **.env** (+6, -0)
-- **route.ts** (+58, -0)
+- **route.ts** (+108, -0)
 - **package-lock.json** (+7904, -0)
 - **.dockerignore** (+8, -1)
 - **.dockerignore** (+8, -1)
@@ -41,6 +41,8 @@
 - **job_exceptions.py** (+25, -0)
 - **__init__.py** (+2, -0)
 - **HeroSection.tsx** (+60, -0)
+- **email.ts** (+165, -0)
+- **route.ts** (+47, -8)
 
 ## Visualizations
 
@@ -50,7 +52,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 933
-".ts" : 197
+".ts" : 505
 "unknown" : 346
 ".yml" : 111
 ".json" : 7904
@@ -72,8 +74,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "19h" : 24
 "20h" : 6
-"21h" : 4
+"21h" : 10
 ```
 
 
-> **Last Updated:** 5/20/2025, 9:05:15 PM
+> **Last Updated:** 5/20/2025, 9:15:15 PM
