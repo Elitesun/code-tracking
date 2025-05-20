@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14423                                          |
-| **Lines Removed** (➖) | 270                                        |
-| **Net Change** (↕)    | 14153                |
-| **Active Time** (⌚)   | 116 minutes |
+| **Lines Added** (➕)   | 14521                                          |
+| **Lines Removed** (➖) | 271                                        |
+| **Net Change** (↕)    | 14250                |
+| **Active Time** (⌚)   | 123 minutes |
 
 
 ## Modified Files
 - **Navbar.tsx** (+430, -12)
-- **layout.tsx** (+64, -0)
+- **layout.tsx** (+134, -1)
 - **api-client.ts** (+85, -0)
 - **FeaturedJobs.tsx** (+139, -1)
 - **page.tsx** (+226, -1)
@@ -43,6 +43,7 @@
 - **HeroSection.tsx** (+60, -0)
 - **email.ts** (+165, -0)
 - **route.ts** (+47, -8)
+- **layout.tsx** (+28, -0)
 
 ## Visualizations
 
@@ -51,7 +52,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 933
+".tsx" : 1032
 ".ts" : 505
 "unknown" : 346
 ".yml" : 111
@@ -74,8 +75,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "19h" : 24
 "20h" : 6
-"21h" : 10
+"21h" : 14
 ```
 
 
-> **Last Updated:** 5/20/2025, 9:15:15 PM
+> **Last Updated:** 5/20/2025, 9:25:15 PM
