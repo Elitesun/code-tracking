@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1034                                          |
-| **Lines Removed** (➖) | 63                                        |
-| **Net Change** (↕)    | 971                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 1098                                          |
+| **Lines Removed** (➖) | 66                                        |
+| **Net Change** (↕)    | 1032                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -16,10 +16,12 @@
 - **api-client.ts** (+85, -0)
 - **FeaturedJobs.tsx** (+139, -1)
 - **page.tsx** (+226, -1)
-- **route.ts** (+50, -3)
+- **route.ts** (+50, -4)
 - **.env** (+49, -0)
 - **Dockerfile** (+91, -46)
-- **docker-compose.yml** (+109, -0)
+- **docker-compose.yml** (+109, -2)
+- **.env** (+6, -0)
+- **route.ts** (+58, -0)
 
 ## Visualizations
 
@@ -29,9 +31,9 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 664
-".ts" : 138
-"unknown" : 186
-".yml" : 109
+".ts" : 197
+"unknown" : 192
+".yml" : 111
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +43,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 2
 "09h" : 26
-"10h" : 1
+"10h" : 7
 ```
 
 
-> **Last Updated:** 5/20/2025, 10:01:42 AM
+> **Last Updated:** 5/20/2025, 10:11:42 AM
