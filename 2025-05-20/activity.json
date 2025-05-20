@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 285,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 783,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 20,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
           {
@@ -106,6 +106,112 @@
             },
             "duration": 5,
             "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\lib\\api-client.ts": [
+          {
+            "timestamp": "2025-05-20T09:15:05.750Z",
+            "fileName": "f:\\niten\\frontend\\lib\\api-client.ts",
+            "fileType": ".ts",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx": [
+          {
+            "timestamp": "2025-05-20T09:19:13.200Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:19:16.681Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx": [
+          {
+            "timestamp": "2025-05-20T09:19:40.375Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 226,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:19:45.115Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts": [
+          {
+            "timestamp": "2025-05-20T09:20:06.087Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T09:20:08.850Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
