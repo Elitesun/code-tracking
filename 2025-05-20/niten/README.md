@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13872                                          |
+| **Lines Added** (➕)   | 14123                                          |
 | **Lines Removed** (➖) | 262                                        |
-| **Net Change** (↕)    | 13610                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Net Change** (↕)    | 13861                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **email_service.py** (+159, -95)
 - **config.py** (+100, -20)
 - **poetry.lock** (+3399, -53)
-- **jobs.py** (+189, -1)
+- **jobs.py** (+380, -1)
 - **b75bab982963_add_new_column_to_users.py** (+46, -0)
 - **Dockerfile** (+74, -3)
 - **pyproject.toml** (+72, -1)
@@ -40,6 +40,7 @@
 - **job_service.py** (+125, -0)
 - **job_exceptions.py** (+25, -0)
 - **__init__.py** (+2, -0)
+- **HeroSection.tsx** (+60, -0)
 
 ## Visualizations
 
@@ -48,12 +49,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 873
+".tsx" : 933
 ".ts" : 197
 "unknown" : 346
 ".yml" : 111
 ".json" : 7904
-".py" : 1124
+".py" : 1315
 ".lock" : 3452
 ".toml" : 73
 ".txt" : 54
@@ -71,7 +72,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "19h" : 24
 "20h" : 6
+"21h" : 4
 ```
 
 
-> **Last Updated:** 5/20/2025, 8:55:15 PM
+> **Last Updated:** 5/20/2025, 9:05:15 PM
