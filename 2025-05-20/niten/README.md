@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13653                                          |
-| **Lines Removed** (➖) | 261                                        |
-| **Net Change** (↕)    | 13392                |
-| **Active Time** (⌚)   | 96 minutes |
+| **Lines Added** (➕)   | 13845                                          |
+| **Lines Removed** (➖) | 262                                        |
+| **Net Change** (↕)    | 13583                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **.dockerignore** (+8, -1)
 - **.dockerignore** (+8, -1)
 - **storage_service.py** (+48, -1)
-- **application_service.py** (+74, -7)
+- **application_service.py** (+141, -8)
 - **careers.py** (+64, -0)
 - **careers.py** (+99, -1)
 - **email_service.py** (+159, -95)
@@ -37,6 +37,7 @@
 - **Dockerfile** (+74, -3)
 - **pyproject.toml** (+72, -1)
 - **requirements.txt** (+53, -1)
+- **job_service.py** (+125, -0)
 
 ## Visualizations
 
@@ -50,7 +51,7 @@ title Lines changed by file type
 "unknown" : 346
 ".yml" : 111
 ".json" : 7904
-".py" : 904
+".py" : 1097
 ".lock" : 3452
 ".toml" : 73
 ".txt" : 54
@@ -67,8 +68,8 @@ title Coding activity by hour (count of changes)
 "11h" : 6
 "12h" : 3
 "19h" : 24
-"20h" : 1
+"20h" : 4
 ```
 
 
-> **Last Updated:** 5/20/2025, 8:14:35 PM
+> **Last Updated:** 5/20/2025, 8:45:15 PM
