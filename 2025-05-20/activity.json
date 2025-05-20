@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 9002,
-      "totalLinesRemoved": 66,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 9018,
+      "totalLinesRemoved": 68,
+      "totalActiveTime": 52,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
           {
@@ -532,6 +532,66 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\.dockerignore": [
+          {
+            "timestamp": "2025-05-20T10:48:01.352Z",
+            "fileName": "f:\\niten\\frontend\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T10:48:08.327Z",
+            "fileName": "f:\\niten\\frontend\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\.dockerignore": [
+          {
+            "timestamp": "2025-05-20T10:48:10.158Z",
+            "fileName": "f:\\niten\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T10:48:12.719Z",
+            "fileName": "f:\\niten\\.dockerignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
