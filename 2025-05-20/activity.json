@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 878,
-      "totalLinesRemoved": 15,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 923,
+      "totalLinesRemoved": 60,
+      "totalActiveTime": 29,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
           {
@@ -278,6 +278,48 @@
             "fileName": "f:\\niten\\frontend\\Dockerfile",
             "fileType": "unknown",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T09:44:29.814Z",
+            "fileName": "f:\\niten\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T09:44:52.623Z",
+            "fileName": "f:\\niten\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T09:44:52.615Z",
+            "fileName": "f:\\niten\\frontend\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 45,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
