@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 13845,
+      "totalLinesAdded": 13872,
       "totalLinesRemoved": 262,
-      "totalActiveTime": 98,
+      "totalActiveTime": 103,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
           {
@@ -1128,6 +1128,38 @@
             "fileName": "f:\\niten\\fast_back\\app\\services\\job_service.py",
             "fileType": ".py",
             "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\job_exceptions.py": [
+          {
+            "timestamp": "2025-05-20T20:47:07.794Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\job_exceptions.py",
+            "fileType": ".py",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\app\\core\\exceptions\\__init__.py": [
+          {
+            "timestamp": "2025-05-20T20:47:09.291Z",
+            "fileName": "f:\\niten\\fast_back\\app\\core\\exceptions\\__init__.py",
+            "fileType": ".py",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "niten",
             "content": {
