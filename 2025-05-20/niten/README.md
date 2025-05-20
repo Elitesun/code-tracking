@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11780                                          |
-| **Lines Removed** (➖) | 252                                        |
-| **Net Change** (↕)    | 11528                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Added** (➕)   | 11979                                          |
+| **Lines Removed** (➖) | 261                                        |
+| **Net Change** (↕)    | 11718                |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
@@ -31,9 +31,12 @@
 - **careers.py** (+99, -1)
 - **email_service.py** (+159, -95)
 - **config.py** (+100, -20)
-- **poetry.lock** (+1725, -49)
+- **poetry.lock** (+1725, -53)
 - **jobs.py** (+189, -1)
 - **b75bab982963_add_new_column_to_users.py** (+46, -0)
+- **Dockerfile** (+74, -3)
+- **pyproject.toml** (+72, -1)
+- **requirements.txt** (+53, -1)
 
 ## Visualizations
 
@@ -44,11 +47,13 @@ pie showData
 title Lines changed by file type
 ".tsx" : 873
 ".ts" : 197
-"unknown" : 269
+"unknown" : 346
 ".yml" : 111
 ".json" : 7904
 ".py" : 904
-".lock" : 1774
+".lock" : 1778
+".toml" : 73
+".txt" : 54
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +66,8 @@ title Coding activity by hour (count of changes)
 "10h" : 12
 "11h" : 6
 "12h" : 3
-"19h" : 17
+"19h" : 24
 ```
 
 
-> **Last Updated:** 5/20/2025, 7:34:28 PM
+> **Last Updated:** 5/20/2025, 7:54:27 PM

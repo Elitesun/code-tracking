@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "niten": {
-      "totalLinesAdded": 11780,
-      "totalLinesRemoved": 252,
-      "totalActiveTime": 87,
+      "totalLinesAdded": 11979,
+      "totalLinesRemoved": 261,
+      "totalActiveTime": 96,
       "files": {
         "f:\\niten\\frontend\\components\\layout\\Navbar.tsx": [
           {
@@ -914,6 +914,20 @@
             },
             "duration": 1,
             "language": "lock"
+          },
+          {
+            "timestamp": "2025-05-20T19:49:12.578Z",
+            "fileName": "f:\\niten\\fast_back\\poetry.lock",
+            "fileType": ".lock",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "lock"
           }
         ],
         "f:\\niten\\fast_back\\app\\api\\endpoints\\jobs.py": [
@@ -974,6 +988,96 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "f:\\niten\\fast_back\\Dockerfile": [
+          {
+            "timestamp": "2025-05-20T19:44:53.975Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-20T19:44:56.746Z",
+            "fileName": "f:\\niten\\fast_back\\Dockerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\fast_back\\pyproject.toml": [
+          {
+            "timestamp": "2025-05-20T19:48:43.534Z",
+            "fileName": "f:\\niten\\fast_back\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "toml"
+          },
+          {
+            "timestamp": "2025-05-20T19:48:46.281Z",
+            "fileName": "f:\\niten\\fast_back\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          }
+        ],
+        "f:\\niten\\fast_back\\requirements.txt": [
+          {
+            "timestamp": "2025-05-20T19:48:50.569Z",
+            "fileName": "f:\\niten\\fast_back\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-20T19:48:52.544Z",
+            "fileName": "f:\\niten\\fast_back\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
