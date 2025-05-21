@@ -2,9 +2,9 @@
   "date": "2025-05-21",
   "projects": {
     "niten": {
-      "totalLinesAdded": 246,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 325,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 24,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx": [
           {
@@ -156,6 +156,52 @@
             },
             "duration": 4,
             "language": "unknown"
+          }
+        ],
+        "f:\\niten\\frontend\\next.config.ts": [
+          {
+            "timestamp": "2025-05-21T13:56:55.271Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-21T13:56:57.394Z",
+            "fileName": "f:\\niten\\frontend\\next.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\package.json": [
+          {
+            "timestamp": "2025-05-21T13:59:52.965Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ]
       },
