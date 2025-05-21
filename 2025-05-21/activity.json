@@ -2,9 +2,9 @@
   "date": "2025-05-21",
   "projects": {
     "niten": {
-      "totalLinesAdded": 187,
+      "totalLinesAdded": 246,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 20,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx": [
           {
@@ -81,6 +81,80 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-21T13:44:48.364Z",
+            "fileName": "f:\\niten\\frontend\\.huskyrc",
+            "fileType": "unknown",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\frontend\\.eslintignore": [
+          {
+            "timestamp": "2025-05-21T13:45:41.568Z",
+            "fileName": "f:\\niten\\frontend\\.eslintignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-21T13:45:49.328Z",
+            "fileName": "f:\\niten\\frontend\\.eslintignore",
+            "fileType": "unknown",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "f:\\niten\\frontend\\.npmignore": [
+          {
+            "timestamp": "2025-05-21T13:46:25.396Z",
+            "fileName": "f:\\niten\\frontend\\.npmignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-21T13:50:00.727Z",
+            "fileName": "f:\\niten\\frontend\\.npmignore",
+            "fileType": "unknown",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "unknown"
           }
         ]
