@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 387                                          |
-| **Lines Removed** (➖) | 12                                        |
-| **Net Change** (↕)    | 375                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 831                                          |
+| **Lines Removed** (➖) | 43                                        |
+| **Net Change** (↕)    | 788                |
+| **Active Time** (⌚)   | 56 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,11 @@
 - **package.json** (+60, -0)
 - **.eslintrc.json** (+17, -0)
 - **prettier.config.js** (+6, -0)
-- **eslint.config.mjs** (+23, -0)
+- **eslint.config.mjs** (+32, -20)
+- **ProjectCard.tsx** (+117, -1)
+- **Navbar.tsx** (+209, -2)
+- **MapComponent.tsx** (+49, -0)
+- **HeroSection.tsx** (+60, -8)
 
 ## Visualizations
 
@@ -30,12 +34,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 179
+".tsx" : 625
 "unknown" : 81
 ".ts" : 33
 ".json" : 77
 ".js" : 6
-".mjs" : 23
+".mjs" : 52
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +49,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
 "13h" : 12
-"14h" : 16
+"14h" : 26
 ```
 
 
-> **Last Updated:** 5/21/2025, 2:30:27 PM
+> **Last Updated:** 5/21/2025, 2:40:27 PM
