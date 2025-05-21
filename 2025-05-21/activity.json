@@ -2,9 +2,9 @@
   "date": "2025-05-21",
   "projects": {
     "niten": {
-      "totalLinesAdded": 359,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 387,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 44,
       "files": {
         "f:\\niten\\frontend\\app\\[locale]\\careers\\page.tsx": [
           {
@@ -147,6 +147,34 @@
             "fileType": "unknown",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-21T14:20:51.572Z",
+            "fileName": "f:\\niten\\frontend\\.eslintignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-21T14:21:03.989Z",
+            "fileName": "f:\\niten\\frontend\\.eslintignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "niten",
             "content": {
               "added": [],
@@ -302,6 +330,48 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-21T14:25:16.179Z",
+            "fileName": "f:\\niten\\frontend\\.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-21T14:25:27.624Z",
+            "fileName": "f:\\niten\\frontend\\.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-21T14:26:19.690Z",
+            "fileName": "f:\\niten\\frontend\\.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "f:\\niten\\frontend\\prettier.config.js": [
@@ -332,6 +402,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "f:\\niten\\frontend\\eslint.config.mjs": [
+          {
+            "timestamp": "2025-05-21T14:21:09.205Z",
+            "fileName": "f:\\niten\\frontend\\eslint.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-21T14:21:29.796Z",
+            "fileName": "f:\\niten\\frontend\\eslint.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
           }
         ]
       },
