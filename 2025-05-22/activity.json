@@ -1,0 +1,83 @@
+{
+  "date": "2025-05-22",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 412,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx": [
+          {
+            "timestamp": "2025-05-22T08:30:30.640Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts": [
+          {
+            "timestamp": "2025-05-22T08:35:11.129Z",
+            "fileName": "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx": [
+          {
+            "timestamp": "2025-05-22T08:35:30.709Z",
+            "fileName": "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 134,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1,
+        "ts": 5
+      },
+      "changeFrequency": {
+        "8": 6
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\app\\[locale]\\careers\\jobs\\page.tsx",
+        "f:\\niten\\frontend\\app\\api\\book-meeting\\route.ts",
+        "f:\\niten\\frontend\\components\\careers\\FeaturedJobs.tsx"
+      ],
+      "averageChangeSize": 137.33333333333334
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "tsx"
+  ]
+}
