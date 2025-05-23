@@ -1,0 +1,172 @@
+{
+  "date": "2025-05-23",
+  "projects": {
+    "niten": {
+      "totalLinesAdded": 157,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 3,
+      "files": {
+        "f:\\niten\\frontend\\app\\[locale]\\layout.tsx": [
+          {
+            "timestamp": "2025-05-23T09:15:47.937Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-23T09:15:48.019Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-23T09:15:48.418Z",
+            "fileName": "f:\\niten\\frontend\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\niten\\frontend\\package.json": [
+          {
+            "timestamp": "2025-05-23T09:15:48.431Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-23T09:15:48.964Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-23T09:15:59.074Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-23T09:21:18.634Z",
+            "fileName": "f:\\niten\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "f:\\niten\\frontend\\lib\\analytics.ts": [
+          {
+            "timestamp": "2025-05-23T09:15:59.815Z",
+            "fileName": "f:\\niten\\frontend\\lib\\analytics.ts",
+            "fileType": ".ts",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "f:\\niten\\frontend\\types\\gtm.d.ts": [
+          {
+            "timestamp": "2025-05-23T09:16:02.226Z",
+            "fileName": "f:\\niten\\frontend\\types\\gtm.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "niten",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0,
+        "json": 1,
+        "ts": 2
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "f:\\niten\\frontend\\package.json",
+        "f:\\niten\\frontend\\app\\[locale]\\layout.tsx",
+        "f:\\niten\\frontend\\lib\\analytics.ts",
+        "f:\\niten\\frontend\\types\\gtm.d.ts"
+      ],
+      "averageChangeSize": 18.444444444444443
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "json",
+    "tsx"
+  ]
+}
