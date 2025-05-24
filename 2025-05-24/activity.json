@@ -1,0 +1,219 @@
+{
+  "date": "2025-05-24",
+  "projects": {
+    "Elitesun": {
+      "totalLinesAdded": 278,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 10,
+      "files": {
+        "f:\\Elitesun\\.gitignore": [
+          {
+            "timestamp": "2025-05-24T00:09:51.034Z",
+            "fileName": "f:\\Elitesun\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx": [
+          {
+            "timestamp": "2025-05-24T00:09:50.797Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\SideAnimate.tsx": [
+          {
+            "timestamp": "2025-05-24T00:09:50.981Z",
+            "fileName": "f:\\Elitesun\\src\\components\\SideAnimate.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\app\\work\\projects\\Recent-designs.mdx": [
+          {
+            "timestamp": "2025-05-24T00:15:36.149Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-24T00:15:36.351Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-24T00:17:38.949Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          }
+        ],
+        "f:\\Elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx": [
+          {
+            "timestamp": "2025-05-24T00:15:39.473Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-24T00:15:39.519Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-24T00:17:38.962Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          }
+        ],
+        "f:\\Elitesun\\src\\components\\work\\Projects.tsx": [
+          {
+            "timestamp": "2025-05-24T00:15:52.765Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-24T00:16:04.562Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-24T00:17:39.028Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0,
+        "tsx": 4,
+        "mdx": 6
+      },
+      "changeFrequency": {
+        "0": 10
+      },
+      "topFiles": [
+        "f:\\Elitesun\\src\\app\\work\\projects\\Recent-designs.mdx",
+        "f:\\Elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+        "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+        "f:\\Elitesun\\.gitignore",
+        "f:\\Elitesun\\src\\once-ui\\components\\Logo.tsx"
+      ],
+      "averageChangeSize": 26.166666666666668
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 6,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "mdx",
+    "tsx",
+    "unknown"
+  ]
+}
