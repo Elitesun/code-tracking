@@ -4,24 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 799                                          |
-| **Lines Removed** (➖) | 139                                        |
-| **Net Change** (↕)    | 660                |
-| **Active Time** (⌚)   | 45 minutes |
+| **Lines Added** (➕)   | 999                                          |
+| **Lines Removed** (➖) | 150                                        |
+| **Net Change** (↕)    | 849                |
+| **Active Time** (⌚)   | 51 minutes |
 
 
 ## Modified Files
 - **.gitignore** (+39, -0)
 - **Logo.tsx** (+135, -0)
 - **SideAnimate.tsx** (+1, -0)
-- **Recent-designs.mdx** (+19, -4)
-- **More-Recent-designs.mdx** (+19, -4)
-- **Projects.tsx** (+186, -112)
+- **Recent-designs.mdx** (+37, -4)
+- **More-Recent-designs.mdx** (+37, -4)
+- **Projects.tsx** (+186, -123)
 - **page.tsx** (+86, -12)
 - **utils.ts** (+89, -5)
 - **page.tsx** (+91, -1)
 - **lolo.tsx** (+10, -1)
 - **ogCard.tsx** (+124, -0)
+- **ProjectCard.tsx** (+96, -0)
+- **BentoGrid.tsx** (+68, -0)
 
 ## Visualizations
 
@@ -31,8 +33,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 39
-".tsx" : 759
-".mdx" : 46
+".tsx" : 934
+".mdx" : 82
 ".ts" : 94
 ```
 
@@ -46,7 +48,8 @@ title Coding activity by hour (count of changes)
 "09h" : 7
 "14h" : 2
 "15h" : 2
+"16h" : 8
 ```
 
 
-> **Last Updated:** 5/24/2025, 4:03:51 PM
+> **Last Updated:** 5/24/2025, 4:13:51 PM
