@@ -3,7 +3,7 @@
   "projects": {
     "Elitesun": {
       "totalLinesAdded": 500,
-      "totalLinesRemoved": 89,
+      "totalLinesRemoved": 137,
       "totalActiveTime": 35,
       "files": {
         "f:\\Elitesun\\.gitignore": [
@@ -295,6 +295,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-24T01:04:08.576Z",
+            "fileName": "f:\\Elitesun\\src\\components\\work\\Projects.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
