@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 601                                          |
+| **Lines Added** (➕)   | 725                                          |
 | **Lines Removed** (➖) | 139                                        |
-| **Net Change** (↕)    | 462                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Net Change** (↕)    | 586                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,7 @@
 - **utils.ts** (+89, -5)
 - **page.tsx** (+91, -1)
 - **lolo.tsx** (+10, -1)
+- **ogCard.tsx** (+124, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 39
-".tsx" : 561
+".tsx" : 685
 ".mdx" : 46
 ".ts" : 94
 ```
@@ -43,7 +44,8 @@ title Coding activity by hour (count of changes)
 "00h" : 28
 "01h" : 1
 "09h" : 7
+"14h" : 2
 ```
 
 
-> **Last Updated:** 5/24/2025, 9:36:30 AM
+> **Last Updated:** 5/24/2025, 2:23:51 PM
