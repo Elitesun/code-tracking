@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 510                                          |
-| **Lines Removed** (➖) | 110                                        |
-| **Net Change** (↕)    | 400                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Lines Added** (➕)   | 721                                          |
+| **Lines Removed** (➖) | 112                                        |
+| **Net Change** (↕)    | 609                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
@@ -17,8 +17,10 @@
 - **Projects.tsx** (+87, -51)
 - **ProjectCard.tsx** (+110, -28)
 - **Small-Project.mdx** (+21, -6)
-- **Carousel.tsx** (+166, -5)
+- **Carousel.tsx** (+170, -7)
 - **page.tsx** (+37, -0)
+- **MiniCarousel.tsx** (+129, -0)
+- **index.ts** (+78, -0)
 
 ## Visualizations
 
@@ -27,9 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 103
+".ts" : 181
 ".mdx" : 33
-".tsx" : 484
+".tsx" : 619
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 7
 "17h" : 5
-"18h" : 31
+"18h" : 36
 ```
 
 
-> **Last Updated:** 5/25/2025, 6:40:56 PM
+> **Last Updated:** 5/25/2025, 6:50:56 PM
