@@ -4,20 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 502                                          |
-| **Lines Removed** (➖) | 100                                        |
-| **Net Change** (↕)    | 402                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 510                                          |
+| **Lines Removed** (➖) | 110                                        |
+| **Net Change** (↕)    | 400                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
 - **utils.ts** (+89, -14)
 - **More-Recent-designs.mdx** (+0, -3)
 - **Recent-designs.mdx** (+0, -3)
-- **Projects.tsx** (+79, -51)
-- **ProjectCard.tsx** (+110, -24)
-- **Small-Project.mdx** (+21, -2)
-- **Carousel.tsx** (+166, -3)
+- **Projects.tsx** (+87, -51)
+- **ProjectCard.tsx** (+110, -28)
+- **Small-Project.mdx** (+21, -6)
+- **Carousel.tsx** (+166, -5)
 - **page.tsx** (+37, -0)
 
 ## Visualizations
@@ -28,8 +28,8 @@
 pie showData
 title Lines changed by file type
 ".ts" : 103
-".mdx" : 29
-".tsx" : 470
+".mdx" : 33
+".tsx" : 484
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 7
 "17h" : 5
-"18h" : 27
+"18h" : 31
 ```
 
 
-> **Last Updated:** 5/25/2025, 6:30:56 PM
+> **Last Updated:** 5/25/2025, 6:40:56 PM
