@@ -2,9 +2,9 @@
   "date": "2025-05-25",
   "projects": {
     "Elitesun": {
-      "totalLinesAdded": 949,
-      "totalLinesRemoved": 123,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 960,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 88,
       "files": {
         "f:\\Elitesun\\src\\app\\utils\\utils.ts": [
           {
@@ -602,6 +602,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-25T22:40:31.902Z",
+            "fileName": "f:\\Elitesun\\src\\components\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-25T22:42:03.792Z",
+            "fileName": "f:\\Elitesun\\src\\components\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "f:\\Elitesun\\src\\app\\work\\projects\\Small-Project.mdx": [
@@ -832,6 +860,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-25T22:44:49.840Z",
+            "fileName": "f:\\Elitesun\\src\\app\\work\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "f:\\Elitesun\\src\\once-ui\\components\\MiniCarousel.tsx": [
@@ -875,6 +917,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-25T22:40:34.571Z",
+            "fileName": "f:\\Elitesun\\src\\once-ui\\components\\MiniCarousel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
@@ -922,6 +978,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\Elitesun\\src\\app\\globals.css": [
+          {
+            "timestamp": "2025-05-25T22:41:00.313Z",
+            "fileName": "f:\\Elitesun\\src\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
