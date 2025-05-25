@@ -2,7 +2,7 @@
   "date": "2025-05-25",
   "projects": {
     "Elitesun": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 90,
       "totalLinesRemoved": 33,
       "totalActiveTime": 6,
       "files": {
@@ -111,6 +111,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-25T17:39:18.714Z",
+            "fileName": "f:\\Elitesun\\src\\components\\ProjectCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "Elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
