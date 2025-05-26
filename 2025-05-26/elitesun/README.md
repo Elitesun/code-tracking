@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 498                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 497                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Lines Added** (➕)   | 1242                                          |
+| **Lines Removed** (➖) | 17                                        |
+| **Net Change** (↕)    | 1225                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,11 @@
 - **package.json** (+53, -0)
 - **next.config.mjs** (+20, -1)
 - **Header.tsx** (+155, -0)
-- **Logo.tsx** (+135, -0)
+- **Logo.tsx** (+135, -1)
+- **ProjectCard.tsx** (+187, -13)
+- **config.js** (+154, -0)
+- **content.js** (+313, -2)
+- **page.tsx** (+90, -0)
 
 ## Visualizations
 
@@ -26,10 +30,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 385
+".tsx" : 676
 "unknown" : 40
 ".json" : 53
 ".mjs" : 21
+".js" : 469
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,9 +45,9 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "11h" : 1
 "13h" : 5
-"21h" : 2
+"21h" : 11
 "23h" : 1
 ```
 
 
-> **Last Updated:** 5/26/2025, 9:40:38 PM
+> **Last Updated:** 5/26/2025, 9:50:38 PM
