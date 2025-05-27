@@ -488,7 +488,7 @@
       "averageChangeSize": 12.142857142857142
     },
     "ecom_store": {
-      "totalLinesAdded": 1042,
+      "totalLinesAdded": 1118,
       "totalLinesRemoved": 214,
       "totalActiveTime": 59,
       "files": {
@@ -963,6 +963,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 23,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T20:54:54.327Z",
+            "fileName": "f:\\ecom_store\\data\\data.js",
+            "fileType": ".js",
+            "linesAdded": 76,
+            "linesRemoved": 0,
             "projectName": "ecom_store",
             "content": {
               "added": [],
