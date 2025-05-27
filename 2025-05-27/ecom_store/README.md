@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 990                                          |
+| **Lines Added** (➕)   | 1042                                          |
 | **Lines Removed** (➖) | 191                                        |
-| **Net Change** (↕)    | 799                |
-| **Active Time** (⌚)   | 58 minutes |
+| **Net Change** (↕)    | 851                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -19,10 +19,11 @@
 - **tsconfig.json** (+38, -0)
 - **Navigation.tsx** (+43, -0)
 - **Button.jsx** (+10, -0)
-- **data.js** (+287, -0)
+- **data.js** (+330, -0)
 - **Product.jsx** (+98, -0)
 - **data.ts** (+10, -0)
 - **MainPage.jsx** (+79, -0)
+- **next.config.js** (+9, -0)
 
 ## Visualizations
 
@@ -34,7 +35,7 @@ title Lines changed by file type
 ".tsx" : 659
 ".json" : 38
 ".jsx" : 187
-".js" : 287
+".js" : 339
 ".ts" : 10
 ```
 
@@ -44,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 8
-"20h" : 28
+"20h" : 30
 ```
 
 
-> **Last Updated:** 5/27/2025, 8:27:58 PM
+> **Last Updated:** 5/27/2025, 8:37:58 PM

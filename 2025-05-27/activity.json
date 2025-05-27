@@ -488,9 +488,9 @@
       "averageChangeSize": 12.142857142857142
     },
     "ecom_store": {
-      "totalLinesAdded": 990,
+      "totalLinesAdded": 1042,
       "totalLinesRemoved": 191,
-      "totalActiveTime": 58,
+      "totalActiveTime": 59,
       "files": {
         "f:\\ecom_store\\components\\Sidebar.tsx": [
           {
@@ -942,6 +942,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T20:31:27.028Z",
+            "fileName": "f:\\ecom_store\\data\\data.js",
+            "fileType": ".js",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "f:\\ecom_store\\components\\Product.jsx": [
@@ -1018,6 +1032,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "f:\\ecom_store\\next.config.js": [
+          {
+            "timestamp": "2025-05-27T20:30:50.108Z",
+            "fileName": "f:\\ecom_store\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
