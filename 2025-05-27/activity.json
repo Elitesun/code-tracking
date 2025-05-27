@@ -488,9 +488,9 @@
       "averageChangeSize": 12.142857142857142
     },
     "ecom_store": {
-      "totalLinesAdded": 888,
-      "totalLinesRemoved": 107,
-      "totalActiveTime": 43,
+      "totalLinesAdded": 990,
+      "totalLinesRemoved": 191,
+      "totalActiveTime": 58,
       "files": {
         "f:\\ecom_store\\components\\Sidebar.tsx": [
           {
@@ -641,6 +641,90 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:18:43.807Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:20:12.791Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:20:58.156Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 75,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:21:20.689Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:22:45.702Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:23:28.781Z",
+            "fileName": "f:\\ecom_store\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "ecom_store",
             "content": {
               "added": [],
@@ -880,6 +964,52 @@
             "fileName": "f:\\ecom_store\\components\\Product.jsx",
             "fileType": ".jsx",
             "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "f:\\ecom_store\\types\\data.ts": [
+          {
+            "timestamp": "2025-05-27T20:18:09.707Z",
+            "fileName": "f:\\ecom_store\\types\\data.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "f:\\ecom_store\\app\\MainPage.jsx": [
+          {
+            "timestamp": "2025-05-27T20:20:59.574Z",
+            "fileName": "f:\\ecom_store\\app\\MainPage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T20:21:01.306Z",
+            "fileName": "f:\\ecom_store\\app\\MainPage.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 78,
             "linesRemoved": 0,
             "projectName": "ecom_store",
             "content": {
