@@ -1711,9 +1711,9 @@
       "averageChangeSize": 34.166666666666664
     },
     "elitesun": {
-      "totalLinesAdded": 81,
+      "totalLinesAdded": 168,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 12,
+      "totalActiveTime": 18,
       "files": {
         "f:\\elitesun\\.next\\package.json": [
           {
@@ -1833,6 +1833,38 @@
             },
             "duration": 1,
             "language": "mdx"
+          }
+        ],
+        "f:\\elitesun\\src\\app\\work\\projects\\Product-Listing.mdx": [
+          {
+            "timestamp": "2025-05-27T23:01:21.826Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Product-Listing.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          }
+        ],
+        "f:\\elitesun\\src\\app\\work\\page.tsx": [
+          {
+            "timestamp": "2025-05-27T23:05:01.565Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ]
       },
