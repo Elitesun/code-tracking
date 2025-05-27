@@ -486,6 +486,109 @@
         "f:\\React Ecom\\src\\index.css"
       ],
       "averageChangeSize": 12.142857142857142
+    },
+    "ecom_store": {
+      "totalLinesAdded": 184,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 9,
+      "files": {
+        "f:\\ecom_store\\components\\Sidebar.tsx": [
+          {
+            "timestamp": "2025-05-27T19:48:33.824Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T19:48:36.720Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T19:49:12.918Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T19:49:38.235Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T19:49:55.906Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T19:54:00.424Z",
+            "fileName": "f:\\ecom_store\\components\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 9
+      },
+      "changeFrequency": {
+        "19": 9
+      },
+      "topFiles": [
+        "f:\\ecom_store\\components\\Sidebar.tsx"
+      ],
+      "averageChangeSize": 34.166666666666664
     }
   },
   "totalActiveTime": 1,
