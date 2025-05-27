@@ -1709,6 +1709,147 @@
         "f:\\ecom_store\\components\\Sidebar.tsx"
       ],
       "averageChangeSize": 34.166666666666664
+    },
+    "elitesun": {
+      "totalLinesAdded": 81,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 12,
+      "files": {
+        "f:\\elitesun\\.next\\package.json": [
+          {
+            "timestamp": "2025-05-27T22:50:25.384Z",
+            "fileName": "f:\\elitesun\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "f:\\elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx": [
+          {
+            "timestamp": "2025-05-27T22:52:10.692Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          }
+        ],
+        "f:\\elitesun\\src\\app\\work\\projects\\Recent-designs.mdx": [
+          {
+            "timestamp": "2025-05-27T22:52:52.775Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Recent-designs.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          }
+        ],
+        "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx": [
+          {
+            "timestamp": "2025-05-27T22:53:39.886Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-27T22:57:36.171Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-27T22:57:43.628Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-27T22:58:51.876Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdx"
+          },
+          {
+            "timestamp": "2025-05-27T22:59:28.554Z",
+            "fileName": "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+            "fileType": ".mdx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "elitesun",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "mdx": 12
+      },
+      "changeFrequency": {
+        "22": 12
+      },
+      "topFiles": [
+        "f:\\elitesun\\src\\app\\work\\projects\\Small-Project.mdx",
+        "f:\\elitesun\\.next\\package.json",
+        "f:\\elitesun\\src\\app\\work\\projects\\More-Recent-designs.mdx",
+        "f:\\elitesun\\src\\app\\work\\projects\\Recent-designs.mdx"
+      ],
+      "averageChangeSize": 11.875
     }
   },
   "totalActiveTime": 1,
