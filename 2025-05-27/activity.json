@@ -488,9 +488,9 @@
       "averageChangeSize": 12.142857142857142
     },
     "ecom_store": {
-      "totalLinesAdded": 1118,
-      "totalLinesRemoved": 214,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 1178,
+      "totalLinesRemoved": 241,
+      "totalActiveTime": 67,
       "files": {
         "f:\\ecom_store\\components\\Sidebar.tsx": [
           {
@@ -912,6 +912,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:02:37.121Z",
+            "fileName": "f:\\ecom_store\\components\\Button.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "f:\\ecom_store\\data\\data.js": [
@@ -984,6 +998,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T21:07:36.056Z",
+            "fileName": "f:\\ecom_store\\data\\data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
           }
         ],
         "f:\\ecom_store\\components\\Product.jsx": [
@@ -1007,6 +1035,20 @@
             "fileType": ".jsx",
             "linesAdded": 97,
             "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:05:36.675Z",
+            "fileName": "f:\\ecom_store\\components\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 25,
             "projectName": "ecom_store",
             "content": {
               "added": [],
@@ -1076,6 +1118,50 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "f:\\ecom_store\\components\\Navigation.jsx": [
+          {
+            "timestamp": "2025-05-27T21:02:35.182Z",
+            "fileName": "f:\\ecom_store\\components\\Navigation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:02:39.394Z",
+            "fileName": "f:\\ecom_store\\components\\Navigation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:05:23.182Z",
+            "fileName": "f:\\ecom_store\\components\\Navigation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
           }
         ]
       },
