@@ -488,9 +488,9 @@
       "averageChangeSize": 12.142857142857142
     },
     "ecom_store": {
-      "totalLinesAdded": 5536,
-      "totalLinesRemoved": 375,
-      "totalActiveTime": 111,
+      "totalLinesAdded": 5627,
+      "totalLinesRemoved": 461,
+      "totalActiveTime": 122,
       "files": {
         "f:\\ecom_store\\components\\Sidebar.tsx": [
           {
@@ -1126,6 +1126,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:31:48.739Z",
+            "fileName": "f:\\ecom_store\\components\\Product.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
           }
         ],
         "f:\\ecom_store\\types\\data.ts": [
@@ -1581,6 +1595,64 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:31:53.317Z",
+            "fileName": "f:\\ecom_store\\components\\LikeButton.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\ecom_store\\components\\ProductCard.tsx": [
+          {
+            "timestamp": "2025-05-27T21:32:21.848Z",
+            "fileName": "f:\\ecom_store\\components\\ProductCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:33:56.805Z",
+            "fileName": "f:\\ecom_store\\components\\ProductCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T21:35:16.233Z",
+            "fileName": "f:\\ecom_store\\components\\ProductCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 85,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
