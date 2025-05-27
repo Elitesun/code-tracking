@@ -489,7 +489,7 @@
     },
     "ecom_store": {
       "totalLinesAdded": 1042,
-      "totalLinesRemoved": 191,
+      "totalLinesRemoved": 214,
       "totalActiveTime": 59,
       "files": {
         "f:\\ecom_store\\components\\Sidebar.tsx": [
@@ -955,6 +955,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-27T20:45:12.826Z",
+            "fileName": "f:\\ecom_store\\data\\data.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "ecom_store",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
