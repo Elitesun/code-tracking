@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 2722,
+      "totalLinesAdded": 2847,
       "totalLinesRemoved": 846,
-      "totalActiveTime": 153,
+      "totalActiveTime": 157,
       "files": {
         "f:\\advertise\\.next\\package.json": [
           {
@@ -1518,6 +1518,36 @@
             "fileName": "f:\\advertise\\components\\ui\\effects\\infinite-sider.tsx",
             "fileType": ".tsx",
             "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\advertise\\components\\Preveiw1.tsx": [
+          {
+            "timestamp": "2025-05-29T17:06:23.642Z",
+            "fileName": "f:\\advertise\\components\\Preveiw1.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T17:06:25.698Z",
+            "fileName": "f:\\advertise\\components\\Preveiw1.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 124,
             "linesRemoved": 0,
             "projectName": "advertise",
             "content": {
