@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4136                                          |
+| **Lines Added** (➕)   | 4184                                          |
 | **Lines Removed** (➖) | 1233                                        |
-| **Net Change** (↕)    | 2903                |
-| **Active Time** (⌚)   | 299 minutes |
+| **Net Change** (↕)    | 2951                |
+| **Active Time** (⌚)   | 301 minutes |
 
 
 ## Modified Files
@@ -30,10 +30,11 @@
 - **aos.tsx** (+137, -21)
 - **text-flip.tsx** (+105, -0)
 - **AOSInit.tsx** (+116, -100)
-- **Revenue.tsx** (+73, -25)
-- **Support.tsx** (+97, -15)
+- **Revenue.tsx** (+107, -25)
+- **Support.tsx** (+100, -15)
 - **fonts.ts** (+14, -0)
 - **tailwind.config.ts** (+53, -52)
+- **next.config.ts** (+11, -0)
 
 ## Visualizations
 
@@ -43,9 +44,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".tsx" : 5084
+".tsx" : 5121
 ".css" : 161
-".ts" : 119
+".ts" : 130
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,9 +68,9 @@ title Coding activity by hour (count of changes)
 "19h" : 20
 "20h" : 18
 "21h" : 28
-"22h" : 8
+"22h" : 12
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/29/2025, 10:16:19 PM
+> **Last Updated:** 5/29/2025, 10:26:19 PM
