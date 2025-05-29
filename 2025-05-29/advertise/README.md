@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4011                                          |
-| **Lines Removed** (➖) | 1147                                        |
-| **Net Change** (↕)    | 2864                |
-| **Active Time** (⌚)   | 277 minutes |
+| **Lines Added** (➕)   | 4117                                          |
+| **Lines Removed** (➖) | 1174                                        |
+| **Net Change** (↕)    | 2943                |
+| **Active Time** (⌚)   | 291 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
-- **Features.tsx** (+1306, -796)
+- **Features.tsx** (+1310, -807)
 - **card.tsx** (+80, -0)
 - **page.tsx** (+35, -1)
 - **Hero.tsx** (+425, -17)
-- **layout.tsx** (+80, -8)
+- **layout.tsx** (+82, -22)
 - **Nav.tsx** (+259, -14)
 - **globals.css** (+152, -9)
 - **HowItWorks.tsx** (+247, -48)
@@ -31,7 +31,9 @@
 - **text-flip.tsx** (+105, -0)
 - **AOSInit.tsx** (+116, -100)
 - **Revenue.tsx** (+73, -25)
-- **Support.tsx** (+63, -11)
+- **Support.tsx** (+96, -11)
+- **fonts.ts** (+14, -0)
+- **tailwind.config.ts** (+53, -2)
 
 ## Visualizations
 
@@ -41,8 +43,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".tsx" : 4992
+".tsx" : 5056
 ".css" : 161
+".ts" : 69
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,9 +66,9 @@ title Coding activity by hour (count of changes)
 "18h" : 15
 "19h" : 20
 "20h" : 18
-"21h" : 16
+"21h" : 28
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/29/2025, 9:46:19 PM
+> **Last Updated:** 5/29/2025, 9:56:19 PM
