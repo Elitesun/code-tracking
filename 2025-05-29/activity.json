@@ -2,7 +2,7 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 1935,
+      "totalLinesAdded": 2024,
       "totalLinesRemoved": 668,
       "totalActiveTime": 115,
       "files": {
@@ -659,6 +659,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 81,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T11:47:59.151Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 89,
+            "linesRemoved": 0,
             "projectName": "advertise",
             "content": {
               "added": [],
