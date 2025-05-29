@@ -1,0 +1,96 @@
+{
+  "date": "2025-05-29",
+  "projects": {
+    "advertise": {
+      "totalLinesAdded": 148,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 6,
+      "files": {
+        "f:\\advertise\\.next\\package.json": [
+          {
+            "timestamp": "2025-05-28T23:58:44.129Z",
+            "fileName": "f:\\advertise\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-28T23:59:31.476Z",
+            "fileName": "f:\\advertise\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "f:\\advertise\\components\\Features.tsx": [
+          {
+            "timestamp": "2025-05-29T00:02:49.740Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T00:03:31.825Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1,
+        "tsx": 5
+      },
+      "changeFrequency": {
+        "0": 5,
+        "23": 1
+      },
+      "topFiles": [
+        "f:\\advertise\\.next\\package.json",
+        "f:\\advertise\\components\\Features.tsx"
+      ],
+      "averageChangeSize": 37.5
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0,
+    23
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "json"
+  ]
+}
