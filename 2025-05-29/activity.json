@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 2024,
-      "totalLinesRemoved": 668,
-      "totalActiveTime": 115,
+      "totalLinesAdded": 2057,
+      "totalLinesRemoved": 738,
+      "totalActiveTime": 118,
       "files": {
         "f:\\advertise\\.next\\package.json": [
           {
@@ -679,6 +679,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T12:10:22.679Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T12:11:11.530Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T12:11:52.291Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T12:12:07.800Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
