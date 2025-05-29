@@ -3,8 +3,8 @@
   "projects": {
     "advertise": {
       "totalLinesAdded": 3986,
-      "totalLinesRemoved": 1111,
-      "totalActiveTime": 244,
+      "totalLinesRemoved": 1120,
+      "totalActiveTime": 249,
       "files": {
         "f:\\advertise\\.next\\package.json": [
           {
@@ -2423,6 +2423,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T21:08:24.215Z",
+            "fileName": "f:\\advertise\\components\\Revenue.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
