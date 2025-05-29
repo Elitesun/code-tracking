@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 2512,
+      "totalLinesAdded": 2613,
       "totalLinesRemoved": 820,
-      "totalActiveTime": 139,
+      "totalActiveTime": 143,
       "files": {
         "f:\\advertise\\.next\\package.json": [
           {
@@ -922,6 +922,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T14:27:07.824Z",
+            "fileName": "f:\\advertise\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T14:27:32.566Z",
+            "fileName": "f:\\advertise\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\advertise\\components\\Hero.tsx": [
@@ -1360,6 +1388,36 @@
             "fileName": "f:\\advertise\\components\\ui\\effects\\marquee.tsx",
             "fileType": ".tsx",
             "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "f:\\advertise\\components\\Preview.tsx": [
+          {
+            "timestamp": "2025-05-29T14:26:27.034Z",
+            "fileName": "f:\\advertise\\components\\Preview.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T14:26:46.412Z",
+            "fileName": "f:\\advertise\\components\\Preview.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 98,
             "linesRemoved": 0,
             "projectName": "advertise",
             "content": {
