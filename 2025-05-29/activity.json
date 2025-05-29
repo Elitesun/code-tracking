@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 1798,
-      "totalLinesRemoved": 573,
-      "totalActiveTime": 106,
+      "totalLinesAdded": 1935,
+      "totalLinesRemoved": 587,
+      "totalActiveTime": 115,
       "files": {
         "f:\\advertise\\.next\\package.json": [
           {
@@ -624,6 +624,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T10:38:33.086Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T10:38:56.870Z",
+            "fileName": "f:\\advertise\\components\\Features.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "f:\\advertise\\components\\ui\\card.tsx": [
@@ -942,6 +970,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "f:\\advertise\\app\\globals.css": [
+          {
+            "timestamp": "2025-05-29T10:36:42.643Z",
+            "fileName": "f:\\advertise\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-29T10:36:51.438Z",
+            "fileName": "f:\\advertise\\app\\globals.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
