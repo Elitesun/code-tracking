@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4184                                          |
-| **Lines Removed** (➖) | 1233                                        |
-| **Net Change** (↕)    | 2951                |
-| **Active Time** (⌚)   | 301 minutes |
+| **Lines Added** (➕)   | 4194                                          |
+| **Lines Removed** (➖) | 1236                                        |
+| **Net Change** (↕)    | 2958                |
+| **Active Time** (⌚)   | 307 minutes |
 
 
 ## Modified Files
@@ -34,7 +34,7 @@
 - **Support.tsx** (+100, -15)
 - **fonts.ts** (+14, -0)
 - **tailwind.config.ts** (+53, -52)
-- **next.config.ts** (+11, -0)
+- **next.config.ts** (+21, -3)
 
 ## Visualizations
 
@@ -46,7 +46,7 @@ title Lines changed by file type
 ".json" : 5
 ".tsx" : 5121
 ".css" : 161
-".ts" : 130
+".ts" : 143
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -68,9 +68,9 @@ title Coding activity by hour (count of changes)
 "19h" : 20
 "20h" : 18
 "21h" : 28
-"22h" : 12
+"22h" : 14
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/29/2025, 10:26:19 PM
+> **Last Updated:** 5/29/2025, 10:36:19 PM
