@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3286                                          |
-| **Lines Removed** (➖) | 915                                        |
-| **Net Change** (↕)    | 2371                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Lines Added** (➕)   | 3528                                          |
+| **Lines Removed** (➖) | 936                                        |
+| **Net Change** (↕)    | 2592                |
+| **Active Time** (⌚)   | 191 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,8 @@
 - **LogoIcon.tsx** (+119, -57)
 - **Integrations.tsx** (+142, -11)
 - **Footer.tsx** (+165, -0)
+- **aos.tsx** (+137, -21)
+- **text-flip.tsx** (+105, -0)
 
 ## Visualizations
 
@@ -36,7 +38,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".tsx" : 4035
+".tsx" : 4298
 ".css" : 161
 ```
 
@@ -56,8 +58,9 @@ title Coding activity by hour (count of changes)
 "16h" : 5
 "17h" : 13
 "18h" : 15
+"19h" : 5
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/29/2025, 7:06:19 PM
+> **Last Updated:** 5/29/2025, 7:16:19 PM
