@@ -2,7 +2,7 @@
   "date": "2025-05-29",
   "projects": {
     "advertise": {
-      "totalLinesAdded": 3031,
+      "totalLinesAdded": 3076,
       "totalLinesRemoved": 855,
       "totalActiveTime": 164,
       "files": {
@@ -1599,6 +1599,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T17:35:28.076Z",
+            "fileName": "f:\\advertise\\components\\LogoIcon.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "advertise",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
