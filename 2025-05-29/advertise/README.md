@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2847                                          |
-| **Lines Removed** (➖) | 846                                        |
-| **Net Change** (↕)    | 2001                |
-| **Active Time** (⌚)   | 157 minutes |
+| **Lines Added** (➕)   | 3031                                          |
+| **Lines Removed** (➖) | 855                                        |
+| **Net Change** (↕)    | 2176                |
+| **Active Time** (⌚)   | 164 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
 - **Features.tsx** (+1269, -768)
 - **card.tsx** (+80, -0)
-- **page.tsx** (+29, -1)
+- **page.tsx** (+31, -1)
 - **Hero.tsx** (+416, -17)
 - **layout.tsx** (+76, -6)
 - **Nav.tsx** (+259, -13)
@@ -24,6 +24,8 @@
 - **Preview.tsx** (+116, -26)
 - **infinite-sider.tsx** (+92, -0)
 - **Preveiw1.tsx** (+125, -0)
+- **LogoIcon.tsx** (+57, -8)
+- **Integrations.tsx** (+125, -1)
 
 ## Visualizations
 
@@ -33,7 +35,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".tsx" : 3527
+".tsx" : 3720
 ".css" : 161
 ```
 
@@ -51,9 +53,9 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 10
 "16h" : 5
-"17h" : 4
+"17h" : 9
 "23h" : 2
 ```
 
 
-> **Last Updated:** 5/29/2025, 5:16:19 PM
+> **Last Updated:** 5/29/2025, 5:26:19 PM
